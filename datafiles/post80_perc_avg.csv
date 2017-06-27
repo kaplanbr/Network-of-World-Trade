@@ -1,0 +1,6663 @@
+exporter,importer,post80 
+Afghanistan,Ireland,0.0002
+Afghanistan,Singapore,0.00545
+Afghanistan,Colombia,0.0001
+Afghanistan,Kuwait,0.0002
+Afghanistan,Australia,0.0001
+Afghanistan,Algeria,0.0001
+Afghanistan,Malaysia,0.00085
+Afghanistan,South Africa,0.0001
+Afghanistan,Qatar,0.0001
+Afghanistan,Turkey,0.00045
+Afghanistan,Ecuador,0.0001
+Afghanistan,Philippines,0.0001
+Afghanistan,Bulgaria,0.00115
+Afghanistan,Chile,0.0001
+Afghanistan,Canada,0.0002
+Afghanistan,Morocco,0.0001
+Afghanistan,Jordan,0.0001
+Afghanistan,Untd Arab Em,0.00015
+Afghanistan,Indonesia,0.00065
+Afghanistan,Norway,0.00015
+Afghanistan,Spain,0.00035
+Afghanistan,Nigeria,0.0002
+Afghanistan,Greece,0.0002
+Afghanistan,Sweden,0.0002
+Afghanistan,Iran,0.00235
+Afghanistan,Thailand,0.00115
+Afghanistan,Denmark,0.0003
+Afghanistan,Austria,0.00035
+Afghanistan,Japan,0.0139
+Afghanistan,Finland,0.00045
+Afghanistan,Mexico,0.00045
+Afghanistan,Brazil,0.0004
+Afghanistan,Saudi Arabia,0.00045
+Afghanistan,Netherlands,0.00125
+Afghanistan,China,0.00365
+Afghanistan,Italy,0.0009
+Afghanistan,Senegal,0.0022
+Afghanistan,USA,0.002
+Afghanistan,India,0.00515
+Afghanistan,UK,0.00385
+Afghanistan,Pakistan,0.00705
+Algeria,Finland,0.00075
+Algeria,South Africa,0.0001
+Algeria,Egypt,0.00025
+Algeria,Syria,0.00155
+Algeria,Costa Rica,0.00015
+Algeria,Indonesia,0.0009
+Algeria,Madagascar,0.00115
+Algeria,Pakistan,0.0001
+Algeria,Cuba,0.0008
+Algeria,Ireland,0.00035
+Algeria,Australia,0.00035
+Algeria,Chile,0.0001
+Algeria,Venezuela,0.0001
+Algeria,India,0.00025
+Algeria,Colombia,0.00015
+Algeria,Oman,0.0001
+Algeria,Malaysia,0.0002
+Algeria,Philippines,0.0001
+Algeria,Peru,0.0002
+Algeria,Mauritius,0.0001
+Algeria,Dominican Rp,0.00045
+Algeria,China,0.00125
+Algeria,Iraq,0.0002
+Algeria,Norway,0.00025
+Algeria,Sudan,0.00015
+Algeria,Argentina,0.00075
+Algeria,Denmark,0.0006
+Algeria,Zimbabwe,0.0004
+Algeria,Mali,0.0024
+Algeria,Uganda,0.00055
+Algeria,Nigeria,0.0003
+Algeria,Iran,0.0003
+Algeria,Thailand,0.0002
+Algeria,Jamaica,0.0004
+Algeria,Ecuador,0.0003
+Algeria,Singapore,0.0003
+Algeria,Cambodia,0.00075
+Algeria,Sri Lanka,0.0005
+Algeria,Togo,0.0004
+Algeria,Panama,0.00035
+Algeria,Sweden,0.0013
+Algeria,Chad,0.00045
+Algeria,Trinidad Tbg,0.0006
+Algeria,Kenya,0.00045
+Algeria,Greece,0.00095
+Algeria,Jordan,0.00115
+Algeria,Senegal,0.00075
+Algeria,Seychelles,0.00095
+Algeria,Burkina Faso,0.0009
+Algeria,Mexico,0.00105
+Algeria,Cote Divoire,0.0023
+Algeria,Ghana,0.00105
+Algeria,Nepal,0.001
+Algeria,Sierra Leone,0.0016
+Algeria,Benin,0.0011
+Algeria,Bulgaria,0.00165
+Algeria,Cyprus,0.00125
+Algeria,Niger,0.0014
+Algeria,Portugal,0.0016
+Algeria,Morocco,0.00195
+Algeria,Japan,0.0057
+Algeria,Mozambique,0.00195
+Algeria,Austria,0.00345
+Algeria,Paraguay,0.00215
+Algeria,Canada,0.0055
+Algeria,Turkey,0.00485
+Algeria,UK,0.00505
+Algeria,Malta,0.00355
+Algeria,Tunisia,0.00595
+Algeria,Zambia,0.005
+Algeria,Brazil,0.0055
+Algeria,Netherlands,0.00955
+Algeria,Spain,0.01525
+Algeria,Suriname,0.01195
+Algeria,Mauritania,0.01405
+Algeria,Italy,0.0317
+Algeria,USA,0.0322
+Argentina,Burkina Faso,0.0001
+Argentina,Austria,0.0002
+Argentina,Chad,0.0001
+Argentina,Cameroon,0.0001
+Argentina,Afghanistan,0.0001
+Argentina,Saudi Arabia,0.00025
+Argentina,Sweden,0.0005
+Argentina,Sudan,0.0002
+Argentina,New Zealand,0.0003
+Argentina,Finland,0.0004
+Argentina,Norway,0.0002
+Argentina,Iraq,0.0003
+Argentina,Philippines,0.0002
+Argentina,Untd Arab Em,0.0003
+Argentina,Ireland,0.00045
+Argentina,Australia,0.00035
+Argentina,Barbados,0.0003
+Argentina,Sierra Leone,0.0004
+Argentina,Cote Divoire,0.0011
+Argentina,Nepal,0.0004
+Argentina,Kuwait,0.0003
+Argentina,India,0.00035
+Argentina,Greece,0.0003
+Argentina,Zambia,0.0003
+Argentina,Nigeria,0.00085
+Argentina,Canada,0.0007
+Argentina,Qatar,0.0008
+Argentina,Ghana,0.00035
+Argentina,Mauritania,0.0007
+Argentina,Oman,0.0004
+Argentina,Indonesia,0.0005
+Argentina,Gabon,0.00135
+Argentina,Turkey,0.0004
+Argentina,Togo,0.0008
+Argentina,Suriname,0.0058
+Argentina,Israel,0.00075
+Argentina,Sri Lanka,0.00055
+Argentina,Madagascar,0.00045
+Argentina,Singapore,0.00125
+Argentina,Jamaica,0.00085
+Argentina,Benin,0.00065
+Argentina,Zimbabwe,0.00055
+Argentina,Honduras,0.0006
+Argentina,Pakistan,0.00055
+Argentina,Thailand,0.0007
+Argentina,Senegal,0.0011
+Argentina,Malawi,0.0016
+Argentina,Trinidad Tbg,0.00105
+Argentina,UK,0.00125
+Argentina,Denmark,0.00075
+Argentina,Rwanda,0.0012
+Argentina,Mexico,0.0013
+Argentina,Algeria,0.00075
+Argentina,Hong Kong,0.0012
+Argentina,Portugal,0.0008
+Argentina,Guatemala,0.0007
+Argentina,South Africa,0.0009
+Argentina,El Salvador,0.0007
+Argentina,Bahrain,0.00125
+Argentina,Bulgaria,0.0011
+Argentina,Costa Rica,0.00105
+Argentina,Morocco,0.0009
+Argentina,Bangladesh,0.0009
+Argentina,Cyprus,0.0011
+Argentina,Malta,0.00145
+Argentina,China,0.00195
+Argentina,Malaysia,0.00155
+Argentina,Kenya,0.0011
+Argentina,Panama,0.0032
+Argentina,Mozambique,0.0018
+Argentina,Guyana,0.0016
+Argentina,Syria,0.0023
+Argentina,Nicaragua,0.0012
+Argentina,Colombia,0.00155
+Argentina,Ecuador,0.00265
+Argentina,Venezuela,0.00155
+Argentina,Dominican Rp,0.0014
+Argentina,Iran,0.0027
+Argentina,Japan,0.00305
+Argentina,Netherlands,0.00185
+Argentina,Tunisia,0.0018
+Argentina,Spain,0.00285
+Argentina,Italy,0.0037
+Argentina,Egypt,0.0037
+Argentina,Jordan,0.0038
+Argentina,Mauritius,0.0021
+Argentina,Cuba,0.00245
+Argentina,Peru,0.00395
+Argentina,USA,0.0123
+Argentina,Brazil,0.01655
+Argentina,Chile,0.01405
+Argentina,Bolivia,0.03225
+Argentina,Uruguay,0.0243
+Argentina,Paraguay,0.03305
+Australia,Burkina Faso,0.0001
+Australia,Afghanistan,0.0001
+Australia,Venezuela,0.0001
+Australia,Senegal,0.0001
+Australia,Gabon,0.00115
+Australia,Benin,0.00055
+Australia,Syria,0.0002
+Australia,Cuba,0.0001
+Australia,Costa Rica,0.0003
+Australia,Rwanda,0.0001
+Australia,Cote Divoire,0.00025
+Australia,Bolivia,0.00025
+Australia,Colombia,0.00015
+Australia,Nigeria,0.00035
+Australia,Honduras,0.00025
+Australia,Panama,0.0003
+Australia,Tunisia,0.0002
+Australia,Chad,0.0002
+Australia,Burundi,0.00015
+Australia,Nicaragua,0.00015
+Australia,Uganda,0.0006
+Australia,Austria,0.00065
+Australia,Morocco,0.00035
+Australia,El Salvador,0.0002
+Australia,Sudan,0.00025
+Australia,Greece,0.00035
+Australia,Niger,0.0003
+Australia,Malawi,0.002
+Australia,Denmark,0.0009
+Australia,Dominican Rp,0.0002
+Australia,Guatemala,0.0002
+Australia,Ecuador,0.00025
+Australia,Argentina,0.00035
+Australia,Ireland,0.0026
+Australia,Bulgaria,0.0003
+Australia,Mali,0.00025
+Australia,Madagascar,0.00025
+Australia,Uruguay,0.0003
+Australia,Mexico,0.00035
+Australia,Cyprus,0.0003
+Australia,Togo,0.0013
+Australia,Portugal,0.00055
+Australia,Brazil,0.0007
+Australia,Algeria,0.00035
+Australia,Peru,0.00045
+Australia,Sweden,0.002
+Australia,Zambia,0.00055
+Australia,Zimbabwe,0.0021
+Australia,Nepal,0.0004
+Australia,Mauritania,0.0007
+Australia,Spain,0.00075
+Australia,Suriname,0.0008
+Australia,Norway,0.00085
+Australia,Jamaica,0.001
+Australia,Iceland,0.00055
+Australia,Sierra Leone,0.00065
+Australia,Kenya,0.0009
+Australia,Israel,0.00155
+Australia,Barbados,0.0006
+Australia,Finland,0.00195
+Australia,Netherlands,0.00135
+Australia,Mozambique,0.0007
+Australia,Turkey,0.0007
+Australia,Chile,0.001
+Australia,Malta,0.00105
+Australia,Guyana,0.0014
+Australia,Iran,0.00105
+Australia,Iraq,0.0012
+Australia,Canada,0.00235
+Australia,Trinidad Tbg,0.0012
+Australia,Bangladesh,0.0014
+Australia,Cambodia,0.00115
+Australia,India,0.0017
+Australia,Ghana,0.00155
+Australia,South Africa,0.0022
+Australia,Saudi Arabia,0.00375
+Australia,Italy,0.0035
+Australia,Jordan,0.0025
+Australia,Pakistan,0.0027
+Australia,Qatar,0.0058
+Australia,Egypt,0.002
+Australia,Untd Arab Em,0.00505
+Australia,Seychelles,0.00295
+Australia,UK,0.00715
+Australia,Kuwait,0.00515
+Australia,Sri Lanka,0.00435
+Australia,Oman,0.00405
+Australia,China,0.0064
+Australia,Thailand,0.00645
+Australia,Indonesia,0.0079
+Australia,Philippines,0.00625
+Australia,Bahrain,0.0083
+Australia,Mauritius,0.00645
+Australia,Hong Kong,0.013
+Australia,USA,0.02235
+Australia,Malaysia,0.01815
+Australia,Singapore,0.0233
+Australia,Japan,0.03085
+Australia,New Zealand,0.04325
+Austria,Gabon,0.00035
+Austria,Bangladesh,0.00025
+Austria,Guatemala,0.0006
+Austria,Bolivia,0.0005
+Austria,Cuba,0.00015
+Austria,Paraguay,0.00035
+Austria,Panama,0.00095
+Austria,Rwanda,0.0002
+Austria,Burkina Faso,0.0002
+Austria,Chad,0.00065
+Austria,Dominican Rp,0.00015
+Austria,Afghanistan,0.00035
+Austria,Uganda,0.0004
+Austria,Cote Divoire,0.00125
+Austria,Jamaica,0.00025
+Austria,Argentina,0.0002
+Austria,Colombia,0.00045
+Austria,Madagascar,0.0006
+Austria,Suriname,0.00055
+Austria,Ecuador,0.0006
+Austria,El Salvador,0.00115
+Austria,India,0.00055
+Austria,Trinidad Tbg,0.00025
+Austria,Mozambique,0.00035
+Austria,Peru,0.00035
+Austria,Cameroon,0.0009
+Austria,Philippines,0.0005
+Austria,Uruguay,0.00055
+Austria,Pakistan,0.00055
+Austria,Venezuela,0.00025
+Austria,Honduras,0.0018
+Austria,Chile,0.00055
+Austria,Mauritius,0.0007
+Austria,Cambodia,0.00065
+Austria,Sudan,0.0003
+Austria,Nepal,0.0007
+Austria,Morocco,0.0006
+Austria,Mexico,0.00045
+Austria,Sri Lanka,0.0008
+Austria,Costa Rica,0.0021
+Austria,Niger,0.00045
+Austria,New Zealand,0.00055
+Austria,Nicaragua,0.00165
+Austria,Ghana,0.0012
+Austria,Brazil,0.0009
+Austria,Qatar,0.0007
+Austria,Barbados,0.00045
+Austria,Thailand,0.0009
+Austria,Zambia,0.0006
+Austria,Oman,0.0008
+Austria,Greenland,0.00045
+Austria,Burundi,0.00085
+Austria,Kenya,0.00075
+Austria,South Africa,0.00105
+Austria,Malaysia,0.00145
+Austria,Mali,0.0006
+Austria,Indonesia,0.0008
+Austria,Untd Arab Em,0.00065
+Austria,Togo,0.0016
+Austria,Bahrain,0.00065
+Austria,Mauritania,0.00065
+Austria,Australia,0.00065
+Austria,Israel,0.0011
+Austria,Malawi,0.0012
+Austria,Zimbabwe,0.00135
+Austria,Ireland,0.0026
+Austria,Saudi Arabia,0.0013
+Austria,Sierra Leone,0.00185
+Austria,Seychelles,0.00105
+Austria,Iceland,0.00105
+Austria,Hong Kong,0.0015
+Austria,Senegal,0.0008
+Austria,Canada,0.00155
+Austria,Iraq,0.0015
+Austria,Nigeria,0.00355
+Austria,Kuwait,0.0009
+Austria,China,0.0023
+Austria,Egypt,0.00125
+Austria,Tunisia,0.00205
+Austria,Portugal,0.00245
+Austria,Iran,0.00125
+Austria,Turkey,0.0018
+Austria,Guyana,0.00135
+Austria,Greece,0.0018
+Austria,Norway,0.00165
+Austria,Finland,0.00285
+Austria,Singapore,0.0023
+Austria,Syria,0.0023
+Austria,Denmark,0.0026
+Austria,Malta,0.0024
+Austria,Algeria,0.00345
+Austria,Cyprus,0.00205
+Austria,Japan,0.00685
+Austria,Sweden,0.0043
+Austria,Jordan,0.0022
+Austria,Spain,0.0041
+Austria,Netherlands,0.00725
+Austria,Bulgaria,0.0056
+Austria,UK,0.00875
+Austria,USA,0.0111
+Austria,Benin,0.0084
+Austria,Italy,0.0236
+Bahrain,Jordan,0.0001
+Bahrain,Austria,0.00065
+Bahrain,Finland,0.0004
+Bahrain,Mexico,0.00015
+Bahrain,Greece,0.0004
+Bahrain,Portugal,0.00025
+Bahrain,Morocco,0.0003
+Bahrain,Canada,0.00075
+Bahrain,Colombia,0.0006
+Bahrain,Norway,0.0006
+Bahrain,Nigeria,0.0007
+Bahrain,Denmark,0.0018
+Bahrain,Sri Lanka,0.00045
+Bahrain,South Africa,0.0013
+Bahrain,Sweden,0.0021
+Bahrain,Argentina,0.00125
+Bahrain,Spain,0.00215
+Bahrain,Algeria,0.0011
+Bahrain,Tunisia,0.00105
+Bahrain,Turkey,0.00165
+Bahrain,Brazil,0.0039
+Bahrain,Netherlands,0.0051
+Bahrain,New Zealand,0.00205
+Bahrain,Philippines,0.0017
+Bahrain,Indonesia,0.00235
+Bahrain,Qatar,0.00245
+Bahrain,China,0.0032
+Bahrain,Iran,0.00235
+Bahrain,Malaysia,0.0035
+Bahrain,Italy,0.01025
+Bahrain,Thailand,0.0041
+Bahrain,Australia,0.0083
+Bahrain,Hong Kong,0.0067
+Bahrain,Iraq,0.0035
+Bahrain,Oman,0.0042
+Bahrain,Kuwait,0.005
+Bahrain,UK,0.02835
+Bahrain,Pakistan,0.0099
+Bahrain,USA,0.04415
+Bahrain,Saudi Arabia,0.0519
+Bahrain,Untd Arab Em,0.0228
+Bahrain,Seychelles,0.0368
+Bahrain,Singapore,0.0229
+Bahrain,India,0.03775
+Bahrain,Japan,0.05455
+Bangladesh,Indonesia,0.0013
+Bangladesh,Untd Arab Em,0.0001
+Bangladesh,Tunisia,0.00035
+Bangladesh,Cameroon,0.0001
+Bangladesh,South Africa,0.0001
+Bangladesh,Burundi,0.0001
+Bangladesh,Mexico,0.0001
+Bangladesh,Madagascar,0.0001
+Bangladesh,New Zealand,0.00015
+Bangladesh,Saudi Arabia,0.0002
+Bangladesh,Greece,0.0001
+Bangladesh,Qatar,0.00025
+Bangladesh,Sri Lanka,0.00035
+Bangladesh,Uruguay,0.0001
+Bangladesh,Kuwait,0.0001
+Bangladesh,Portugal,0.0001
+Bangladesh,Ghana,0.0001
+Bangladesh,Morocco,0.00015
+Bangladesh,Algeria,0.0001
+Bangladesh,Argentina,0.0009
+Bangladesh,Oman,0.0001
+Bangladesh,Uganda,0.0001
+Bangladesh,Panama,0.0002
+Bangladesh,Nigeria,0.0001
+Bangladesh,Finland,0.0002
+Bangladesh,Bulgaria,0.00035
+Bangladesh,Malaysia,0.0012
+Bangladesh,Burkina Faso,0.0002
+Bangladesh,Nepal,0.00035
+Bangladesh,Philippines,0.00015
+Bangladesh,Jordan,0.00065
+Bangladesh,Ireland,0.00015
+Bangladesh,El Salvador,0.0003
+Bangladesh,Sierra Leone,0.0003
+Bangladesh,Senegal,0.00095
+Bangladesh,Cote Divoire,0.0003
+Bangladesh,Iraq,0.0004
+Bangladesh,Thailand,0.0016
+Bangladesh,Austria,0.00025
+Bangladesh,Kenya,0.0004
+Bangladesh,Norway,0.00025
+Bangladesh,Egypt,0.0003
+Bangladesh,Turkey,0.0004
+Bangladesh,Brazil,0.00085
+Bangladesh,Australia,0.0014
+Bangladesh,Afghanistan,0.0006
+Bangladesh,Sweden,0.00055
+Bangladesh,China,0.0057
+Bangladesh,Denmark,0.00085
+Bangladesh,Zambia,0.0009
+Bangladesh,India,0.0065
+Bangladesh,Syria,0.001
+Bangladesh,Togo,0.001
+Bangladesh,Hong Kong,0.0011
+Bangladesh,Spain,0.0007
+Bangladesh,Singapore,0.00645
+Bangladesh,Pakistan,0.00205
+Bangladesh,Iran,0.00075
+Bangladesh,Canada,0.00175
+Bangladesh,Sudan,0.00085
+Bangladesh,Niger,0.0018
+Bangladesh,Malta,0.0088
+Bangladesh,Japan,0.00615
+Bangladesh,Netherlands,0.0019
+Bangladesh,Italy,0.00325
+Bangladesh,UK,0.0045
+Bangladesh,Mozambique,0.0055
+Bangladesh,USA,0.01705
+Barbados,Australia,0.0006
+Barbados,Mexico,0.0005
+Barbados,Sweden,0.00085
+Barbados,Spain,0.00035
+Barbados,Colombia,0.00025
+Barbados,Portugal,0.0001
+Barbados,Thailand,0.00025
+Barbados,Saudi Arabia,0.0001
+Barbados,Tunisia,0.00015
+Barbados,Peru,0.0001
+Barbados,Turkey,0.0001
+Barbados,Ecuador,0.0001
+Barbados,Bulgaria,0.0001
+Barbados,New Zealand,0.0017
+Barbados,Denmark,0.00055
+Barbados,Austria,0.00045
+Barbados,Argentina,0.0003
+Barbados,Nigeria,0.0002
+Barbados,Indonesia,0.0003
+Barbados,Italy,0.0008
+Barbados,Philippines,0.0004
+Barbados,South Africa,0.00025
+Barbados,Netherlands,0.0012
+Barbados,Malaysia,0.0003
+Barbados,Japan,0.0089
+Barbados,Brazil,0.0024
+Barbados,Venezuela,0.00265
+Barbados,Ireland,0.001
+Barbados,Norway,0.00125
+Barbados,Canada,0.00845
+Barbados,Jamaica,0.0057
+Barbados,UK,0.0206
+Barbados,Trinidad Tbg,0.0253
+Barbados,USA,0.06195
+Benin,Venezuela,0.0001
+Benin,Senegal,0.00135
+Benin,Burkina Faso,0.0001
+Benin,Cote Divoire,0.0027
+Benin,Ireland,0.00055
+Benin,Pakistan,0.00135
+Benin,Algeria,0.0011
+Benin,Philippines,0.00035
+Benin,Argentina,0.00065
+Benin,Hong Kong,0.0004
+Benin,Denmark,0.0007
+Benin,Mexico,0.00035
+Benin,Sweden,0.0005
+Benin,Colombia,0.0003
+Benin,Singapore,0.00245
+Benin,Austria,0.0084
+Benin,Japan,0.00505
+Benin,Niger,0.0005
+Benin,Tunisia,0.00065
+Benin,Malaysia,0.0009
+Benin,Saudi Arabia,0.0009
+Benin,Greece,0.0006
+Benin,Australia,0.00055
+Benin,South Africa,0.00215
+Benin,Togo,0.0016
+Benin,Netherlands,0.01055
+Benin,China,0.02235
+Benin,Turkey,0.0013
+Benin,UK,0.0109
+Benin,Indonesia,0.0035
+Benin,Thailand,0.01245
+Benin,Spain,0.0063
+Benin,India,0.00605
+Benin,USA,0.01035
+Benin,Italy,0.0097
+Benin,Morocco,0.00445
+Benin,Nigeria,0.0067
+Benin,Portugal,0.00495
+Benin,Brazil,0.0157
+Bolivia,Turkey,0.0001
+Bolivia,Saudi Arabia,0.0001
+Bolivia,Sweden,0.0012
+Bolivia,Portugal,0.0001
+Bolivia,Thailand,0.00015
+Bolivia,Finland,0.0002
+Bolivia,Greece,0.0001
+Bolivia,India,0.0001
+Bolivia,Denmark,0.0003
+Bolivia,Qatar,0.0001
+Bolivia,Jordan,0.0001
+Bolivia,Morocco,0.0001
+Bolivia,Philippines,0.00015
+Bolivia,Nicaragua,0.0001
+Bolivia,Australia,0.00025
+Bolivia,Algeria,0.0006
+Bolivia,Ecuador,0.00045
+Bolivia,China,0.0006
+Bolivia,Singapore,0.0004
+Bolivia,Austria,0.0005
+Bolivia,Spain,0.00195
+Bolivia,Mexico,0.00175
+Bolivia,Netherlands,0.0011
+Bolivia,Malaysia,0.0008
+Bolivia,Canada,0.00145
+Bolivia,Venezuela,0.0015
+Bolivia,Italy,0.0026
+Bolivia,Japan,0.0052
+Bolivia,Chile,0.01145
+Bolivia,UK,0.0034
+Bolivia,Brazil,0.03035
+Bolivia,Colombia,0.00525
+Bolivia,Peru,0.0082
+Bolivia,USA,0.02975
+Bolivia,Argentina,0.03225
+Brazil,Afghanistan,0.0004
+Brazil,Chad,0.00105
+Brazil,Cambodia,0.00015
+Brazil,Uganda,0.0002
+Brazil,Sudan,0.0002
+Brazil,Seychelles,0.00035
+Brazil,Rwanda,0.00035
+Brazil,Nepal,0.00035
+Brazil,Oman,0.0017
+Brazil,Israel,0.00125
+Brazil,New Zealand,0.00065
+Brazil,Niger,0.0006
+Brazil,Madagascar,0.0007
+Brazil,Burkina Faso,0.0011
+Brazil,Zambia,0.00085
+Brazil,Mali,0.0044
+Brazil,Australia,0.0007
+Brazil,India,0.00055
+Brazil,Malawi,0.0009
+Brazil,Burundi,0.001
+Brazil,Gabon,0.00855
+Brazil,Austria,0.0009
+Brazil,Ireland,0.0014
+Brazil,Norway,0.00115
+Brazil,Greece,0.0007
+Brazil,Bangladesh,0.00085
+Brazil,Sweden,0.00155
+Brazil,Untd Arab Em,0.0017
+Brazil,Finland,0.00135
+Brazil,Pakistan,0.00085
+Brazil,Kenya,0.0007
+Brazil,Canada,0.0015
+Brazil,Mauritius,0.0008
+Brazil,Turkey,0.0008
+Brazil,Cameroon,0.00105
+Brazil,South Africa,0.00145
+Brazil,China,0.0013
+Brazil,Sierra Leone,0.00555
+Brazil,Cuba,0.0013
+Brazil,Denmark,0.00115
+Brazil,Indonesia,0.00125
+Brazil,Sri Lanka,0.00105
+Brazil,Mexico,0.00185
+Brazil,Spain,0.0015
+Brazil,Zimbabwe,0.00115
+Brazil,Kuwait,0.00645
+Brazil,Iceland,0.00165
+Brazil,Togo,0.0069
+Brazil,Iran,0.0027
+Brazil,El Salvador,0.0014
+Brazil,UK,0.002
+Brazil,Tunisia,0.00175
+Brazil,Saudi Arabia,0.00675
+Brazil,Syria,0.0014
+Brazil,Qatar,0.0093
+Brazil,Mauritania,0.00245
+Brazil,Nicaragua,0.0029
+Brazil,Cote Divoire,0.00205
+Brazil,Algeria,0.0055
+Brazil,Thailand,0.00185
+Brazil,Bulgaria,0.0018
+Brazil,Malaysia,0.00325
+Brazil,Philippines,0.00185
+Brazil,Italy,0.00315
+Brazil,Iraq,0.0117
+Brazil,Hong Kong,0.0036
+Brazil,Benin,0.0157
+Brazil,Cyprus,0.00205
+Brazil,Guatemala,0.00205
+Brazil,Senegal,0.0024
+Brazil,Barbados,0.0024
+Brazil,Netherlands,0.00265
+Brazil,Egypt,0.0021
+Brazil,Singapore,0.0037
+Brazil,Portugal,0.00265
+Brazil,Malta,0.00325
+Brazil,Morocco,0.00295
+Brazil,Ghana,0.00255
+Brazil,Dominican Rp,0.0027
+Brazil,Colombia,0.0031
+Brazil,Mozambique,0.00325
+Brazil,Honduras,0.00275
+Brazil,Bahrain,0.0039
+Brazil,Japan,0.00465
+Brazil,Venezuela,0.0079
+Brazil,Ecuador,0.0042
+Brazil,Peru,0.0058
+Brazil,Costa Rica,0.0039
+Brazil,Trinidad Tbg,0.00535
+Brazil,Jordan,0.00495
+Brazil,Panama,0.0084
+Brazil,Guyana,0.00565
+Brazil,Nigeria,0.01195
+Brazil,Argentina,0.01655
+Brazil,Chile,0.01505
+Brazil,Suriname,0.02335
+Brazil,USA,0.01635
+Brazil,Jamaica,0.01105
+Brazil,Uruguay,0.037
+Brazil,Bolivia,0.03035
+Brazil,Paraguay,0.0735
+Bulgaria,Peru,0.00045
+Bulgaria,Chile,0.00075
+Bulgaria,Mali,0.0001
+Bulgaria,Ireland,0.00025
+Bulgaria,Mozambique,0.00015
+Bulgaria,Iraq,0.0011
+Bulgaria,Hong Kong,0.0001
+Bulgaria,Guatemala,0.0002
+Bulgaria,Qatar,0.0001
+Bulgaria,Venezuela,0.0002
+Bulgaria,Paraguay,0.0001
+Bulgaria,Uruguay,0.0001
+Bulgaria,Costa Rica,0.0002
+Bulgaria,Kenya,0.0002
+Bulgaria,Kuwait,0.0002
+Bulgaria,Australia,0.0003
+Bulgaria,Colombia,0.00025
+Bulgaria,Senegal,0.0002
+Bulgaria,Sri Lanka,0.00015
+Bulgaria,Cote Divoire,0.00025
+Bulgaria,Honduras,0.00035
+Bulgaria,South Africa,0.00045
+Bulgaria,Untd Arab Em,0.0002
+Bulgaria,Indonesia,0.00055
+Bulgaria,Singapore,0.0006
+Bulgaria,Malaysia,0.00025
+Bulgaria,Oman,0.00025
+Bulgaria,Cuba,0.00075
+Bulgaria,Sierra Leone,0.0004
+Bulgaria,Nigeria,0.0004
+Bulgaria,Togo,0.0007
+Bulgaria,Greenland,0.0004
+Bulgaria,Mauritania,0.0023
+Bulgaria,Benin,0.0004
+Bulgaria,Sudan,0.00025
+Bulgaria,Niger,0.0004
+Bulgaria,Norway,0.00035
+Bulgaria,Philippines,0.0004
+Bulgaria,Seychelles,0.0004
+Bulgaria,Suriname,0.0003
+Bulgaria,Portugal,0.00045
+Bulgaria,Brazil,0.0018
+Bulgaria,Mexico,0.0003
+Bulgaria,Bangladesh,0.00035
+Bulgaria,Finland,0.00125
+Bulgaria,Morocco,0.00065
+Bulgaria,Argentina,0.0011
+Bulgaria,Panama,0.00035
+Bulgaria,Burkina Faso,0.0006
+Bulgaria,Pakistan,0.00085
+Bulgaria,Ghana,0.0004
+Bulgaria,Sweden,0.0019
+Bulgaria,Tunisia,0.0007
+Bulgaria,Denmark,0.0011
+Bulgaria,Israel,0.00075
+Bulgaria,Saudi Arabia,0.00065
+Bulgaria,Iran,0.00195
+Bulgaria,Nicaragua,0.00115
+Bulgaria,Canada,0.0009
+Bulgaria,Algeria,0.00165
+Bulgaria,Thailand,0.0008
+Bulgaria,India,0.0011
+Bulgaria,Cyprus,0.0011
+Bulgaria,Japan,0.00345
+Bulgaria,Afghanistan,0.00115
+Bulgaria,Syria,0.00155
+Bulgaria,Egypt,0.00175
+Bulgaria,Austria,0.0056
+Bulgaria,Jordan,0.00205
+Bulgaria,Netherlands,0.0038
+Bulgaria,China,0.00315
+Bulgaria,Malta,0.002
+Bulgaria,Spain,0.0033
+Bulgaria,UK,0.0058
+Bulgaria,USA,0.00735
+Bulgaria,Turkey,0.0079
+Bulgaria,Greece,0.01075
+Bulgaria,Italy,0.01665
+Burkina Faso,Benin,0.0001
+Burkina Faso,Canada,0.00065
+Burkina Faso,Israel,0.0001
+Burkina Faso,Pakistan,0.00015
+Burkina Faso,Peru,0.0001
+Burkina Faso,Nigeria,0.0002
+Burkina Faso,Austria,0.0002
+Burkina Faso,Greece,0.0002
+Burkina Faso,Ghana,0.0009
+Burkina Faso,Ireland,0.0003
+Burkina Faso,Algeria,0.0009
+Burkina Faso,Sweden,0.00025
+Burkina Faso,Netherlands,0.00225
+Burkina Faso,USA,0.0035
+Burkina Faso,Mexico,0.0004
+Burkina Faso,South Africa,0.00055
+Burkina Faso,UK,0.0016
+Burkina Faso,Cote Divoire,0.01905
+Burkina Faso,Mali,0.0005
+Burkina Faso,Turkey,0.0003
+Burkina Faso,Hong Kong,0.0006
+Burkina Faso,Morocco,0.0005
+Burkina Faso,Philippines,0.0008
+Burkina Faso,Tunisia,0.0006
+Burkina Faso,Togo,0.00235
+Burkina Faso,Brazil,0.0011
+Burkina Faso,Spain,0.00195
+Burkina Faso,Malaysia,0.00095
+Burkina Faso,Denmark,0.00145
+Burkina Faso,Japan,0.00405
+Burkina Faso,Niger,0.00145
+Burkina Faso,Indonesia,0.0015
+Burkina Faso,India,0.0019
+Burkina Faso,Thailand,0.0018
+Burkina Faso,Portugal,0.0019
+Burkina Faso,China,0.0024
+Burkina Faso,Italy,0.00495
+Burkina Faso,Colombia,0.0062
+Burkina Faso,Venezuela,0.0139
+Burundi,Australia,0.00015
+Burundi,Chile,0.0001
+Burundi,Malaysia,0.00015
+Burundi,Indonesia,0.0002
+Burundi,Algeria,0.0002
+Burundi,Saudi Arabia,0.0002
+Burundi,Singapore,0.0002
+Burundi,Ireland,0.0003
+Burundi,Untd Arab Em,0.0002
+Burundi,Thailand,0.00045
+Burundi,Oman,0.0002
+Burundi,Canada,0.00045
+Burundi,South Africa,0.00185
+Burundi,Greece,0.0006
+Burundi,India,0.0011
+Burundi,Philippines,0.0004
+Burundi,Iran,0.00055
+Burundi,Turkey,0.0004
+Burundi,China,0.0015
+Burundi,Austria,0.00085
+Burundi,Peru,0.0009
+Burundi,Denmark,0.00065
+Burundi,Norway,0.0007
+Burundi,Sweden,0.00065
+Burundi,Portugal,0.0008
+Burundi,Mexico,0.0011
+Burundi,Pakistan,0.0016
+Burundi,Italy,0.00425
+Burundi,Spain,0.00135
+Burundi,Japan,0.00585
+Burundi,UK,0.00325
+Burundi,Finland,0.00265
+Burundi,Netherlands,0.0041
+Burundi,USA,0.0066
+Cambodia,Australia,0.00115
+Cambodia,Turkey,0.0001
+Cambodia,Portugal,0.0001
+Cambodia,Mexico,0.0001
+Cambodia,Kuwait,0.0001
+Cambodia,Philippines,0.0003
+Cambodia,Brazil,0.00015
+Cambodia,Untd Arab Em,0.0001
+Cambodia,Egypt,0.0001
+Cambodia,New Zealand,0.00015
+Cambodia,Argentina,0.0001
+Cambodia,Saudi Arabia,0.0003
+Cambodia,Venezuela,0.0001
+Cambodia,Pakistan,0.00025
+Cambodia,Israel,0.0002
+Cambodia,Indonesia,0.0059
+Cambodia,Finland,0.00055
+Cambodia,Greece,0.00035
+Cambodia,Norway,0.0003
+Cambodia,India,0.0006
+Cambodia,Sweden,0.0006
+Cambodia,Austria,0.00065
+Cambodia,Canada,0.0008
+Cambodia,Algeria,0.00075
+Cambodia,Denmark,0.0007
+Cambodia,Italy,0.0011
+Cambodia,Spain,0.001
+Cambodia,Netherlands,0.00115
+Cambodia,Ireland,0.0011
+Cambodia,Hong Kong,0.0029
+Cambodia,Malaysia,0.00525
+Cambodia,Japan,0.0072
+Cambodia,China,0.0098
+Cambodia,UK,0.0036
+Cambodia,Singapore,0.0439
+Cambodia,Thailand,0.0311
+Cambodia,USA,0.0254
+Cameroon,Togo,0.0001
+Cameroon,Saudi Arabia,0.0001
+Cameroon,Benin,0.0001
+Cameroon,Argentina,0.0001
+Cameroon,Finland,0.0003
+Cameroon,Venezuela,0.0001
+Cameroon,Senegal,0.00035
+Cameroon,Israel,0.0002
+Cameroon,Indonesia,0.00025
+Cameroon,Singapore,0.00025
+Cameroon,Egypt,0.0002
+Cameroon,Nigeria,0.00725
+Cameroon,Ireland,0.00045
+Cameroon,Philippines,0.0002
+Cameroon,Sweden,0.00035
+Cameroon,Denmark,0.00035
+Cameroon,Malta,0.0003
+Cameroon,South Africa,0.0007
+Cameroon,Burkina Faso,0.0003
+Cameroon,Malaysia,0.00035
+Cameroon,Tunisia,0.00045
+Cameroon,India,0.0004
+Cameroon,Hong Kong,0.0006
+Cameroon,Cote Divoire,0.0008
+Cameroon,Algeria,0.0006
+Cameroon,Canada,0.0011
+Cameroon,Peru,0.0004
+Cameroon,Turkey,0.0005
+Cameroon,Brazil,0.00105
+Cameroon,Mexico,0.0007
+Cameroon,Greece,0.00055
+Cameroon,Niger,0.00045
+Cameroon,Thailand,0.00115
+Cameroon,Chile,0.0011
+Cameroon,Morocco,0.00095
+Cameroon,Austria,0.0009
+Cameroon,Japan,0.0036
+Cameroon,Portugal,0.00185
+Cameroon,China,0.00265
+Cameroon,Gabon,0.00315
+Cameroon,UK,0.00425
+Cameroon,Chad,0.0114
+Cameroon,Spain,0.01175
+Cameroon,Netherlands,0.0125
+Cameroon,Italy,0.01575
+Cameroon,USA,0.01705
+Canada,Afghanistan,0.0002
+Canada,Mauritius,0.00195
+Canada,Chad,0.0004
+Canada,Madagascar,0.0007
+Canada,Nepal,0.00055
+Canada,Paraguay,0.0004
+Canada,Burundi,0.00045
+Canada,Cambodia,0.0008
+Canada,Bulgaria,0.0009
+Canada,Uganda,0.0007
+Canada,Greece,0.0006
+Canada,Spain,0.00085
+Canada,Gabon,0.00125
+Canada,Argentina,0.0007
+Canada,Sierra Leone,0.00375
+Canada,Cote Divoire,0.0017
+Canada,Malta,0.0043
+Canada,Qatar,0.00065
+Canada,Oman,0.0006
+Canada,Sudan,0.0005
+Canada,Benin,0.001
+Canada,Uruguay,0.0016
+Canada,India,0.00095
+Canada,Niger,0.0019
+Canada,Rwanda,0.0007
+Canada,Bahrain,0.00075
+Canada,Denmark,0.00135
+Canada,Syria,0.001
+Canada,Zimbabwe,0.00115
+Canada,Sweden,0.0023
+Canada,Untd Arab Em,0.0008
+Canada,Nigeria,0.00525
+Canada,Burkina Faso,0.00065
+Canada,Iraq,0.0012
+Canada,Malawi,0.0011
+Canada,Bolivia,0.00145
+Canada,Iceland,0.00265
+Canada,Turkey,0.0009
+Canada,Austria,0.00155
+Canada,Portugal,0.0014
+Canada,Finland,0.0019
+Canada,Cyprus,0.00085
+Canada,Brazil,0.0015
+Canada,Cameroon,0.0011
+Canada,Jordan,0.00085
+Canada,Seychelles,0.01215
+Canada,South Africa,0.00185
+Canada,El Salvador,0.003
+Canada,Pakistan,0.00195
+Canada,Saudi Arabia,0.00245
+Canada,Egypt,0.00125
+Canada,Kenya,0.00165
+Canada,Iran,0.00155
+Canada,Bangladesh,0.00175
+Canada,Netherlands,0.0021
+Canada,Sri Lanka,0.0031
+Canada,Italy,0.00265
+Canada,Mali,0.0031
+Canada,Zambia,0.0023
+Canada,Israel,0.0023
+Canada,Ecuador,0.00345
+Canada,Senegal,0.00155
+Canada,Australia,0.00235
+Canada,Honduras,0.00475
+Canada,Guatemala,0.00345
+Canada,Panama,0.0026
+Canada,China,0.0036
+Canada,Philippines,0.00435
+Canada,Thailand,0.004
+Canada,Costa Rica,0.0061
+Canada,Peru,0.00265
+Canada,Suriname,0.01075
+Canada,Kuwait,0.0018
+Canada,Indonesia,0.0027
+Canada,Togo,0.01
+Canada,Mexico,0.0058
+Canada,Nicaragua,0.0056
+Canada,Dominican Rp,0.00345
+Canada,Tunisia,0.0022
+Canada,New Zealand,0.00405
+Canada,Ireland,0.00505
+Canada,Norway,0.0066
+Canada,Greenland,0.00385
+Canada,Mozambique,0.0025
+Canada,Colombia,0.00345
+Canada,Ghana,0.0028
+Canada,Chile,0.00425
+Canada,Malaysia,0.00805
+Canada,Venezuela,0.00735
+Canada,Morocco,0.0031
+Canada,Singapore,0.0083
+Canada,UK,0.00675
+Canada,Algeria,0.0055
+Canada,Mauritania,0.00345
+Canada,Hong Kong,0.0073
+Canada,Cuba,0.0069
+Canada,Guyana,0.0693
+Canada,Trinidad Tbg,0.00955
+Canada,Barbados,0.00845
+Canada,Japan,0.014
+Canada,Jamaica,0.0206
+Canada,USA,0.1883
+Chad,Sweden,0.00025
+Chad,Saudi Arabia,0.0001
+Chad,Sudan,0.0001
+Chad,Pakistan,0.0002
+Chad,Algeria,0.00045
+Chad,Ecuador,0.0002
+Chad,Netherlands,0.00095
+Chad,Greece,0.0002
+Chad,Turkey,0.0004
+Chad,Ireland,0.0004
+Chad,Malaysia,0.00025
+Chad,Indonesia,0.00035
+Chad,Denmark,0.0005
+Chad,Mexico,0.0006
+Chad,Nigeria,0.0013
+Chad,Tunisia,0.00045
+Chad,Colombia,0.0009
+Chad,UK,0.0013
+Chad,Austria,0.00065
+Chad,Italy,0.0023
+Chad,Morocco,0.00085
+Chad,Hong Kong,0.0018
+Chad,Brazil,0.00105
+Chad,China,0.0014
+Chad,South Africa,0.00135
+Chad,Thailand,0.0016
+Chad,Japan,0.00245
+Chad,Spain,0.0018
+Chad,USA,0.0056
+Chad,Cameroon,0.0114
+Chad,Portugal,0.0105
+Chile,Trinidad Tbg,0.00055
+Chile,Syria,0.0001
+Chile,Malawi,0.0001
+Chile,Israel,0.00035
+Chile,Gabon,0.009
+Chile,Togo,0.0001
+Chile,Iraq,0.0001
+Chile,Madagascar,0.0001
+Chile,Zimbabwe,0.0001
+Chile,Burkina Faso,0.0001
+Chile,Bangladesh,0.0001
+Chile,Cambodia,0.0001
+Chile,Ghana,0.0001
+Chile,Egypt,0.00025
+Chile,Qatar,0.00015
+Chile,Cyprus,0.0002
+Chile,Mozambique,0.0002
+Chile,Nepal,0.0002
+Chile,Ireland,0.00035
+Chile,New Zealand,0.00035
+Chile,Morocco,0.0002
+Chile,Iran,0.00025
+Chile,Suriname,0.0003
+Chile,Barbados,0.0003
+Chile,Zambia,0.0003
+Chile,Jamaica,0.0002
+Chile,Guyana,0.0007
+Chile,Bahrain,0.0004
+Chile,Nicaragua,0.00075
+Chile,Iceland,0.0003
+Chile,Tunisia,0.00025
+Chile,Malta,0.00035
+Chile,Denmark,0.0007
+Chile,Norway,0.0006
+Chile,Austria,0.00055
+Chile,Cuba,0.0006
+Chile,Honduras,0.0007
+Chile,Untd Arab Em,0.00045
+Chile,Australia,0.001
+Chile,Greece,0.0007
+Chile,El Salvador,0.00045
+Chile,Portugal,0.00055
+Chile,Sri Lanka,0.0008
+Chile,Oman,0.00065
+Chile,Mauritius,0.0005
+Chile,Guatemala,0.00095
+Chile,Saudi Arabia,0.0007
+Chile,Turkey,0.0005
+Chile,Chad,0.0009
+Chile,India,0.0007
+Chile,Philippines,0.00055
+Chile,Kuwait,0.00055
+Chile,South Africa,0.0011
+Chile,Dominican Rp,0.001
+Chile,Finland,0.00115
+Chile,Thailand,0.0009
+Chile,Bulgaria,0.00075
+Chile,Malaysia,0.0014
+Chile,Hong Kong,0.0018
+Chile,Panama,0.00115
+Chile,Sweden,0.0024
+Chile,Costa Rica,0.0015
+Chile,Singapore,0.0013
+Chile,Venezuela,0.0032
+Chile,Indonesia,0.0015
+Chile,Uruguay,0.00225
+Chile,Colombia,0.00255
+Chile,Canada,0.00425
+Chile,Ecuador,0.0053
+Chile,Netherlands,0.003
+Chile,Peru,0.0036
+Chile,Seychelles,0.00285
+Chile,Mexico,0.00645
+Chile,Paraguay,0.0066
+Chile,Spain,0.006
+Chile,China,0.0067
+Chile,UK,0.00595
+Chile,Argentina,0.01405
+Chile,Italy,0.00795
+Chile,Brazil,0.01505
+Chile,Bolivia,0.01145
+Chile,Japan,0.0256
+Chile,USA,0.04145
+China,Greenland,0.0014
+China,Barbados,0.0003
+China,Venezuela,0.00045
+China,Bolivia,0.0006
+China,Gabon,0.01395
+China,Iceland,0.0006
+China,Chad,0.0014
+China,Cameroon,0.00265
+China,Ecuador,0.0013
+China,Malawi,0.00075
+China,Brazil,0.0013
+China,Burkina Faso,0.0024
+China,Colombia,0.00065
+China,Iraq,0.00125
+China,Trinidad Tbg,0.00085
+China,Rwanda,0.0012
+China,India,0.0013
+China,Uganda,0.0009
+China,Portugal,0.00095
+China,Argentina,0.00195
+China,Dominican Rp,0.002
+China,Costa Rica,0.00135
+China,Sweden,0.0028
+China,Qatar,0.0062
+China,Mexico,0.0013
+China,Burundi,0.0015
+China,Oman,0.02675
+China,Greece,0.0013
+China,Turkey,0.0016
+China,Algeria,0.00125
+China,Nicaragua,0.0024
+China,Zambia,0.00415
+China,Israel,0.00215
+China,Iran,0.0027
+China,Finland,0.00365
+China,Peru,0.00525
+China,Zimbabwe,0.00505
+China,Seychelles,0.00155
+China,Bulgaria,0.00315
+China,Austria,0.0023
+China,Spain,0.002
+China,Bahrain,0.0032
+China,El Salvador,0.0016
+China,Tunisia,0.00235
+China,Norway,0.0024
+China,Niger,0.0017
+China,Guatemala,0.00205
+China,Mozambique,0.00425
+China,Suriname,0.00225
+China,Uruguay,0.0044
+China,South Africa,0.0036
+China,Jamaica,0.0028
+China,UK,0.0032
+China,Denmark,0.00275
+China,Canada,0.0036
+China,Morocco,0.00265
+China,Ireland,0.00275
+China,Italy,0.00385
+China,Sierra Leone,0.0048
+China,Madagascar,0.0029
+China,Saudi Arabia,0.0039
+China,Netherlands,0.0034
+China,Nigeria,0.0033
+China,Honduras,0.00275
+China,Mali,0.0059
+China,Egypt,0.0031
+China,Senegal,0.003
+China,Cote Divoire,0.0033
+China,Malta,0.0042
+China,Guyana,0.00545
+China,Afghanistan,0.00365
+China,New Zealand,0.00605
+China,Australia,0.0064
+China,Kuwait,0.0048
+China,Chile,0.0067
+China,Indonesia,0.0085
+China,Sudan,0.0063
+China,Cyprus,0.0035
+China,Cuba,0.0063
+China,Paraguay,0.00425
+China,Kenya,0.0037
+China,Pakistan,0.00555
+China,Syria,0.0039
+China,Philippines,0.00705
+China,Ghana,0.00505
+China,Bangladesh,0.0057
+China,Mauritius,0.0082
+China,Thailand,0.0117
+China,Cambodia,0.0098
+China,Mauritania,0.00835
+China,Sri Lanka,0.008
+China,Nepal,0.0084
+China,Untd Arab Em,0.00895
+China,Jordan,0.0104
+China,Malaysia,0.0219
+China,Japan,0.03475
+China,Benin,0.02235
+China,Togo,0.0247
+China,Panama,0.0248
+China,Singapore,0.04595
+China,USA,0.0384
+China,Hong Kong,0.4195
+Colombia,China,0.00065
+Colombia,Greece,0.0001
+Colombia,Australia,0.00015
+Colombia,Singapore,0.0002
+Colombia,Cyprus,0.00015
+Colombia,Mauritius,0.0001
+Colombia,Jordan,0.0001
+Colombia,Turkey,0.0001
+Colombia,Thailand,0.00015
+Colombia,Benin,0.0003
+Colombia,Senegal,0.00015
+Colombia,Cote Divoire,0.0001
+Colombia,Iceland,0.0001
+Colombia,Kenya,0.0002
+Colombia,Burundi,0.0002
+Colombia,Hong Kong,0.0002
+Colombia,Algeria,0.00015
+Colombia,India,0.00025
+Colombia,Togo,0.0044
+Colombia,Saudi Arabia,0.00015
+Colombia,Syria,0.00015
+Colombia,Morocco,0.0003
+Colombia,Uganda,0.0003
+Colombia,Uruguay,0.00055
+Colombia,Bulgaria,0.00025
+Colombia,Paraguay,0.00035
+Colombia,Barbados,0.00025
+Colombia,Israel,0.0006
+Colombia,Austria,0.00045
+Colombia,Cuba,0.00045
+Colombia,Norway,0.00045
+Colombia,Portugal,0.0004
+Colombia,Ireland,0.00045
+Colombia,Argentina,0.00155
+Colombia,Mauritania,0.0008
+Colombia,Sri Lanka,0.00055
+Colombia,Seychelles,0.00075
+Colombia,Malta,0.0008
+Colombia,Denmark,0.00075
+Colombia,Brazil,0.0031
+Colombia,Mexico,0.00285
+Colombia,Jamaica,0.00085
+Colombia,Finland,0.001
+Colombia,Sweden,0.00155
+Colombia,Guatemala,0.00105
+Colombia,Guyana,0.0018
+Colombia,El Salvador,0.00095
+Colombia,Nicaragua,0.00115
+Colombia,Bolivia,0.00525
+Colombia,Canada,0.00345
+Colombia,Spain,0.0028
+Colombia,Chile,0.00255
+Colombia,Dominican Rp,0.00145
+Colombia,Greenland,0.00155
+Colombia,Suriname,0.0018
+Colombia,Honduras,0.00165
+Colombia,Italy,0.0032
+Colombia,UK,0.00305
+Colombia,Netherlands,0.0023
+Colombia,Japan,0.0078
+Colombia,Costa Rica,0.0034
+Colombia,Trinidad Tbg,0.0055
+Colombia,Venezuela,0.00885
+Colombia,Peru,0.0051
+Colombia,Ecuador,0.0088
+Colombia,Panama,0.00955
+Colombia,USA,0.046
+Costa Rica,Nigeria,0.0001
+Costa Rica,Oman,0.0001
+Costa Rica,Bolivia,0.0001
+Costa Rica,Indonesia,0.0003
+Costa Rica,Kuwait,0.0001
+Costa Rica,India,0.0001
+Costa Rica,Syria,0.0001
+Costa Rica,South Africa,0.00015
+Costa Rica,Philippines,0.00345
+Costa Rica,Trinidad Tbg,0.0003
+Costa Rica,Greece,0.0002
+Costa Rica,Untd Arab Em,0.0002
+Costa Rica,Barbados,0.0002
+Costa Rica,Algeria,0.00015
+Costa Rica,Saudi Arabia,0.0002
+Costa Rica,Israel,0.00055
+Costa Rica,Tunisia,0.0002
+Costa Rica,Iceland,0.0002
+Costa Rica,Thailand,0.00035
+Costa Rica,Morocco,0.0003
+Costa Rica,Bulgaria,0.0002
+Costa Rica,Turkey,0.00025
+Costa Rica,Dominican Rp,0.00025
+Costa Rica,Jamaica,0.0004
+Costa Rica,Argentina,0.00105
+Costa Rica,Brazil,0.0039
+Costa Rica,Peru,0.0007
+Costa Rica,Australia,0.0003
+Costa Rica,Malaysia,0.0025
+Costa Rica,Colombia,0.0034
+Costa Rica,Guyana,0.0006
+Costa Rica,China,0.00135
+Costa Rica,Suriname,0.0007
+Costa Rica,Singapore,0.00065
+Costa Rica,Ecuador,0.00065
+Costa Rica,Ireland,0.00095
+Costa Rica,Venezuela,0.0066
+Costa Rica,Denmark,0.0007
+Costa Rica,Chile,0.0015
+Costa Rica,Hong Kong,0.0012
+Costa Rica,Portugal,0.0008
+Costa Rica,Norway,0.0011
+Costa Rica,Austria,0.0021
+Costa Rica,Japan,0.00895
+Costa Rica,Sweden,0.00245
+Costa Rica,Finland,0.00235
+Costa Rica,Spain,0.00435
+Costa Rica,Panama,0.0035
+Costa Rica,Mexico,0.01045
+Costa Rica,El Salvador,0.00535
+Costa Rica,Guatemala,0.0074
+Costa Rica,Honduras,0.00585
+Costa Rica,Netherlands,0.0057
+Costa Rica,Canada,0.0061
+Costa Rica,Italy,0.00705
+Costa Rica,UK,0.0096
+Costa Rica,Nicaragua,0.0149
+Costa Rica,USA,0.15985
+Cote Divoire,Chad,0.0001
+Cote Divoire,Ecuador,0.00045
+Cote Divoire,Sudan,0.0001
+Cote Divoire,Seychelles,0.0001
+Cote Divoire,Nicaragua,0.0001
+Cote Divoire,Norway,0.0003
+Cote Divoire,New Zealand,0.0001
+Cote Divoire,Egypt,0.0002
+Cote Divoire,Philippines,0.0002
+Cote Divoire,Iraq,0.00025
+Cote Divoire,Untd Arab Em,0.00065
+Cote Divoire,Hong Kong,0.0002
+Cote Divoire,Guyana,0.0002
+Cote Divoire,Finland,0.00045
+Cote Divoire,Bulgaria,0.00025
+Cote Divoire,Israel,0.0003
+Cote Divoire,Cyprus,0.0003
+Cote Divoire,Saudi Arabia,0.0017
+Cote Divoire,Chile,0.0003
+Cote Divoire,Australia,0.00025
+Cote Divoire,Sweden,0.00065
+Cote Divoire,Malta,0.0008
+Cote Divoire,China,0.0033
+Cote Divoire,Panama,0.001
+Cote Divoire,Cameroon,0.0008
+Cote Divoire,Turkey,0.0007
+Cote Divoire,Singapore,0.00085
+Cote Divoire,Brazil,0.00205
+Cote Divoire,Denmark,0.00075
+Cote Divoire,Gabon,0.0023
+Cote Divoire,Tunisia,0.00095
+Cote Divoire,Malaysia,0.0009
+Cote Divoire,Indonesia,0.00095
+Cote Divoire,Nigeria,0.02255
+Cote Divoire,Argentina,0.0011
+Cote Divoire,Sierra Leone,0.00125
+Cote Divoire,South Africa,0.00195
+Cote Divoire,Ireland,0.0014
+Cote Divoire,India,0.0016
+Cote Divoire,Morocco,0.00165
+Cote Divoire,Austria,0.00125
+Cote Divoire,Thailand,0.00215
+Cote Divoire,Mauritania,0.0072
+Cote Divoire,Canada,0.0017
+Cote Divoire,Ghana,0.0014
+Cote Divoire,Algeria,0.0023
+Cote Divoire,Japan,0.00505
+Cote Divoire,Portugal,0.0019
+Cote Divoire,Greece,0.0027
+Cote Divoire,Benin,0.0027
+Cote Divoire,Senegal,0.008
+Cote Divoire,UK,0.0086
+Cote Divoire,Niger,0.0064
+Cote Divoire,Togo,0.0131
+Cote Divoire,Spain,0.01045
+Cote Divoire,Italy,0.0186
+Cote Divoire,Netherlands,0.01855
+Cote Divoire,USA,0.02205
+Cote Divoire,Mali,0.01905
+Cote Divoire,Burkina Faso,0.01905
+Cuba,New Zealand,0.0004
+Cuba,Peru,0.0001
+Cuba,Turkey,0.0001
+Cuba,Ecuador,0.00025
+Cuba,Austria,0.00015
+Cuba,Hong Kong,0.0001
+Cuba,Cyprus,0.0001
+Cuba,Saudi Arabia,0.0001
+Cuba,Singapore,0.0001
+Cuba,Greece,0.0001
+Cuba,Australia,0.0001
+Cuba,South Africa,0.0004
+Cuba,Sweden,0.00045
+Cuba,Jamaica,0.0002
+Cuba,Argentina,0.00245
+Cuba,Indonesia,0.0002
+Cuba,India,0.0002
+Cuba,Colombia,0.00045
+Cuba,Madagascar,0.0004
+Cuba,Venezuela,0.0016
+Cuba,Jordan,0.0004
+Cuba,Malaysia,0.0003
+Cuba,Finland,0.00035
+Cuba,Tunisia,0.00065
+Cuba,Mexico,0.004
+Cuba,Portugal,0.0005
+Cuba,Brazil,0.0013
+Cuba,UK,0.00155
+Cuba,Bulgaria,0.00075
+Cuba,Iran,0.0012
+Cuba,Senegal,0.0013
+Cuba,Algeria,0.0008
+Cuba,Seychelles,0.0016
+Cuba,Italy,0.0027
+Cuba,Netherlands,0.00185
+Cuba,Egypt,0.003
+Cuba,Japan,0.00375
+Cuba,Spain,0.00785
+Cuba,Canada,0.0069
+Cuba,China,0.0063
+Cuba,Nicaragua,0.00415
+Cyprus,Australia,0.0003
+Cyprus,Burundi,0.0001
+Cyprus,Sudan,0.00015
+Cyprus,Indonesia,0.0009
+Cyprus,Rwanda,0.0001
+Cyprus,Philippines,0.00015
+Cyprus,Nigeria,0.00025
+Cyprus,Venezuela,0.0002
+Cyprus,Senegal,0.0002
+Cyprus,Argentina,0.0011
+Cyprus,Canada,0.00085
+Cyprus,Portugal,0.00095
+Cyprus,South Africa,0.00105
+Cyprus,Sierra Leone,0.0002
+Cyprus,Niger,0.0002
+Cyprus,Colombia,0.00015
+Cyprus,Algeria,0.00125
+Cyprus,China,0.0035
+Cyprus,India,0.0011
+Cyprus,Tunisia,0.0002
+Cyprus,Qatar,0.0004
+Cyprus,Japan,0.0193
+Cyprus,Malaysia,0.00075
+Cyprus,Brazil,0.00205
+Cyprus,Pakistan,0.00115
+Cyprus,Denmark,0.00225
+Cyprus,Mexico,0.0006
+Cyprus,Malta,0.0003
+Cyprus,Morocco,0.0004
+Cyprus,Thailand,0.00155
+Cyprus,Finland,0.00155
+Cyprus,Iran,0.00045
+Cyprus,Oman,0.0006
+Cyprus,Bulgaria,0.0011
+Cyprus,Austria,0.00205
+Cyprus,Hong Kong,0.001
+Cyprus,Sweden,0.00335
+Cyprus,Ireland,0.00215
+Cyprus,Turkey,0.01135
+Cyprus,Spain,0.0067
+Cyprus,Jordan,0.0014
+Cyprus,Bahrain,0.0016
+Cyprus,Kuwait,0.00085
+Cyprus,Egypt,0.00125
+Cyprus,Untd Arab Em,0.00105
+Cyprus,Netherlands,0.00615
+Cyprus,Israel,0.00555
+Cyprus,USA,0.01225
+Cyprus,Italy,0.0231
+Cyprus,Syria,0.0033
+Cyprus,Iraq,0.00965
+Cyprus,Saudi Arabia,0.0028
+Cyprus,Singapore,0.0092
+Cyprus,Norway,0.00645
+Cyprus,Greece,0.0227
+Cyprus,UK,0.04265
+Denmark,Afghanistan,0.0003
+Denmark,Gabon,0.0001
+Denmark,Cote Divoire,0.00075
+Denmark,Ecuador,0.0002
+Denmark,Paraguay,0.0003
+Denmark,Argentina,0.00075
+Denmark,Cuba,0.0003
+Denmark,Guatemala,0.00035
+Denmark,Cambodia,0.0007
+Denmark,Burundi,0.00065
+Denmark,Costa Rica,0.0007
+Denmark,Peru,0.0004
+Denmark,Colombia,0.00075
+Denmark,Cameroon,0.00035
+Denmark,Chad,0.0005
+Denmark,Madagascar,0.00055
+Denmark,Iraq,0.0005
+Denmark,Venezuela,0.00045
+Denmark,Niger,0.00035
+Denmark,Mexico,0.0003
+Denmark,Indonesia,0.0007
+Denmark,Bolivia,0.0003
+Denmark,Uruguay,0.00035
+Denmark,Mali,0.0005
+Denmark,South Africa,0.00035
+Denmark,Pakistan,0.00075
+Denmark,Philippines,0.00055
+Denmark,Nepal,0.00035
+Denmark,Sudan,0.00045
+Denmark,India,0.0008
+Denmark,Honduras,0.00075
+Denmark,El Salvador,0.0005
+Denmark,Brazil,0.00115
+Denmark,Senegal,0.0005
+Denmark,Iran,0.00045
+Denmark,Uganda,0.0008
+Denmark,Turkey,0.00075
+Denmark,Bangladesh,0.00085
+Denmark,Suriname,0.001
+Denmark,Chile,0.0007
+Denmark,Trinidad Tbg,0.00115
+Denmark,Algeria,0.0006
+Denmark,Barbados,0.00055
+Denmark,Morocco,0.00075
+Denmark,Nigeria,0.00085
+Denmark,New Zealand,0.00085
+Denmark,Syria,0.00055
+Denmark,Zimbabwe,0.0012
+Denmark,Burkina Faso,0.00145
+Denmark,Benin,0.0007
+Denmark,Mauritius,0.00115
+Denmark,Nicaragua,0.00085
+Denmark,Denmark,0.0011
+Denmark,Togo,0.00145
+Denmark,Sri Lanka,0.0011
+Denmark,Rwanda,0.0009
+Denmark,Thailand,0.00125
+Denmark,Ghana,0.00095
+Denmark,Bulgaria,0.0011
+Denmark,Guyana,0.0009
+Denmark,Malaysia,0.0015
+Denmark,Tunisia,0.00105
+Denmark,Saudi Arabia,0.0009
+Denmark,Israel,0.00105
+Denmark,China,0.00275
+Denmark,Australia,0.0009
+Denmark,Zambia,0.0008
+Denmark,Kenya,0.001
+Denmark,Untd Arab Em,0.00085
+Denmark,Qatar,0.0009
+Denmark,Sierra Leone,0.0011
+Denmark,Canada,0.00135
+Denmark,Mauritania,0.0009
+Denmark,Mozambique,0.00105
+Denmark,Seychelles,0.0015
+Denmark,Oman,0.00095
+Denmark,Dominican Rp,0.001
+Denmark,Egypt,0.0011
+Denmark,Malawi,0.0021
+Denmark,Kuwait,0.00455
+Denmark,Portugal,0.003
+Denmark,Hong Kong,0.0022
+Denmark,Jamaica,0.0016
+Denmark,Greece,0.00155
+Denmark,Austria,0.0026
+Denmark,Bahrain,0.0018
+Denmark,Singapore,0.0023
+Denmark,Jordan,0.0032
+Denmark,Cyprus,0.00225
+Denmark,Ireland,0.00455
+Denmark,Spain,0.00385
+Denmark,Panama,0.0032
+Denmark,Finland,0.0081
+Denmark,Malta,0.0044
+Denmark,Japan,0.00865
+Denmark,Netherlands,0.01305
+Denmark,Italy,0.0107
+Denmark,USA,0.0139
+Denmark,Norway,0.0142
+Denmark,Iceland,0.0191
+Denmark,UK,0.02295
+Denmark,Sweden,0.0282
+Denmark,Greenland,0.2848
+Dominican Rp,Colombia,0.00145
+Dominican Rp,Nicaragua,0.0001
+Dominican Rp,Uruguay,0.0001
+Dominican Rp,Argentina,0.0014
+Dominican Rp,Denmark,0.001
+Dominican Rp,Austria,0.00015
+Dominican Rp,Singapore,0.0002
+Dominican Rp,Tunisia,0.0001
+Dominican Rp,Nigeria,0.0001
+Dominican Rp,Philippines,0.0001
+Dominican Rp,Australia,0.0002
+Dominican Rp,Hong Kong,0.0001
+Dominican Rp,Costa Rica,0.00025
+Dominican Rp,Barbados,0.0002
+Dominican Rp,Portugal,0.0002
+Dominican Rp,Ireland,0.00025
+Dominican Rp,Burkina Faso,0.0003
+Dominican Rp,India,0.00025
+Dominican Rp,Trinidad Tbg,0.0003
+Dominican Rp,Sweden,0.0004
+Dominican Rp,Brazil,0.0027
+Dominican Rp,Mexico,0.00865
+Dominican Rp,Mauritius,0.0005
+Dominican Rp,Guyana,0.0005
+Dominican Rp,Panama,0.0007
+Dominican Rp,Cuba,0.0006
+Dominican Rp,Venezuela,0.0086
+Dominican Rp,Jamaica,0.0006
+Dominican Rp,Morocco,0.0008
+Dominican Rp,Algeria,0.00045
+Dominican Rp,Senegal,0.0009
+Dominican Rp,Finland,0.0008
+Dominican Rp,Suriname,0.0009
+Dominican Rp,Honduras,0.00085
+Dominican Rp,Italy,0.0032
+Dominican Rp,Japan,0.00775
+Dominican Rp,Netherlands,0.00205
+Dominican Rp,UK,0.0025
+Dominican Rp,Spain,0.00485
+Dominican Rp,Canada,0.00345
+Dominican Rp,USA,0.178
+Ecuador,Hong Kong,0.0001
+Ecuador,Thailand,0.0001
+Ecuador,Bulgaria,0.0001
+Ecuador,Australia,0.00025
+Ecuador,Paraguay,0.00015
+Ecuador,Jamaica,0.0001
+Ecuador,Mozambique,0.0001
+Ecuador,Malaysia,0.0001
+Ecuador,Barbados,0.0001
+Ecuador,Philippines,0.0001
+Ecuador,Madagascar,0.0001
+Ecuador,Sudan,0.0001
+Ecuador,Egypt,0.0001
+Ecuador,Sri Lanka,0.0001
+Ecuador,Morocco,0.0001
+Ecuador,Indonesia,0.00015
+Ecuador,Sweden,0.0005
+Ecuador,India,0.00015
+Ecuador,Algeria,0.0003
+Ecuador,Israel,0.0003
+Ecuador,Norway,0.0002
+Ecuador,Malta,0.0002
+Ecuador,Denmark,0.0002
+Ecuador,Bolivia,0.00045
+Ecuador,Suriname,0.00055
+Ecuador,Greece,0.0003
+Ecuador,Tunisia,0.0003
+Ecuador,Iran,0.0002
+Ecuador,Syria,0.0003
+Ecuador,Dominican Rp,0.0003
+Ecuador,Greenland,0.0002
+Ecuador,Finland,0.00025
+Ecuador,Cuba,0.00025
+Ecuador,Ireland,0.00025
+Ecuador,Honduras,0.00035
+Ecuador,South Africa,0.0006
+Ecuador,Costa Rica,0.00065
+Ecuador,Saudi Arabia,0.0006
+Ecuador,Portugal,0.0004
+Ecuador,Cote Divoire,0.00045
+Ecuador,Guatemala,0.00075
+Ecuador,Austria,0.0006
+Ecuador,New Zealand,0.00055
+Ecuador,Turkey,0.0007
+Ecuador,Venezuela,0.00325
+Ecuador,Uruguay,0.00095
+Ecuador,UK,0.0018
+Ecuador,Netherlands,0.00145
+Ecuador,Brazil,0.0042
+Ecuador,Trinidad Tbg,0.0013
+Ecuador,China,0.0013
+Ecuador,Mexico,0.0032
+Ecuador,El Salvador,0.00155
+Ecuador,Argentina,0.00265
+Ecuador,Nicaragua,0.0017
+Ecuador,Canada,0.00345
+Ecuador,Spain,0.0043
+Ecuador,Italy,0.0051
+Ecuador,Peru,0.0039
+Ecuador,Chile,0.0053
+Ecuador,Japan,0.01025
+Ecuador,Colombia,0.0088
+Ecuador,Panama,0.0102
+Ecuador,USA,0.0639
+Egypt,Sri Lanka,0.0024
+Egypt,Iran,0.0001
+Egypt,Indonesia,0.00115
+Egypt,Norway,0.00025
+Egypt,Nigeria,0.0001
+Egypt,Finland,0.0013
+Egypt,Ireland,0.0014
+Egypt,Malaysia,0.0014
+Egypt,Sierra Leone,0.0001
+Egypt,Australia,0.002
+Egypt,Benin,0.0001
+Egypt,Venezuela,0.0001
+Egypt,Oman,0.0003
+Egypt,Thailand,0.00065
+Egypt,Denmark,0.0011
+Egypt,Brazil,0.0021
+Egypt,Hong Kong,0.0002
+Egypt,Cote Divoire,0.0002
+Egypt,Bangladesh,0.0003
+Egypt,Untd Arab Em,0.0003
+Egypt,Pakistan,0.0003
+Egypt,Chile,0.00025
+Egypt,Bahrain,0.0004
+Egypt,Algeria,0.00025
+Egypt,Iceland,0.0004
+Egypt,Cyprus,0.00125
+Egypt,China,0.0031
+Egypt,Morocco,0.00035
+Egypt,Canada,0.00125
+Egypt,Qatar,0.0006
+Egypt,Austria,0.00125
+Egypt,Sweden,0.0026
+Egypt,Bulgaria,0.00175
+Egypt,Singapore,0.00155
+Egypt,Kenya,0.001
+Egypt,Tunisia,0.0012
+Egypt,Kuwait,0.0012
+Egypt,Netherlands,0.004
+Egypt,Jordan,0.002
+Egypt,Turkey,0.0032
+Egypt,South Africa,0.00125
+Egypt,India,0.0023
+Egypt,Portugal,0.00125
+Egypt,Saudi Arabia,0.0027
+Egypt,Japan,0.0086
+Egypt,Spain,0.00455
+Egypt,Trinidad Tbg,0.0038
+Egypt,Sudan,0.00385
+Egypt,Greece,0.00345
+Egypt,Israel,0.0027
+Egypt,Mauritania,0.0054
+Egypt,UK,0.0092
+Egypt,USA,0.02955
+Egypt,Italy,0.02315
+El Salvador,China,0.0016
+El Salvador,Colombia,0.00095
+El Salvador,Greece,0.0001
+El Salvador,Hong Kong,0.0001
+El Salvador,Suriname,0.0001
+El Salvador,South Africa,0.0001
+El Salvador,Tunisia,0.0001
+El Salvador,Singapore,0.0002
+El Salvador,Malaysia,0.0004
+El Salvador,Philippines,0.0001
+El Salvador,Australia,0.0002
+El Salvador,Argentina,0.0007
+El Salvador,Ireland,0.00025
+El Salvador,India,0.0001
+El Salvador,Ecuador,0.00155
+El Salvador,Dominican Rp,0.0002
+El Salvador,Indonesia,0.0004
+El Salvador,Portugal,0.0002
+El Salvador,Norway,0.00015
+El Salvador,Algeria,0.0002
+El Salvador,Chile,0.00045
+El Salvador,Brazil,0.0014
+El Salvador,Cyprus,0.0003
+El Salvador,Finland,0.0007
+El Salvador,Sweden,0.0007
+El Salvador,Peru,0.00045
+El Salvador,Denmark,0.0005
+El Salvador,Thailand,0.0003
+El Salvador,Saudi Arabia,0.0006
+El Salvador,Venezuela,0.0051
+El Salvador,Morocco,0.0009
+El Salvador,Panama,0.0018
+El Salvador,Honduras,0.0015
+El Salvador,Bulgaria,0.0011
+El Salvador,Italy,0.00215
+El Salvador,UK,0.0019
+El Salvador,Spain,0.00205
+El Salvador,Mexico,0.01105
+El Salvador,Netherlands,0.0019
+El Salvador,Austria,0.00115
+El Salvador,Japan,0.00655
+El Salvador,Canada,0.003
+El Salvador,Costa Rica,0.00535
+El Salvador,Nicaragua,0.00555
+El Salvador,Guatemala,0.02555
+El Salvador,USA,0.1028
+Finland,Cuba,0.00035
+Finland,Ecuador,0.00025
+Finland,Burundi,0.00265
+Finland,Rwanda,0.0004
+Finland,Gabon,0.0001
+Finland,Madagascar,0.00015
+Finland,Paraguay,0.0001
+Finland,Burkina Faso,0.0001
+Finland,Qatar,0.0034
+Finland,Sudan,0.0002
+Finland,Mali,0.00015
+Finland,Uruguay,0.0003
+Finland,Trinidad Tbg,0.0002
+Finland,Niger,0.0002
+Finland,Uganda,0.0002
+Finland,Bangladesh,0.0002
+Finland,Afghanistan,0.00045
+Finland,Bolivia,0.0002
+Finland,Costa Rica,0.00235
+Finland,Benin,0.0003
+Finland,Venezuela,0.00025
+Finland,Honduras,0.00115
+Finland,Dominican Rp,0.0008
+Finland,Chad,0.0004
+Finland,Nigeria,0.0004
+Finland,Guatemala,0.00105
+Finland,Peru,0.0003
+Finland,Argentina,0.0004
+Finland,Colombia,0.001
+Finland,Cameroon,0.0003
+Finland,Pakistan,0.0004
+Finland,Togo,0.0004
+Finland,Iraq,0.0005
+Finland,Mauritania,0.0032
+Finland,Jamaica,0.0004
+Finland,Mozambique,0.0004
+Finland,Cote Divoire,0.00045
+Finland,Bahrain,0.0004
+Finland,Mauritius,0.0008
+Finland,Mexico,0.00035
+Finland,Oman,0.00195
+Finland,Senegal,0.00065
+Finland,Barbados,0.0007
+Finland,Iran,0.00055
+Finland,Ghana,0.00045
+Finland,Sri Lanka,0.00045
+Finland,Kuwait,0.00045
+Finland,Cambodia,0.00055
+Finland,Nepal,0.0005
+Finland,Sierra Leone,0.00055
+Finland,Saudi Arabia,0.00105
+Finland,Suriname,0.001
+Finland,New Zealand,0.00065
+Finland,India,0.0007
+Finland,El Salvador,0.0007
+Finland,Morocco,0.00095
+Finland,Syria,0.0011
+Finland,Chile,0.00115
+Finland,Indonesia,0.0008
+Finland,Philippines,0.0009
+Finland,South Africa,0.00075
+Finland,Malawi,0.00145
+Finland,Greenland,0.00345
+Finland,Zimbabwe,0.00095
+Finland,Nicaragua,0.0011
+Finland,Algeria,0.00075
+Finland,Untd Arab Em,0.0008
+Finland,Brazil,0.00135
+Finland,Malaysia,0.0015
+Finland,Thailand,0.00115
+Finland,Jordan,0.00085
+Finland,Panama,0.0019
+Finland,Kenya,0.00175
+Finland,Portugal,0.00205
+Finland,Turkey,0.00105
+Finland,Greece,0.00115
+Finland,Bulgaria,0.00125
+Finland,Malta,0.00165
+Finland,Israel,0.0013
+Finland,Hong Kong,0.0023
+Finland,Tunisia,0.00125
+Finland,Canada,0.0019
+Finland,Egypt,0.0013
+Finland,Cyprus,0.00155
+Finland,Australia,0.00195
+Finland,Austria,0.00285
+Finland,Singapore,0.00235
+Finland,Ireland,0.00315
+Finland,Zambia,0.00305
+Finland,Guyana,0.00335
+Finland,Iceland,0.0034
+Finland,China,0.00365
+Finland,Japan,0.00905
+Finland,Spain,0.0043
+Finland,Italy,0.0087
+Finland,Norway,0.0082
+Finland,Denmark,0.0081
+Finland,Netherlands,0.0092
+Finland,Seychelles,0.0076
+Finland,USA,0.01465
+Finland,UK,0.0224
+Finland,Sweden,0.0275
+Gabon,Nigeria,0.0013
+Gabon,Denmark,0.0001
+Gabon,Sri Lanka,0.0001
+Gabon,Sweden,0.00025
+Gabon,Indonesia,0.0003
+Gabon,Venezuela,0.0002
+Gabon,Tunisia,0.0002
+Gabon,Ireland,0.0004
+Gabon,Philippines,0.00025
+Gabon,Malaysia,0.0004
+Gabon,Austria,0.00035
+Gabon,India,0.00045
+Gabon,Mexico,0.00035
+Gabon,Togo,0.0007
+Gabon,South Africa,0.00115
+Gabon,Colombia,0.0008
+Gabon,Thailand,0.00145
+Gabon,Algeria,0.0015
+Gabon,Canada,0.00125
+Gabon,Cameroon,0.00315
+Gabon,Argentina,0.00135
+Gabon,Australia,0.00115
+Gabon,Hong Kong,0.0027
+Gabon,Singapore,0.00185
+Gabon,Turkey,0.0016
+Gabon,Cote Divoire,0.0023
+Gabon,Norway,0.002
+Gabon,Greece,0.00185
+Gabon,Senegal,0.00205
+Gabon,Israel,0.002
+Gabon,Portugal,0.0028
+Gabon,Morocco,0.0037
+Gabon,UK,0.00615
+Gabon,Italy,0.00715
+Gabon,Netherlands,0.0103
+Gabon,Brazil,0.00855
+Gabon,Chile,0.009
+Gabon,Japan,0.01365
+Gabon,Spain,0.01175
+Gabon,China,0.01395
+Gabon,USA,0.12165
+Ghana,Tunisia,0.0003
+Ghana,Cyprus,0.0001
+Ghana,Mexico,0.00015
+Ghana,Bulgaria,0.0004
+Ghana,Argentina,0.00035
+Ghana,Israel,0.00035
+Ghana,Iran,0.0001
+Ghana,Cote Divoire,0.0014
+Ghana,Chile,0.0001
+Ghana,Finland,0.00045
+Ghana,Morocco,0.00045
+Ghana,Niger,0.00015
+Ghana,Hong Kong,0.0002
+Ghana,Qatar,0.00015
+Ghana,Algeria,0.00105
+Ghana,Indonesia,0.00125
+Ghana,Brazil,0.00255
+Ghana,Sweden,0.00155
+Ghana,Malaysia,0.0006
+Ghana,Philippines,0.00025
+Ghana,Untd Arab Em,0.0004
+Ghana,Greece,0.0004
+Ghana,Australia,0.00155
+Ghana,South Africa,0.00495
+Ghana,Saudi Arabia,0.0004
+Ghana,New Zealand,0.0004
+Ghana,Denmark,0.00095
+Ghana,Portugal,0.0005
+Ghana,Malta,0.0008
+Ghana,Turkey,0.0012
+Ghana,Canada,0.0028
+Ghana,Egypt,0.001
+Ghana,Singapore,0.0013
+Ghana,Nigeria,0.0223
+Ghana,China,0.00505
+Ghana,Norway,0.0013
+Ghana,Burkina Faso,0.0009
+Ghana,India,0.00265
+Ghana,Austria,0.0012
+Ghana,Togo,0.00605
+Ghana,Ireland,0.00305
+Ghana,Spain,0.00535
+Ghana,Thailand,0.00475
+Ghana,Italy,0.01255
+Ghana,Netherlands,0.01165
+Ghana,Japan,0.01175
+Ghana,UK,0.037
+Ghana,USA,0.0291
+Greece,Suriname,0.0009
+Greece,Malawi,0.0006
+Greece,Paraguay,0.00015
+Greece,Afghanistan,0.0002
+Greece,Thailand,0.0003
+Greece,Nicaragua,0.0005
+Greece,Dominican Rp,0.0001
+Greece,Barbados,0.0001
+Greece,Madagascar,0.00015
+Greece,Mexico,0.0001
+Greece,India,0.0003
+Greece,Zimbabwe,0.00055
+Greece,Argentina,0.0003
+Greece,New Zealand,0.00045
+Greece,Iceland,0.00095
+Greece,Uganda,0.0002
+Greece,South Africa,0.0003
+Greece,Malaysia,0.0004
+Greece,Bangladesh,0.0001
+Greece,Gabon,0.00185
+Greece,Trinidad Tbg,0.00015
+Greece,Guatemala,0.0001
+Greece,Brazil,0.0007
+Greece,Sri Lanka,0.00025
+Greece,Hong Kong,0.0002
+Greece,Mozambique,0.0002
+Greece,Oman,0.00035
+Greece,Chad,0.0002
+Greece,Iran,0.0021
+Greece,Rwanda,0.0002
+Greece,Jamaica,0.0002
+Greece,Pakistan,0.00035
+Greece,Indonesia,0.00035
+Greece,Uruguay,0.00025
+Greece,Mali,0.0002
+Greece,Niger,0.0009
+Greece,Benin,0.0006
+Greece,Ghana,0.0004
+Greece,Morocco,0.00055
+Greece,China,0.0013
+Greece,Kenya,0.00035
+Greece,Cameroon,0.00055
+Greece,Zambia,0.0019
+Greece,Cote Divoire,0.0027
+Greece,Senegal,0.0013
+Greece,Qatar,0.00025
+Greece,Australia,0.00035
+Greece,Portugal,0.00055
+Greece,Ireland,0.00145
+Greece,Cambodia,0.00035
+Greece,Finland,0.00115
+Greece,Iraq,0.00145
+Greece,Untd Arab Em,0.0003
+Greece,Bahrain,0.0004
+Greece,Canada,0.0006
+Greece,Singapore,0.0006
+Greece,Denmark,0.00155
+Greece,Norway,0.0006
+Greece,Mauritius,0.00045
+Greece,Sudan,0.00065
+Greece,Mauritania,0.0021
+Greece,Burundi,0.0006
+Greece,Kuwait,0.00115
+Greece,Japan,0.00525
+Greece,Honduras,0.0006
+Greece,Algeria,0.00095
+Greece,Togo,0.002
+Greece,Sweden,0.002
+Greece,Sierra Leone,0.005
+Greece,Nigeria,0.0006
+Greece,Israel,0.00115
+Greece,Seychelles,0.00075
+Greece,Saudi Arabia,0.00325
+Greece,Austria,0.0018
+Greece,Turkey,0.00155
+Greece,Spain,0.0036
+Greece,Guyana,0.0013
+Greece,Netherlands,0.00755
+Greece,Egypt,0.00345
+Greece,Syria,0.00235
+Greece,Panama,0.0032
+Greece,Jordan,0.00235
+Greece,Tunisia,0.0034
+Greece,Greenland,0.00235
+Greece,USA,0.00615
+Greece,UK,0.0083
+Greece,Bulgaria,0.01075
+Greece,Italy,0.02065
+Greece,Malta,0.013
+Greece,Cyprus,0.0227
+Greenland,Malaysia,0.0001
+Greenland,Ecuador,0.0002
+Greenland,Ireland,0.0003
+Greenland,Mauritania,0.0001
+Greenland,Austria,0.00045
+Greenland,Colombia,0.00155
+Greenland,South Africa,0.00015
+Greenland,Turkey,0.0002
+Greenland,Indonesia,0.0002
+Greenland,Argentina,0.0002
+Greenland,Pakistan,0.0002
+Greenland,Nigeria,0.0006
+Greenland,Greece,0.00235
+Greenland,Italy,0.00125
+Greenland,Venezuela,0.0029
+Greenland,Spain,0.00245
+Greenland,China,0.0014
+Greenland,Canada,0.00385
+Greenland,Portugal,0.0027
+Greenland,Netherlands,0.0036
+Greenland,Finland,0.00345
+Greenland,Thailand,0.003
+Greenland,New Zealand,0.00785
+Greenland,UK,0.00535
+Greenland,Norway,0.01805
+Greenland,USA,0.00795
+Greenland,Sweden,0.0082
+Greenland,Japan,0.04815
+Greenland,Denmark,0.2848
+Guatemala,Trinidad Tbg,0.0146
+Guatemala,Malaysia,0.00025
+Guatemala,Argentina,0.0007
+Guatemala,Turkey,0.00015
+Guatemala,Australia,0.0002
+Guatemala,Ireland,0.0003
+Guatemala,South Africa,0.0002
+Guatemala,Qatar,0.0001
+Guatemala,Madagascar,0.0001
+Guatemala,India,0.00015
+Guatemala,Oman,0.0001
+Guatemala,Pakistan,0.00025
+Guatemala,Thailand,0.0002
+Guatemala,Syria,0.0001
+Guatemala,Bolivia,0.0001
+Guatemala,Hong Kong,0.0001
+Guatemala,Greece,0.0001
+Guatemala,Israel,0.0003
+Guatemala,Bahrain,0.0001
+Guatemala,Philippines,0.0002
+Guatemala,Malta,0.0002
+Guatemala,Jamaica,0.0002
+Guatemala,Guyana,0.0002
+Guatemala,Indonesia,0.00025
+Guatemala,Brazil,0.00205
+Guatemala,Tunisia,0.0002
+Guatemala,Jordan,0.0003
+Guatemala,Algeria,0.0003
+Guatemala,Bulgaria,0.0002
+Guatemala,Suriname,0.0003
+Guatemala,Untd Arab Em,0.0004
+Guatemala,Denmark,0.00035
+Guatemala,Colombia,0.00105
+Guatemala,Portugal,0.0003
+Guatemala,Morocco,0.0005
+Guatemala,Ecuador,0.00075
+Guatemala,Dominican Rp,0.0006
+Guatemala,Kuwait,0.0006
+Guatemala,Norway,0.0004
+Guatemala,Singapore,0.0004
+Guatemala,China,0.00205
+Guatemala,Spain,0.0017
+Guatemala,Venezuela,0.0042
+Guatemala,Austria,0.0006
+Guatemala,Chile,0.00095
+Guatemala,Peru,0.00085
+Guatemala,Sweden,0.00105
+Guatemala,Finland,0.00105
+Guatemala,UK,0.0021
+Guatemala,Panama,0.00115
+Guatemala,Netherlands,0.00225
+Guatemala,Saudi Arabia,0.0022
+Guatemala,Italy,0.0039
+Guatemala,Canada,0.00345
+Guatemala,Mexico,0.01385
+Guatemala,Japan,0.0069
+Guatemala,Costa Rica,0.0074
+Guatemala,Honduras,0.0107
+Guatemala,Nicaragua,0.01225
+Guatemala,El Salvador,0.02555
+Guatemala,USA,0.0892
+Guyana,Greece,0.0013
+Guyana,Iceland,0.0002
+Guyana,Malaysia,0.0016
+Guyana,Thailand,0.00075
+Guyana,Oman,0.0004
+Guyana,Algeria,0.0005
+Guyana,Ireland,0.00075
+Guyana,Denmark,0.0009
+Guyana,Tunisia,0.007
+Guyana,South Africa,0.00085
+Guyana,Singapore,0.0025
+Guyana,Turkey,0.0008
+Guyana,Peru,0.00045
+Guyana,Austria,0.00135
+Guyana,Philippines,0.0006
+Guyana,Indonesia,0.00085
+Guyana,Australia,0.0014
+Guyana,New Zealand,0.00245
+Guyana,Argentina,0.0016
+Guyana,Chile,0.0007
+Guyana,Morocco,0.00065
+Guyana,Pakistan,0.0009
+Guyana,India,0.0013
+Guyana,Senegal,0.0013
+Guyana,Ecuador,0.0015
+Guyana,Hong Kong,0.0015
+Guyana,Mexico,0.00165
+Guyana,Saudi Arabia,0.00125
+Guyana,Sweden,0.0019
+Guyana,Colombia,0.0018
+Guyana,Norway,0.0018
+Guyana,Brazil,0.00565
+Guyana,Nigeria,0.0021
+Guyana,Finland,0.00335
+Guyana,China,0.00545
+Guyana,Spain,0.00385
+Guyana,Italy,0.0074
+Guyana,Netherlands,0.01425
+Guyana,Portugal,0.00915
+Guyana,Venezuela,0.01355
+Guyana,Japan,0.0225
+Guyana,Jamaica,0.0275
+Guyana,Trinidad Tbg,0.12095
+Guyana,Canada,0.0693
+Guyana,USA,0.17575
+Guyana,UK,0.12475
+Honduras,Kuwait,0.0001
+Honduras,Hong Kong,0.0001
+Honduras,Syria,0.0001
+Honduras,Brazil,0.00275
+Honduras,Iceland,0.0001
+Honduras,Sudan,0.0001
+Honduras,Algeria,0.0001
+Honduras,Untd Arab Em,0.0001
+Honduras,Nigeria,0.0001
+Honduras,Thailand,0.0003
+Honduras,Israel,0.00035
+Honduras,Oman,0.0001
+Honduras,New Zealand,0.00015
+Honduras,Philippines,0.0001
+Honduras,Tunisia,0.0002
+Honduras,Venezuela,0.0038
+Honduras,Ecuador,0.00035
+Honduras,China,0.00275
+Honduras,South Africa,0.0002
+Honduras,Egypt,0.0002
+Honduras,Jamaica,0.00025
+Honduras,Australia,0.00025
+Honduras,Argentina,0.0006
+Honduras,Morocco,0.0003
+Honduras,India,0.0004
+Honduras,Greece,0.0006
+Honduras,Jordan,0.0004
+Honduras,Colombia,0.00165
+Honduras,Turkey,0.00055
+Honduras,Dominican Rp,0.00085
+Honduras,Panama,0.0026
+Honduras,Barbados,0.0005
+Honduras,Bulgaria,0.00035
+Honduras,Singapore,0.00175
+Honduras,Malaysia,0.00055
+Honduras,Saudi Arabia,0.00125
+Honduras,Indonesia,0.0007
+Honduras,Denmark,0.00075
+Honduras,Norway,0.0005
+Honduras,Mexico,0.01
+Honduras,Ireland,0.00085
+Honduras,Portugal,0.0007
+Honduras,El Salvador,0.0015
+Honduras,Finland,0.00115
+Honduras,Suriname,0.0024
+Honduras,Sweden,0.0018
+Honduras,Costa Rica,0.00585
+Honduras,Austria,0.0018
+Honduras,Nicaragua,0.00335
+Honduras,Netherlands,0.00415
+Honduras,UK,0.0046
+Honduras,Trinidad Tbg,0.01235
+Honduras,Guatemala,0.0107
+Honduras,Canada,0.00475
+Honduras,Italy,0.0058
+Honduras,Spain,0.0076
+Honduras,Japan,0.02095
+Honduras,USA,0.25745
+Iceland,Greenland,0.0001
+Iceland,Hong Kong,0.0001
+Iceland,Philippines,0.0001
+Iceland,Malaysia,0.0001
+Iceland,Mexico,0.0001
+Iceland,Argentina,0.0001
+Iceland,Indonesia,0.0001
+Iceland,Bulgaria,0.0001
+Iceland,Colombia,0.0001
+Iceland,Cuba,0.0001
+Iceland,Cameroon,0.0001
+Iceland,Cote Divoire,0.0001
+Iceland,Singapore,0.0001
+Iceland,Panama,0.0001
+Iceland,Guyana,0.0002
+Iceland,Chile,0.0003
+Iceland,Saudi Arabia,0.0002
+Iceland,Israel,0.00025
+Iceland,Australia,0.00055
+Iceland,Pakistan,0.00015
+Iceland,Iran,0.0002
+Iceland,Togo,0.0002
+Iceland,India,0.0002
+Iceland,New Zealand,0.00025
+Iceland,Turkey,0.0003
+Iceland,Ireland,0.0012
+Iceland,Algeria,0.0005
+Iceland,South Africa,0.00065
+Iceland,China,0.0006
+Iceland,Austria,0.00105
+Iceland,Brazil,0.00165
+Iceland,Thailand,0.00085
+Iceland,Untd Arab Em,0.0015
+Iceland,Greece,0.00095
+Iceland,Finland,0.0034
+Iceland,Sweden,0.0112
+Iceland,Italy,0.00475
+Iceland,Canada,0.00265
+Iceland,Nigeria,0.0052
+Iceland,Norway,0.01495
+Iceland,Netherlands,0.0114
+Iceland,Spain,0.00615
+Iceland,Portugal,0.00655
+Iceland,Denmark,0.0191
+Iceland,Japan,0.01715
+Iceland,USA,0.03095
+Iceland,UK,0.0395
+India,El Salvador,0.0001
+India,Venezuela,0.0001
+India,Cuba,0.0002
+India,Ecuador,0.00015
+India,Bolivia,0.0001
+India,Costa Rica,0.0001
+India,Greenland,0.0001
+India,Iceland,0.0002
+India,Argentina,0.00035
+India,Dominican Rp,0.00025
+India,Guatemala,0.00015
+India,Iraq,0.00215
+India,Peru,0.0003
+India,Barbados,0.0003
+India,Gabon,0.00045
+India,Mexico,0.00025
+India,Cameroon,0.0004
+India,Colombia,0.00025
+India,Brazil,0.00055
+India,Nicaragua,0.0004
+India,Finland,0.0007
+India,Algeria,0.00025
+India,Sweden,0.0007
+India,Norway,0.00045
+India,Chile,0.0007
+India,Trinidad Tbg,0.00055
+India,Greece,0.0003
+India,Honduras,0.0004
+India,Uruguay,0.00035
+India,Cambodia,0.0006
+India,Jamaica,0.0006
+India,Paraguay,0.00035
+India,Burkina Faso,0.0019
+India,Morocco,0.0044
+India,Austria,0.00055
+India,Suriname,0.00125
+India,Rwanda,0.0008
+India,Madagascar,0.00085
+India,Denmark,0.0008
+India,Australia,0.0017
+India,Canada,0.00095
+India,Bulgaria,0.0011
+India,Portugal,0.0005
+India,Turkey,0.0007
+India,Tunisia,0.0033
+India,Ireland,0.0007
+India,New Zealand,0.00115
+India,Spain,0.0007
+India,Cote Divoire,0.0016
+India,South Africa,0.0018
+India,Zimbabwe,0.00135
+India,Iran,0.00255
+India,China,0.0013
+India,Chad,0.0012
+India,Guyana,0.0013
+India,Netherlands,0.0012
+India,Pakistan,0.0013
+India,Syria,0.00115
+India,Panama,0.0013
+India,Burundi,0.0011
+India,Philippines,0.00105
+India,Niger,0.0019
+India,Cyprus,0.0011
+India,Mali,0.00155
+India,Indonesia,0.00195
+India,Sudan,0.00125
+India,Israel,0.0022
+India,Mauritania,0.00115
+India,Senegal,0.007
+India,Egypt,0.0023
+India,Italy,0.00205
+India,Malta,0.0023
+India,Saudi Arabia,0.00765
+India,Qatar,0.0065
+India,Ghana,0.00265
+India,Nigeria,0.01125
+India,Sierra Leone,0.00205
+India,Thailand,0.00255
+India,Malawi,0.00245
+India,Mozambique,0.00395
+India,Uganda,0.00245
+India,UK,0.0049
+India,Zambia,0.01395
+India,Malaysia,0.00905
+India,Seychelles,0.0037
+India,Japan,0.00595
+India,Benin,0.00605
+India,Jordan,0.01555
+India,Afghanistan,0.00515
+India,Kuwait,0.02535
+India,Togo,0.0065
+India,Oman,0.0061
+India,Bahrain,0.03775
+India,Kenya,0.0051
+India,Singapore,0.01355
+India,Hong Kong,0.0105
+India,Bangladesh,0.0065
+India,Untd Arab Em,0.01745
+India,USA,0.01135
+India,Sri Lanka,0.01255
+India,Nepal,0.0206
+India,Mauritius,0.01435
+Indonesia,Israel,0.0001
+Indonesia,Bolivia,0.0001
+Indonesia,Iceland,0.0001
+Indonesia,Ecuador,0.00015
+Indonesia,Chad,0.00035
+Indonesia,Burundi,0.0002
+Indonesia,Venezuela,0.00015
+Indonesia,Cuba,0.0002
+Indonesia,Malawi,0.00055
+Indonesia,Burkina Faso,0.0015
+Indonesia,Nicaragua,0.00025
+Indonesia,Cote Divoire,0.00095
+Indonesia,Guatemala,0.00025
+Indonesia,Zimbabwe,0.0011
+Indonesia,Argentina,0.0005
+Indonesia,Norway,0.00035
+Indonesia,Colombia,0.0003
+Indonesia,Zambia,0.0022
+Indonesia,Uganda,0.00025
+Indonesia,Cameroon,0.00025
+Indonesia,Uruguay,0.00025
+Indonesia,Rwanda,0.00025
+Indonesia,Gabon,0.0003
+Indonesia,Peru,0.00045
+Indonesia,Portugal,0.0004
+Indonesia,Finland,0.0008
+Indonesia,Iraq,0.0005
+Indonesia,Iran,0.0009
+Indonesia,Barbados,0.0003
+Indonesia,Paraguay,0.0004
+Indonesia,Turkey,0.00035
+Indonesia,Greece,0.00035
+Indonesia,Austria,0.0008
+Indonesia,Sweden,0.0012
+Indonesia,Costa Rica,0.0003
+Indonesia,El Salvador,0.0004
+Indonesia,South Africa,0.0006
+Indonesia,Honduras,0.0007
+Indonesia,Tunisia,0.00105
+Indonesia,Ireland,0.00055
+Indonesia,Sudan,0.00045
+Indonesia,Guyana,0.00085
+Indonesia,Morocco,0.001
+Indonesia,Bulgaria,0.00055
+Indonesia,Brazil,0.00125
+Indonesia,Chile,0.0015
+Indonesia,Nigeria,0.00185
+Indonesia,Senegal,0.00055
+Indonesia,Jamaica,0.0011
+Indonesia,Mozambique,0.00205
+Indonesia,Denmark,0.0007
+Indonesia,Madagascar,0.00285
+Indonesia,Mexico,0.00065
+Indonesia,Dominican Rp,0.001
+Indonesia,Malta,0.00055
+Indonesia,Qatar,0.0013
+Indonesia,Afghanistan,0.00065
+Indonesia,Mali,0.0014
+Indonesia,Nepal,0.0013
+Indonesia,Oman,0.0008
+Indonesia,Syria,0.0011
+Indonesia,Suriname,0.00085
+Indonesia,Algeria,0.0009
+Indonesia,Cyprus,0.0009
+Indonesia,Bahrain,0.00235
+Indonesia,India,0.00195
+Indonesia,Saudi Arabia,0.00405
+Indonesia,Kuwait,0.00395
+Indonesia,Pakistan,0.0018
+Indonesia,Kenya,0.00125
+Indonesia,Sierra Leone,0.00115
+Indonesia,Ghana,0.00125
+Indonesia,Egypt,0.00115
+Indonesia,Canada,0.0027
+Indonesia,Niger,0.0013
+Indonesia,Bangladesh,0.0013
+Indonesia,New Zealand,0.0028
+Indonesia,Benin,0.0035
+Indonesia,Spain,0.00245
+Indonesia,Seychelles,0.0024
+Indonesia,Italy,0.00385
+Indonesia,Thailand,0.00445
+Indonesia,Untd Arab Em,0.003
+Indonesia,Netherlands,0.0042
+Indonesia,Jordan,0.0057
+Indonesia,Togo,0.0046
+Indonesia,Mauritania,0.00315
+Indonesia,Sri Lanka,0.00335
+Indonesia,Australia,0.0079
+Indonesia,UK,0.0056
+Indonesia,Philippines,0.0042
+Indonesia,Hong Kong,0.0087
+Indonesia,Panama,0.00525
+Indonesia,Mauritius,0.0098
+Indonesia,China,0.0085
+Indonesia,Cambodia,0.0059
+Indonesia,Malaysia,0.01005
+Indonesia,Trinidad Tbg,0.0096
+Indonesia,USA,0.0359
+Indonesia,Singapore,0.0478
+Indonesia,Japan,0.06865
+Iran,Australia,0.00105
+Iran,Hong Kong,0.0001
+Iran,Togo,0.00425
+Iran,Denmark,0.00045
+Iran,Paraguay,0.0005
+Iran,Egypt,0.0001
+Iran,Benin,0.0001
+Iran,Senegal,0.00195
+Iran,Cameroon,0.0001
+Iran,Mexico,0.00015
+Iran,Rwanda,0.0001
+Iran,Ecuador,0.0002
+Iran,Mali,0.0001
+Iran,Zimbabwe,0.0002
+Iran,Ghana,0.0001
+Iran,Norway,0.0001
+Iran,Madagascar,0.0001
+Iran,Panama,0.0001
+Iran,New Zealand,0.00135
+Iran,Bangladesh,0.00075
+Iran,Nepal,0.00015
+Iran,Chile,0.00025
+Iran,Cyprus,0.00045
+Iran,Saudi Arabia,0.0003
+Iran,Cote Divoire,0.0003
+Iran,Malta,0.0002
+Iran,Kenya,0.00025
+Iran,Tunisia,0.0011
+Iran,Sudan,0.0004
+Iran,Jordan,0.0014
+Iran,Finland,0.00055
+Iran,Burundi,0.00055
+Iran,Austria,0.00125
+Iran,Burkina Faso,0.0006
+Iran,Malaysia,0.00085
+Iran,Canada,0.00155
+Iran,Iraq,0.0008
+Iran,Bahrain,0.00235
+Iran,Qatar,0.00205
+Iran,Indonesia,0.0009
+Iran,Oman,0.003
+Iran,Thailand,0.00145
+Iran,Sweden,0.0016
+Iran,Syria,0.00095
+Iran,UK,0.0035
+Iran,Kuwait,0.00125
+Iran,Uruguay,0.003
+Iran,Portugal,0.0013
+Iran,Sierra Leone,0.00125
+Iran,USA,0.0021
+Iran,China,0.0027
+Iran,Pakistan,0.0025
+Iran,Brazil,0.0027
+Iran,Bulgaria,0.00195
+Iran,Untd Arab Em,0.0056
+Iran,Morocco,0.0026
+Iran,India,0.00255
+Iran,Greece,0.0021
+Iran,Afghanistan,0.00235
+Iran,South Africa,0.003
+Iran,Philippines,0.00265
+Iran,Turkey,0.0049
+Iran,Spain,0.00435
+Iran,Netherlands,0.00495
+Iran,Sri Lanka,0.0049
+Iran,Singapore,0.0077
+Iran,Italy,0.00975
+Iran,Japan,0.0162
+Iraq,Chile,0.0001
+Iraq,Sweden,0.0008
+Iraq,Bahrain,0.0035
+Iraq,Sri Lanka,0.00225
+Iraq,Pakistan,0.0002
+Iraq,South Africa,0.0003
+Iraq,Saudi Arabia,0.0006
+Iraq,Cote Divoire,0.00025
+Iraq,Untd Arab Em,0.0003
+Iraq,Philippines,0.00025
+Iraq,Australia,0.0012
+Iraq,Iran,0.0008
+Iraq,Indonesia,0.0005
+Iraq,Jordan,0.01635
+Iraq,Thailand,0.0006
+Iraq,UK,0.00355
+Iraq,Singapore,0.00065
+Iraq,Canada,0.0012
+Iraq,Austria,0.0015
+Iraq,China,0.00125
+Iraq,Tunisia,0.0014
+Iraq,Madagascar,0.0018
+Iraq,Bulgaria,0.0011
+Iraq,Greece,0.00145
+Iraq,Portugal,0.0015
+Iraq,Kuwait,0.00805
+Iraq,India,0.00215
+Iraq,Netherlands,0.0036
+Iraq,Morocco,0.004
+Iraq,Japan,0.0086
+Iraq,Spain,0.0062
+Iraq,Italy,0.0098
+Iraq,Turkey,0.0102
+Iraq,Cyprus,0.00965
+Iraq,Brazil,0.0117
+Iraq,USA,0.0147
+Ireland,Ecuador,0.00025
+Ireland,Bangladesh,0.00015
+Ireland,Cambodia,0.0011
+Ireland,Madagascar,0.00015
+Ireland,Colombia,0.00045
+Ireland,Nepal,0.0002
+Ireland,Suriname,0.00025
+Ireland,Uruguay,0.00015
+Ireland,Cuba,0.0003
+Ireland,Malawi,0.0005
+Ireland,Peru,0.0002
+Ireland,Dominican Rp,0.00025
+Ireland,Bolivia,0.0003
+Ireland,Afghanistan,0.0002
+Ireland,Rwanda,0.0005
+Ireland,Niger,0.0005
+Ireland,Venezuela,0.0003
+Ireland,Bulgaria,0.00025
+Ireland,Pakistan,0.00035
+Ireland,Indonesia,0.00055
+Ireland,Burundi,0.0003
+Ireland,El Salvador,0.00025
+Ireland,Burkina Faso,0.0003
+Ireland,Zimbabwe,0.0006
+Ireland,India,0.0007
+Ireland,Mali,0.00155
+Ireland,Mozambique,0.00035
+Ireland,Iraq,0.0005
+Ireland,Guatemala,0.0003
+Ireland,Chad,0.0004
+Ireland,Greenland,0.0003
+Ireland,Tunisia,0.00065
+Ireland,Gabon,0.0004
+Ireland,Morocco,0.0007
+Ireland,Honduras,0.00085
+Ireland,Chile,0.00035
+Ireland,Syria,0.0003
+Ireland,Uganda,0.0003
+Ireland,Sudan,0.0003
+Ireland,Argentina,0.00045
+Ireland,Sri Lanka,0.0008
+Ireland,Algeria,0.00035
+Ireland,Togo,0.00055
+Ireland,Nicaragua,0.0004
+Ireland,Panama,0.0005
+Ireland,Barbados,0.001
+Ireland,Cote Divoire,0.0014
+Ireland,Cameroon,0.00045
+Ireland,Oman,0.0004
+Ireland,Mauritania,0.00095
+Ireland,Qatar,0.0007
+Ireland,New Zealand,0.00055
+Ireland,Jamaica,0.00045
+Ireland,Iran,0.0008
+Ireland,Kenya,0.0012
+Ireland,Thailand,0.0012
+Ireland,Paraguay,0.0005
+Ireland,Benin,0.00055
+Ireland,China,0.00275
+Ireland,Guyana,0.00075
+Ireland,Untd Arab Em,0.00055
+Ireland,Kuwait,0.00065
+Ireland,Costa Rica,0.00095
+Ireland,Zambia,0.0007
+Ireland,Senegal,0.0009
+Ireland,Sierra Leone,0.00105
+Ireland,Trinidad Tbg,0.0008
+Ireland,Ghana,0.00305
+Ireland,Hong Kong,0.0015
+Ireland,Jordan,0.00085
+Ireland,Philippines,0.0013
+Ireland,Bahrain,0.0016
+Ireland,Brazil,0.0014
+Ireland,Israel,0.00165
+Ireland,Mauritius,0.0014
+Ireland,Seychelles,0.00115
+Ireland,Turkey,0.00135
+Ireland,Iceland,0.0012
+Ireland,Nigeria,0.0011
+Ireland,Portugal,0.00185
+Ireland,Saudi Arabia,0.0013
+Ireland,South Africa,0.0016
+Ireland,Greece,0.00145
+Ireland,Egypt,0.0014
+Ireland,Mexico,0.0017
+Ireland,Finland,0.00315
+Ireland,Singapore,0.00805
+Ireland,Cyprus,0.00215
+Ireland,Austria,0.0026
+Ireland,Malaysia,0.0041
+Ireland,Australia,0.0026
+Ireland,Norway,0.0051
+Ireland,Denmark,0.00455
+Ireland,Malta,0.00335
+Ireland,Canada,0.00505
+Ireland,Sweden,0.0074
+Ireland,Spain,0.0103
+Ireland,Japan,0.0243
+Ireland,Italy,0.0175
+Ireland,Netherlands,0.0209
+Ireland,USA,0.07165
+Ireland,UK,0.16345
+Israel,Gabon,0.002
+Israel,Mali,0.0001
+Israel,Trinidad Tbg,0.0001
+Israel,Madagascar,0.0001
+Israel,Barbados,0.0001
+Israel,Chad,0.0001
+Israel,Tunisia,0.0001
+Israel,Burkina Faso,0.0001
+Israel,Indonesia,0.0001
+Israel,Burundi,0.0002
+Israel,El Salvador,0.0002
+Israel,Morocco,0.00015
+Israel,Cambodia,0.0002
+Israel,Senegal,0.0002
+Israel,Benin,0.0002
+Israel,Dominican Rp,0.0002
+Israel,Peru,0.00015
+Israel,Nepal,0.0002
+Israel,Qatar,0.0002
+Israel,Togo,0.0002
+Israel,Cameroon,0.0002
+Israel,Cote Divoire,0.0003
+Israel,Guyana,0.0003
+Israel,Venezuela,0.0003
+Israel,Rwanda,0.0003
+Israel,Iceland,0.00025
+Israel,Bolivia,0.0004
+Israel,Niger,0.0003
+Israel,New Zealand,0.0004
+Israel,Uganda,0.00035
+Israel,Ecuador,0.0003
+Israel,Bulgaria,0.00075
+Israel,Nicaragua,0.0005
+Israel,Sierra Leone,0.0005
+Israel,Guatemala,0.0003
+Israel,Suriname,0.00055
+Israel,Uruguay,0.0019
+Israel,Jamaica,0.00035
+Israel,Seychelles,0.0005
+Israel,Norway,0.0011
+Israel,Egypt,0.0027
+Israel,Finland,0.0013
+Israel,Honduras,0.00035
+Israel,Chile,0.00035
+Israel,Malawi,0.0006
+Israel,Ghana,0.00035
+Israel,Nigeria,0.0007
+Israel,Portugal,0.0008
+Israel,Denmark,0.00105
+Israel,Colombia,0.0006
+Israel,Zambia,0.0004
+Israel,Paraguay,0.0005
+Israel,Argentina,0.00075
+Israel,Panama,0.00085
+Israel,Costa Rica,0.00055
+Israel,Mauritius,0.0005
+Israel,Mexico,0.0014
+Israel,Austria,0.0011
+Israel,Greece,0.00115
+Israel,Sweden,0.00225
+Israel,Malta,0.00155
+Israel,Sri Lanka,0.0011
+Israel,Ireland,0.00165
+Israel,Philippines,0.0009
+Israel,China,0.00215
+Israel,Brazil,0.00125
+Israel,Thailand,0.00165
+Israel,Turkey,0.00195
+Israel,South Africa,0.0033
+Israel,Kenya,0.00155
+Israel,Australia,0.00155
+Israel,Zimbabwe,0.0016
+Israel,India,0.0022
+Israel,Canada,0.0023
+Israel,Singapore,0.00225
+Israel,Jordan,0.00245
+Israel,Spain,0.0038
+Israel,Italy,0.0126
+Israel,Hong Kong,0.0074
+Israel,Netherlands,0.0087
+Israel,Cyprus,0.00555
+Israel,Japan,0.0103
+Israel,UK,0.01885
+Israel,USA,0.0624
+Italy,Afghanistan,0.0009
+Italy,Nepal,0.00115
+Italy,Cambodia,0.0011
+Italy,Barbados,0.0008
+Italy,Bangladesh,0.00325
+Italy,India,0.00205
+Italy,Greenland,0.00125
+Italy,Mexico,0.0016
+Italy,Philippines,0.00235
+Italy,Malawi,0.00225
+Italy,Brazil,0.00315
+Italy,Canada,0.00265
+Italy,China,0.00385
+Italy,Bolivia,0.0026
+Italy,Rwanda,0.0027
+Italy,Chad,0.0023
+Italy,El Salvador,0.00215
+Italy,Colombia,0.0032
+Italy,Indonesia,0.00385
+Italy,Peru,0.00435
+Italy,Honduras,0.0058
+Italy,Trinidad Tbg,0.00585
+Italy,Sri Lanka,0.0041
+Italy,Uganda,0.00445
+Italy,Cuba,0.0027
+Italy,Guatemala,0.0039
+Italy,Japan,0.00375
+Italy,Madagascar,0.0056
+Italy,Australia,0.0035
+Italy,Argentina,0.0037
+Italy,Nicaragua,0.0035
+Italy,Zimbabwe,0.0081
+Italy,Zambia,0.0109
+Italy,New Zealand,0.00415
+Italy,Burkina Faso,0.00495
+Italy,Costa Rica,0.00705
+Italy,Niger,0.0028
+Italy,Dominican Rp,0.0032
+Italy,Sudan,0.0049
+Italy,Ecuador,0.0051
+Italy,Thailand,0.00505
+Italy,Pakistan,0.00485
+Italy,Cameroon,0.01575
+Italy,Gabon,0.00715
+Italy,Paraguay,0.0057
+Italy,Jamaica,0.00385
+Italy,Suriname,0.0077
+Italy,Iceland,0.00475
+Italy,Mali,0.0062
+Italy,Guyana,0.0074
+Italy,South Africa,0.01175
+Italy,Chile,0.00795
+Italy,Burundi,0.00425
+Italy,Iraq,0.0098
+Italy,Iran,0.00975
+Italy,Oman,0.0043
+Italy,Norway,0.0063
+Italy,Venezuela,0.00655
+Italy,Uruguay,0.0063
+Italy,Malaysia,0.0077
+Italy,Sweden,0.0092
+Italy,Kenya,0.00675
+Italy,Finland,0.0087
+Italy,Cote Divoire,0.0186
+Italy,Sierra Leone,0.00475
+Italy,Denmark,0.0107
+Italy,Ireland,0.0175
+Italy,Nigeria,0.0158
+Italy,Mozambique,0.0062
+Italy,Senegal,0.01155
+Italy,UK,0.0102
+Italy,Saudi Arabia,0.0143
+Italy,Netherlands,0.021
+Italy,Mauritius,0.01395
+Italy,Morocco,0.01135
+Italy,Togo,0.01155
+Italy,Benin,0.0097
+Italy,Untd Arab Em,0.00885
+Italy,Turkey,0.01105
+Italy,USA,0.01185
+Italy,Qatar,0.01275
+Italy,Ghana,0.01255
+Italy,Mauritania,0.0438
+Italy,Bulgaria,0.01665
+Italy,Bahrain,0.01025
+Italy,Kuwait,0.017
+Italy,Spain,0.0142
+Italy,Israel,0.0126
+Italy,Seychelles,0.03505
+Italy,Hong Kong,0.0188
+Italy,Algeria,0.0317
+Italy,Singapore,0.01365
+Italy,Syria,0.0252
+Italy,Egypt,0.02315
+Italy,Portugal,0.0159
+Italy,Austria,0.0236
+Italy,Greece,0.02065
+Italy,Jordan,0.0178
+Italy,Panama,0.02285
+Italy,Cyprus,0.0231
+Italy,Tunisia,0.05765
+Italy,Malta,0.1582
+Jamaica,Chile,0.0002
+Jamaica,Ireland,0.00045
+Jamaica,Peru,0.0001
+Jamaica,Saudi Arabia,0.0001
+Jamaica,Uruguay,0.0002
+Jamaica,Panama,0.0001
+Jamaica,Singapore,0.00045
+Jamaica,Malaysia,0.00045
+Jamaica,Sri Lanka,0.0001
+Jamaica,Tunisia,0.0001
+Jamaica,Ecuador,0.0001
+Jamaica,Malta,0.0001
+Jamaica,Honduras,0.00025
+Jamaica,Finland,0.0004
+Jamaica,Nigeria,0.0002
+Jamaica,Austria,0.00025
+Jamaica,Philippines,0.00015
+Jamaica,Hong Kong,0.0002
+Jamaica,Turkey,0.0009
+Jamaica,Greece,0.0002
+Jamaica,Israel,0.00035
+Jamaica,Pakistan,0.0003
+Jamaica,Colombia,0.00085
+Jamaica,Paraguay,0.0004
+Jamaica,Dominican Rp,0.0006
+Jamaica,Argentina,0.00085
+Jamaica,Denmark,0.0016
+Jamaica,New Zealand,0.0014
+Jamaica,Portugal,0.0005
+Jamaica,Australia,0.001
+Jamaica,Venezuela,0.0076
+Jamaica,Mexico,0.0166
+Jamaica,Indonesia,0.0011
+Jamaica,South Africa,0.00155
+Jamaica,China,0.0028
+Jamaica,Italy,0.00385
+Jamaica,Suriname,0.00125
+Jamaica,Brazil,0.01105
+Jamaica,Sweden,0.00255
+Jamaica,Japan,0.0105
+Jamaica,Spain,0.00735
+Jamaica,Barbados,0.0057
+Jamaica,Guyana,0.0275
+Jamaica,Netherlands,0.0082
+Jamaica,Trinidad Tbg,0.0113
+Jamaica,Ghana,0.0151
+Jamaica,Norway,0.0117
+Jamaica,Canada,0.0206
+Jamaica,UK,0.0293
+Jamaica,USA,0.1728
+Japan,Chad,0.00245
+Japan,Greenland,0.04815
+Japan,Argentina,0.00305
+Japan,Italy,0.00375
+Japan,Mali,0.0025
+Japan,Cuba,0.00375
+Japan,Brazil,0.00465
+Japan,Sudan,0.0045
+Japan,Morocco,0.0062
+Japan,Uruguay,0.00325
+Japan,Cameroon,0.0036
+Japan,Bulgaria,0.00345
+Japan,Niger,0.00275
+Japan,Senegal,0.00425
+Japan,India,0.00595
+Japan,Burkina Faso,0.00405
+Japan,Uganda,0.0043
+Japan,Spain,0.0043
+Japan,Madagascar,0.0094
+Japan,Cote Divoire,0.00505
+Japan,Turkey,0.00425
+Japan,Mozambique,0.0067
+Japan,Denmark,0.00865
+Japan,Algeria,0.0057
+Japan,Mexico,0.00645
+Japan,Portugal,0.00495
+Japan,Venezuela,0.0074
+Japan,Tunisia,0.00465
+Japan,Bolivia,0.0052
+Japan,Guatemala,0.0069
+Japan,Zimbabwe,0.01285
+Japan,Burundi,0.00585
+Japan,Gabon,0.01365
+Japan,Iraq,0.0086
+Japan,Peru,0.0109
+Japan,Sweden,0.00795
+Japan,Benin,0.00505
+Japan,Bangladesh,0.00615
+Japan,Greece,0.00525
+Japan,El Salvador,0.00655
+Japan,Sierra Leone,0.00595
+Japan,Austria,0.00685
+Japan,Rwanda,0.00545
+Japan,Israel,0.0103
+Japan,Iran,0.0162
+Japan,Mauritania,0.0607
+Japan,Cambodia,0.0072
+Japan,Ghana,0.01175
+Japan,UK,0.0076
+Japan,Nicaragua,0.01055
+Japan,Colombia,0.0078
+Japan,Norway,0.0086
+Japan,Malawi,0.0169
+Japan,Finland,0.00905
+Japan,Ecuador,0.01025
+Japan,Zambia,0.04145
+Japan,Syria,0.00705
+Japan,Iceland,0.01715
+Japan,Dominican Rp,0.00775
+Japan,Egypt,0.0086
+Japan,Netherlands,0.00895
+Japan,Costa Rica,0.00895
+Japan,Canada,0.014
+Japan,Nepal,0.0075
+Japan,Chile,0.0256
+Japan,Nigeria,0.00845
+Japan,Paraguay,0.01015
+Japan,Togo,0.00865
+Japan,Trinidad Tbg,0.0093
+Japan,South Africa,0.0173
+Japan,Jamaica,0.0105
+Japan,Barbados,0.0089
+Japan,Honduras,0.02095
+Japan,Seychelles,0.01395
+Japan,Kenya,0.01085
+Japan,Mauritius,0.01145
+Japan,Pakistan,0.0148
+Japan,Suriname,0.02485
+Japan,Malta,0.01175
+Japan,Guyana,0.0225
+Japan,Australia,0.03085
+Japan,Ireland,0.0243
+Japan,Jordan,0.0161
+Japan,Afghanistan,0.0139
+Japan,Saudi Arabia,0.05585
+Japan,USA,0.0225
+Japan,China,0.03475
+Japan,Qatar,0.15475
+Japan,Untd Arab Em,0.0951
+Japan,New Zealand,0.03485
+Japan,Sri Lanka,0.02555
+Japan,Cyprus,0.0193
+Japan,Bahrain,0.05455
+Japan,Indonesia,0.06865
+Japan,Kuwait,0.0671
+Japan,Oman,0.1086
+Japan,Philippines,0.0607
+Japan,Thailand,0.07935
+Japan,Malaysia,0.14565
+Japan,Hong Kong,0.1709
+Japan,Singapore,0.17165
+Japan,Panama,0.2505
+Jordan,Finland,0.00085
+Jordan,Mexico,0.0001
+Jordan,Norway,0.0003
+Jordan,Bahrain,0.0001
+Jordan,Sweden,0.00225
+Jordan,Canada,0.00085
+Jordan,Morocco,0.0004
+Jordan,Sudan,0.0005
+Jordan,Portugal,0.0005
+Jordan,South Africa,0.001
+Jordan,Sri Lanka,0.0007
+Jordan,Ireland,0.00085
+Jordan,Oman,0.00055
+Jordan,Nigeria,0.0003
+Jordan,Austria,0.0022
+Jordan,Tunisia,0.00075
+Jordan,Venezuela,0.0003
+Jordan,Hong Kong,0.0007
+Jordan,Spain,0.00435
+Jordan,Bulgaria,0.00205
+Jordan,New Zealand,0.0016
+Jordan,Singapore,0.00195
+Jordan,Brazil,0.00495
+Jordan,Bangladesh,0.00065
+Jordan,Greece,0.00235
+Jordan,Algeria,0.00115
+Jordan,Philippines,0.00075
+Jordan,Australia,0.0025
+Jordan,Thailand,0.00385
+Jordan,Qatar,0.0014
+Jordan,Israel,0.00245
+Jordan,Iran,0.0014
+Jordan,USA,0.02775
+Jordan,Malaysia,0.00625
+Jordan,Netherlands,0.00725
+Jordan,Turkey,0.01165
+Jordan,Pakistan,0.00235
+Jordan,Italy,0.0178
+Jordan,Syria,0.0055
+Jordan,China,0.0104
+Jordan,Untd Arab Em,0.00275
+Jordan,UK,0.0177
+Jordan,Indonesia,0.0057
+Jordan,Japan,0.0161
+Jordan,Kuwait,0.00545
+Jordan,Saudi Arabia,0.02475
+Jordan,India,0.01555
+Jordan,Iraq,0.01635
+Kenya,New Zealand,0.0001
+Kenya,Turkey,0.0002
+Kenya,Tunisia,0.0001
+Kenya,Mexico,0.0003
+Kenya,Brazil,0.0007
+Kenya,Bahrain,0.0001
+Kenya,Cote Divoire,0.0001
+Kenya,Argentina,0.0011
+Kenya,Algeria,0.00045
+Kenya,Qatar,0.00015
+Kenya,Peru,0.0001
+Kenya,Nigeria,0.00015
+Kenya,Madagascar,0.0002
+Kenya,Kuwait,0.00025
+Kenya,Iran,0.00025
+Kenya,China,0.0037
+Kenya,Oman,0.0011
+Kenya,Philippines,0.0003
+Kenya,Greece,0.00035
+Kenya,Norway,0.00045
+Kenya,Indonesia,0.00125
+Kenya,Denmark,0.001
+Kenya,Malaysia,0.0011
+Kenya,Egypt,0.001
+Kenya,Portugal,0.00045
+Kenya,Jordan,0.0006
+Kenya,Austria,0.00075
+Kenya,Untd Arab Em,0.0004
+Kenya,Australia,0.0009
+Kenya,Sri Lanka,0.00055
+Kenya,Hong Kong,0.001
+Kenya,Israel,0.00155
+Kenya,Thailand,0.00175
+Kenya,South Africa,0.01125
+Kenya,Saudi Arabia,0.0055
+Kenya,Canada,0.00165
+Kenya,India,0.0051
+Kenya,Ireland,0.0012
+Kenya,Finland,0.00175
+Kenya,Singapore,0.00335
+Kenya,Japan,0.01085
+Kenya,Spain,0.00205
+Kenya,Sudan,0.0024
+Kenya,Sweden,0.0025
+Kenya,Italy,0.00675
+Kenya,Seychelles,0.0087
+Kenya,Netherlands,0.0076
+Kenya,Pakistan,0.0061
+Kenya,USA,0.0116
+Kenya,UK,0.03025
+Kuwait,Bangladesh,0.0001
+Kuwait,Mozambique,0.00025
+Kuwait,Austria,0.0009
+Kuwait,Nigeria,0.0001
+Kuwait,Malta,0.0004
+Kuwait,Zimbabwe,0.00015
+Kuwait,Norway,0.00025
+Kuwait,Argentina,0.0003
+Kuwait,Cyprus,0.00085
+Kuwait,Uganda,0.0001
+Kuwait,Finland,0.00045
+Kuwait,Chile,0.00055
+Kuwait,Ireland,0.00065
+Kuwait,Sweden,0.0014
+Kuwait,Portugal,0.00035
+Kuwait,Kenya,0.00025
+Kuwait,Afghanistan,0.0002
+Kuwait,Canada,0.0018
+Kuwait,New Zealand,0.0006
+Kuwait,Iran,0.00125
+Kuwait,Sri Lanka,0.00085
+Kuwait,Sudan,0.00035
+Kuwait,Oman,0.001
+Kuwait,Tunisia,0.00045
+Kuwait,Nepal,0.0007
+Kuwait,Egypt,0.0012
+Kuwait,Hong Kong,0.0008
+Kuwait,Syria,0.0019
+Kuwait,Mauritania,0.0005
+Kuwait,Qatar,0.002
+Kuwait,Seychelles,0.0013
+Kuwait,Greece,0.00115
+Kuwait,Bahrain,0.005
+Kuwait,Malaysia,0.0022
+Kuwait,Morocco,0.0014
+Kuwait,Spain,0.00305
+Kuwait,Jordan,0.00545
+Kuwait,Untd Arab Em,0.004
+Kuwait,China,0.0048
+Kuwait,South Africa,0.0021
+Kuwait,Thailand,0.00325
+Kuwait,Saudi Arabia,0.0083
+Kuwait,Turkey,0.00465
+Kuwait,Australia,0.00515
+Kuwait,Indonesia,0.00395
+Kuwait,Philippines,0.00355
+Kuwait,Denmark,0.00455
+Kuwait,UK,0.0142
+Kuwait,Brazil,0.00645
+Kuwait,Iraq,0.00805
+Kuwait,Italy,0.017
+Kuwait,Pakistan,0.0118
+Kuwait,Singapore,0.01735
+Kuwait,Netherlands,0.0211
+Kuwait,USA,0.03855
+Kuwait,India,0.02535
+Kuwait,Japan,0.0671
+Madagascar,Kuwait,0.0001
+Madagascar,Norway,0.0001
+Madagascar,Pakistan,0.0006
+Madagascar,Argentina,0.00045
+Madagascar,Australia,0.00025
+Madagascar,Senegal,0.0001
+Madagascar,Untd Arab Em,0.0027
+Madagascar,Bulgaria,0.0001
+Madagascar,Turkey,0.0002
+Madagascar,Ireland,0.00015
+Madagascar,Chile,0.0001
+Madagascar,Seychelles,0.0001
+Madagascar,Colombia,0.0001
+Madagascar,Morocco,0.00015
+Madagascar,Greece,0.00015
+Madagascar,Malaysia,0.00085
+Madagascar,Kenya,0.0002
+Madagascar,Finland,0.00015
+Madagascar,Saudi Arabia,0.0049
+Madagascar,Mauritius,0.0002
+Madagascar,Nigeria,0.0003
+Madagascar,Mexico,0.00045
+Madagascar,Philippines,0.0002
+Madagascar,Tunisia,0.00025
+Madagascar,South Africa,0.0047
+Madagascar,Hong Kong,0.0007
+Madagascar,Denmark,0.00055
+Madagascar,India,0.00085
+Madagascar,Austria,0.0006
+Madagascar,Oman,0.001
+Madagascar,China,0.0029
+Madagascar,Canada,0.0007
+Madagascar,Sweden,0.0008
+Madagascar,Thailand,0.0026
+Madagascar,Portugal,0.00105
+Madagascar,Netherlands,0.002
+Madagascar,Algeria,0.00115
+Madagascar,Spain,0.0027
+Madagascar,Indonesia,0.00285
+Madagascar,Singapore,0.0046
+Madagascar,UK,0.004
+Madagascar,Italy,0.0056
+Madagascar,Japan,0.0094
+Madagascar,USA,0.01365
+Malawi,Togo,0.0001
+Malawi,Seychelles,0.0001
+Malawi,Ecuador,0.0001
+Malawi,Chile,0.0001
+Malawi,Untd Arab Em,0.0001
+Malawi,Malaysia,0.0002
+Malawi,Hong Kong,0.0002
+Malawi,Algeria,0.0003
+Malawi,Peru,0.0003
+Malawi,Cameroon,0.0003
+Malawi,Cyprus,0.0003
+Malawi,Venezuela,0.0004
+Malawi,China,0.00075
+Malawi,Tunisia,0.0005
+Malawi,Singapore,0.0005
+Malawi,Cote Divoire,0.0005
+Malawi,Saudi Arabia,0.0005
+Malawi,Ireland,0.0005
+Malawi,Norway,0.0006
+Malawi,Canada,0.0011
+Malawi,Indonesia,0.00055
+Malawi,Bulgaria,0.0009
+Malawi,India,0.00245
+Malawi,Mexico,0.001
+Malawi,New Zealand,0.00075
+Malawi,Brazil,0.0009
+Malawi,Thailand,0.00105
+Malawi,Morocco,0.0011
+Malawi,Greece,0.0006
+Malawi,Sweden,0.00085
+Malawi,Austria,0.0012
+Malawi,Egypt,0.0014
+Malawi,Finland,0.00145
+Malawi,Italy,0.00225
+Malawi,Argentina,0.0016
+Malawi,Philippines,0.0011
+Malawi,Denmark,0.0021
+Malawi,Pakistan,0.0015
+Malawi,Nigeria,0.0027
+Malawi,Turkey,0.0016
+Malawi,Australia,0.002
+Malawi,Portugal,0.00205
+Malawi,Spain,0.0027
+Malawi,Netherlands,0.0113
+Malawi,Japan,0.0169
+Malawi,UK,0.02365
+Malawi,USA,0.01895
+Malawi,South Africa,0.0804
+Malaysia,Venezuela,0.0001
+Malaysia,Trinidad Tbg,0.0001
+Malaysia,Dominican Rp,0.0001
+Malaysia,Burundi,0.00015
+Malaysia,Israel,0.0001
+Malaysia,Mali,0.00095
+Malaysia,Iceland,0.0001
+Malaysia,Rwanda,0.00055
+Malaysia,Ecuador,0.0001
+Malaysia,Chad,0.00025
+Malaysia,Bolivia,0.0008
+Malaysia,Cuba,0.0003
+Malaysia,Burkina Faso,0.00095
+Malaysia,Malawi,0.0002
+Malaysia,Bulgaria,0.00025
+Malaysia,Barbados,0.0003
+Malaysia,Senegal,0.0002
+Malaysia,Niger,0.0002
+Malaysia,Zambia,0.00575
+Malaysia,Colombia,0.0002
+Malaysia,Uganda,0.0002
+Malaysia,Sierra Leone,0.0004
+Malaysia,Cote Divoire,0.0009
+Malaysia,Algeria,0.0002
+Malaysia,Cameroon,0.00035
+Malaysia,Peru,0.00055
+Malaysia,Gabon,0.0004
+Malaysia,Zimbabwe,0.00065
+Malaysia,Morocco,0.00025
+Malaysia,Guatemala,0.00025
+Malaysia,Honduras,0.00055
+Malaysia,Paraguay,0.00045
+Malaysia,Nicaragua,0.00035
+Malaysia,Iraq,0.0006
+Malaysia,Greece,0.0004
+Malaysia,Tunisia,0.0006
+Malaysia,Nigeria,0.00045
+Malaysia,El Salvador,0.0004
+Malaysia,Portugal,0.00055
+Malaysia,Uruguay,0.00045
+Malaysia,Ghana,0.0006
+Malaysia,Jamaica,0.00045
+Malaysia,Benin,0.0009
+Malaysia,Nepal,0.0005
+Malaysia,Togo,0.0023
+Malaysia,Iran,0.00085
+Malaysia,Norway,0.0009
+Malaysia,Cyprus,0.00075
+Malaysia,Chile,0.0014
+Malaysia,Argentina,0.00155
+Malaysia,Sudan,0.0007
+Malaysia,Qatar,0.0018
+Malaysia,Finland,0.0015
+Malaysia,Madagascar,0.00085
+Malaysia,Mauritania,0.0015
+Malaysia,Afghanistan,0.00085
+Malaysia,Syria,0.00085
+Malaysia,Suriname,0.00085
+Malaysia,Denmark,0.0015
+Malaysia,Kenya,0.0011
+Malaysia,Austria,0.00145
+Malaysia,Kuwait,0.0022
+Malaysia,Sweden,0.0038
+Malaysia,Bangladesh,0.0012
+Malaysia,Turkey,0.0017
+Malaysia,Egypt,0.0014
+Malaysia,South Africa,0.0022
+Malaysia,Mozambique,0.00185
+Malaysia,Saudi Arabia,0.00385
+Malaysia,Seychelles,0.00185
+Malaysia,Oman,0.00285
+Malaysia,New Zealand,0.00375
+Malaysia,Guyana,0.0016
+Malaysia,Bahrain,0.0035
+Malaysia,Brazil,0.00325
+Malaysia,Malta,0.0049
+Malaysia,Ireland,0.0041
+Malaysia,Costa Rica,0.0025
+Malaysia,Untd Arab Em,0.00285
+Malaysia,Spain,0.0031
+Malaysia,Mexico,0.00295
+Malaysia,Mauritius,0.0035
+Malaysia,Indonesia,0.01005
+Malaysia,Cambodia,0.00525
+Malaysia,Italy,0.0077
+Malaysia,Panama,0.00525
+Malaysia,Pakistan,0.00475
+Malaysia,Jordan,0.00625
+Malaysia,Philippines,0.00965
+Malaysia,Sri Lanka,0.0058
+Malaysia,Canada,0.00805
+Malaysia,India,0.00905
+Malaysia,Australia,0.01815
+Malaysia,Netherlands,0.01155
+Malaysia,China,0.0219
+Malaysia,Thailand,0.02505
+Malaysia,UK,0.0262
+Malaysia,Hong Kong,0.0341
+Malaysia,Japan,0.14565
+Malaysia,USA,0.146
+Malaysia,Singapore,0.16305
+Mali,Finland,0.00015
+Mali,Pakistan,0.0007
+Mali,Australia,0.00025
+Mali,Israel,0.0001
+Mali,Norway,0.0002
+Mali,Chile,0.0001
+Mali,Togo,0.0002
+Mali,Trinidad Tbg,0.0001
+Mali,Peru,0.00025
+Mali,Senegal,0.00735
+Mali,Sweden,0.00025
+Mali,Greece,0.0002
+Mali,Austria,0.0006
+Mali,Hong Kong,0.0003
+Mali,Nigeria,0.00075
+Mali,Turkey,0.00045
+Mali,Burkina Faso,0.0005
+Mali,Denmark,0.0005
+Mali,Netherlands,0.0027
+Mali,India,0.00155
+Mali,Cote Divoire,0.01905
+Mali,Venezuela,0.0012
+Mali,Philippines,0.0007
+Mali,South Africa,0.0033
+Mali,Japan,0.0025
+Mali,USA,0.00425
+Mali,Indonesia,0.0014
+Mali,Tunisia,0.001
+Mali,Malaysia,0.00095
+Mali,UK,0.00395
+Mali,Morocco,0.00185
+Mali,Spain,0.00335
+Mali,Niger,0.0014
+Mali,Mexico,0.0027
+Mali,Ireland,0.00155
+Mali,Canada,0.0031
+Mali,Portugal,0.00225
+Mali,Algeria,0.0024
+Mali,China,0.0059
+Mali,Italy,0.0062
+Mali,Brazil,0.0044
+Mali,Thailand,0.00575
+Malta,Venezuela,0.0001
+Malta,Cyprus,0.0003
+Malta,New Zealand,0.00055
+Malta,Morocco,0.00035
+Malta,Nigeria,0.00035
+Malta,Iran,0.0002
+Malta,Indonesia,0.00055
+Malta,Egypt,0.0002
+Malta,Qatar,0.0002
+Malta,Bulgaria,0.002
+Malta,Chile,0.00035
+Malta,Peru,0.0002
+Malta,Oman,0.0003
+Malta,Colombia,0.0008
+Malta,Jordan,0.0005
+Malta,South Africa,0.0008
+Malta,Algeria,0.00355
+Malta,Australia,0.00105
+Malta,Kuwait,0.0004
+Malta,Untd Arab Em,0.0008
+Malta,Pakistan,0.00065
+Malta,Argentina,0.00145
+Malta,Ireland,0.00335
+Malta,Bahrain,0.0011
+Malta,Finland,0.00165
+Malta,Philippines,0.0009
+Malta,Saudi Arabia,0.00205
+Malta,Denmark,0.0044
+Malta,Iraq,0.0016
+Malta,Israel,0.00155
+Malta,Seychelles,0.0019
+Malta,Austria,0.0024
+Malta,Hong Kong,0.002
+Malta,Portugal,0.00195
+Malta,India,0.0023
+Malta,Brazil,0.00325
+Malta,Thailand,0.00215
+Malta,Japan,0.01175
+Malta,Sweden,0.00295
+Malta,China,0.0042
+Malta,Mexico,0.0016
+Malta,Spain,0.0112
+Malta,Tunisia,0.00205
+Malta,Turkey,0.00645
+Malta,Greece,0.013
+Malta,Malaysia,0.0049
+Malta,Norway,0.01015
+Malta,Netherlands,0.012
+Malta,Canada,0.0043
+Malta,Bangladesh,0.0088
+Malta,UK,0.06655
+Malta,Singapore,0.04505
+Malta,USA,0.0413
+Malta,Italy,0.1582
+Mauritania,Saudi Arabia,0.0004
+Mauritania,India,0.00115
+Mauritania,Kuwait,0.0005
+Mauritania,Denmark,0.0009
+Mauritania,Canada,0.00345
+Mauritania,Austria,0.00065
+Mauritania,Indonesia,0.00315
+Mauritania,Mexico,0.00065
+Mauritania,Morocco,0.00195
+Mauritania,Singapore,0.00055
+Mauritania,South Africa,0.0007
+Mauritania,Hong Kong,0.0005
+Mauritania,Turkey,0.0006
+Mauritania,Tunisia,0.0007
+Mauritania,Sweden,0.00145
+Mauritania,Senegal,0.01535
+Mauritania,Ireland,0.00095
+Mauritania,Netherlands,0.00805
+Mauritania,China,0.00835
+Mauritania,Brazil,0.00245
+Mauritania,Norway,0.0014
+Mauritania,Pakistan,0.0039
+Mauritania,Philippines,0.003
+Mauritania,Thailand,0.0064
+Mauritania,Greece,0.0021
+Mauritania,Bulgaria,0.0023
+Mauritania,Algeria,0.01405
+Mauritania,Portugal,0.00325
+Mauritania,USA,0.01275
+Mauritania,Finland,0.0032
+Mauritania,Cote Divoire,0.0072
+Mauritania,UK,0.01065
+Mauritania,Spain,0.042
+Mauritania,Nigeria,0.0714
+Mauritania,Italy,0.0438
+Mauritania,Japan,0.0607
+Mauritius,Turkey,0.0004
+Mauritius,Kuwait,0.0001
+Mauritius,Madagascar,0.0002
+Mauritius,Oman,0.0001
+Mauritius,Philippines,0.0003
+Mauritius,Saudi Arabia,0.0002
+Mauritius,Israel,0.0005
+Mauritius,Colombia,0.0001
+Mauritius,Tunisia,0.0001
+Mauritius,Argentina,0.0021
+Mauritius,Brazil,0.0008
+Mauritius,Chile,0.0005
+Mauritius,New Zealand,0.0027
+Mauritius,Malaysia,0.0035
+Mauritius,Untd Arab Em,0.0002
+Mauritius,Greece,0.00045
+Mauritius,Mexico,0.0004
+Mauritius,Pakistan,0.00295
+Mauritius,Australia,0.00645
+Mauritius,Norway,0.0004
+Mauritius,Thailand,0.00235
+Mauritius,India,0.01435
+Mauritius,Austria,0.0007
+Mauritius,Ireland,0.0014
+Mauritius,Finland,0.0008
+Mauritius,Sweden,0.00095
+Mauritius,Denmark,0.00115
+Mauritius,Morocco,0.0009
+Mauritius,South Africa,0.0336
+Mauritius,Nigeria,0.0015
+Mauritius,Hong Kong,0.0023
+Mauritius,Japan,0.01145
+Mauritius,Seychelles,0.00165
+Mauritius,Singapore,0.01285
+Mauritius,Canada,0.00195
+Mauritius,China,0.0082
+Mauritius,Portugal,0.00325
+Mauritius,Spain,0.00475
+Mauritius,Netherlands,0.00515
+Mauritius,Italy,0.01395
+Mauritius,USA,0.0342
+Mauritius,UK,0.08245
+Mexico,Bangladesh,0.0001
+Mexico,South Africa,0.00025
+Mexico,Denmark,0.0003
+Mexico,Bulgaria,0.0003
+Mexico,Finland,0.00035
+Mexico,Greece,0.0001
+Mexico,Pakistan,0.0002
+Mexico,Sweden,0.00075
+Mexico,Oman,0.0001
+Mexico,Bahrain,0.00015
+Mexico,Cote Divoire,0.0001
+Mexico,Jordan,0.0001
+Mexico,Nigeria,0.0001
+Mexico,Gabon,0.00035
+Mexico,Iceland,0.0001
+Mexico,Sudan,0.00035
+Mexico,Norway,0.00025
+Mexico,Turkey,0.00015
+Mexico,Senegal,0.0002
+Mexico,Egypt,0.0002
+Mexico,India,0.00025
+Mexico,Benin,0.00035
+Mexico,Ghana,0.00015
+Mexico,Iran,0.00015
+Mexico,Niger,0.00015
+Mexico,Malta,0.0016
+Mexico,Saudi Arabia,0.00035
+Mexico,Australia,0.00035
+Mexico,Indonesia,0.00065
+Mexico,Sierra Leone,0.00045
+Mexico,Untd Arab Em,0.0002
+Mexico,Afghanistan,0.00045
+Mexico,Qatar,0.00025
+Mexico,Austria,0.00045
+Mexico,Syria,0.00025
+Mexico,Burundi,0.0011
+Mexico,Chad,0.0006
+Mexico,Morocco,0.0011
+Mexico,Kenya,0.0003
+Mexico,China,0.0013
+Mexico,New Zealand,0.0013
+Mexico,Mozambique,0.0005
+Mexico,Algeria,0.00105
+Mexico,Madagascar,0.00045
+Mexico,Ireland,0.0017
+Mexico,Malaysia,0.00295
+Mexico,Tunisia,0.0009
+Mexico,Sri Lanka,0.0013
+Mexico,Philippines,0.00125
+Mexico,Cyprus,0.0006
+Mexico,Zimbabwe,0.00065
+Mexico,Italy,0.0016
+Mexico,Barbados,0.0005
+Mexico,Kuwait,0.0009
+Mexico,Thailand,0.00115
+Mexico,Netherlands,0.0008
+Mexico,Mauritania,0.00065
+Mexico,Hong Kong,0.0011
+Mexico,Portugal,0.0007
+Mexico,UK,0.00145
+Mexico,Argentina,0.0013
+Mexico,Trinidad Tbg,0.00335
+Mexico,Guyana,0.00165
+Mexico,Suriname,0.0036
+Mexico,Brazil,0.00185
+Mexico,Israel,0.0014
+Mexico,Bolivia,0.00175
+Mexico,Paraguay,0.00165
+Mexico,Singapore,0.00345
+Mexico,Venezuela,0.00305
+Mexico,Peru,0.00325
+Mexico,Spain,0.00305
+Mexico,Ecuador,0.0032
+Mexico,Colombia,0.00285
+Mexico,Uruguay,0.00355
+Mexico,Japan,0.00645
+Mexico,Cuba,0.004
+Mexico,Chile,0.00645
+Mexico,Canada,0.0058
+Mexico,Nicaragua,0.0089
+Mexico,Costa Rica,0.01045
+Mexico,Dominican Rp,0.00865
+Mexico,Honduras,0.01
+Mexico,Panama,0.01515
+Mexico,El Salvador,0.01105
+Mexico,Guatemala,0.01385
+Mexico,Jamaica,0.0166
+Mexico,USA,0.1352
+Morocco,Kenya,0.0001
+Morocco,Madagascar,0.00015
+Morocco,Argentina,0.0009
+Morocco,Uruguay,0.00015
+Morocco,Trinidad Tbg,0.0005
+Morocco,Oman,0.0001
+Morocco,Untd Arab Em,0.00165
+Morocco,Malaysia,0.00025
+Morocco,Venezuela,0.0001
+Morocco,Hong Kong,0.0001
+Morocco,Sri Lanka,0.00015
+Morocco,Iceland,0.0001
+Morocco,Cuba,0.0001
+Morocco,Bolivia,0.0001
+Morocco,Barbados,0.0001
+Morocco,South Africa,0.0005
+Morocco,Suriname,0.00045
+Morocco,Israel,0.00015
+Morocco,Nigeria,0.0007
+Morocco,Nicaragua,0.0003
+Morocco,Bangladesh,0.00015
+Morocco,Philippines,0.00015
+Morocco,Niger,0.0003
+Morocco,Kuwait,0.0014
+Morocco,Chad,0.00085
+Morocco,Guyana,0.00065
+Morocco,Egypt,0.00035
+Morocco,Thailand,0.0004
+Morocco,Panama,0.0003
+Morocco,Burkina Faso,0.0005
+Morocco,Cyprus,0.0004
+Morocco,Burundi,0.0003
+Morocco,Australia,0.00035
+Morocco,Cameroon,0.00095
+Morocco,Iraq,0.004
+Morocco,Mauritius,0.0009
+Morocco,Pakistan,0.0003
+Morocco,Singapore,0.00045
+Morocco,Syria,0.0006
+Morocco,Jordan,0.0004
+Morocco,Denmark,0.00075
+Morocco,Sierra Leone,0.00065
+Morocco,Malta,0.00035
+Morocco,Austria,0.0006
+Morocco,Ghana,0.00045
+Morocco,Bulgaria,0.00065
+Morocco,Finland,0.00095
+Morocco,Greece,0.00055
+Morocco,New Zealand,0.00065
+Morocco,Ireland,0.0007
+Morocco,Benin,0.00445
+Morocco,Norway,0.0007
+Morocco,China,0.00265
+Morocco,Cote Divoire,0.00165
+Morocco,Sweden,0.00245
+Morocco,Algeria,0.00195
+Morocco,Indonesia,0.001
+Morocco,Portugal,0.00145
+Morocco,Canada,0.0031
+Morocco,Brazil,0.00295
+Morocco,Iran,0.0026
+Morocco,Togo,0.0019
+Morocco,Gabon,0.0037
+Morocco,Senegal,0.0009
+Morocco,Mali,0.00185
+Morocco,Mexico,0.0011
+Morocco,Saudi Arabia,0.0072
+Morocco,Turkey,0.00175
+Morocco,Tunisia,0.00245
+Morocco,Mauritania,0.00195
+Morocco,Netherlands,0.0044
+Morocco,USA,0.01095
+Morocco,India,0.0044
+Morocco,Japan,0.0062
+Morocco,UK,0.00885
+Morocco,Italy,0.01135
+Morocco,Spain,0.01725
+Mozambique,Norway,0.00065
+Mozambique,Egypt,0.0001
+Mozambique,Cote Divoire,0.0001
+Mozambique,Qatar,0.0001
+Mozambique,Trinidad Tbg,0.0001
+Mozambique,Togo,0.0001
+Mozambique,Ecuador,0.0001
+Mozambique,Australia,0.0007
+Mozambique,Greece,0.0002
+Mozambique,Bulgaria,0.00015
+Mozambique,Oman,0.0002
+Mozambique,Algeria,0.00195
+Mozambique,Finland,0.0004
+Mozambique,Sweden,0.0019
+Mozambique,Ireland,0.00035
+Mozambique,Denmark,0.00105
+Mozambique,Austria,0.00035
+Mozambique,Tunisia,0.00025
+Mozambique,Kuwait,0.00025
+Mozambique,Bangladesh,0.0055
+Mozambique,Mexico,0.0005
+Mozambique,Untd Arab Em,0.0004
+Mozambique,Saudi Arabia,0.0024
+Mozambique,Morocco,0.0005
+Mozambique,Bahrain,0.0006
+Mozambique,Canada,0.0025
+Mozambique,Turkey,0.00045
+Mozambique,Venezuela,0.0008
+Mozambique,Malaysia,0.00185
+Mozambique,Thailand,0.00505
+Mozambique,Brazil,0.00325
+Mozambique,Madagascar,0.0013
+Mozambique,Netherlands,0.0027
+Mozambique,Argentina,0.0018
+Mozambique,Italy,0.0062
+Mozambique,UK,0.00495
+Mozambique,Indonesia,0.00205
+Mozambique,India,0.00395
+Mozambique,Philippines,0.00245
+Mozambique,Hong Kong,0.005
+Mozambique,China,0.00425
+Mozambique,Jordan,0.0054
+Mozambique,Japan,0.0067
+Mozambique,Portugal,0.00865
+Mozambique,Singapore,0.0045
+Mozambique,South Africa,0.07155
+Mozambique,USA,0.01075
+Mozambique,Spain,0.0058
+Nepal,Australia,0.0004
+Nepal,Iran,0.00015
+Nepal,Tunisia,0.0001
+Nepal,Mexico,0.0001
+Nepal,Philippines,0.00015
+Nepal,Norway,0.0004
+Nepal,Cote Divoire,0.0001
+Nepal,Untd Arab Em,0.0001
+Nepal,Portugal,0.0001
+Nepal,Denmark,0.00035
+Nepal,Thailand,0.0038
+Nepal,Algeria,0.001
+Nepal,Malaysia,0.0005
+Nepal,Oman,0.0001
+Nepal,Finland,0.0005
+Nepal,Madagascar,0.0002
+Nepal,Nigeria,0.00015
+Nepal,Brazil,0.00035
+Nepal,Seychelles,0.0002
+Nepal,Hong Kong,0.0002
+Nepal,Morocco,0.0002
+Nepal,Turkey,0.00015
+Nepal,Saudi Arabia,0.00055
+Nepal,Pakistan,0.0004
+Nepal,Sweden,0.0003
+Nepal,Spain,0.0003
+Nepal,Netherlands,0.0005
+Nepal,Bangladesh,0.00035
+Nepal,Singapore,0.00655
+Nepal,Canada,0.00055
+Nepal,Japan,0.0075
+Nepal,China,0.0084
+Nepal,Austria,0.0007
+Nepal,Italy,0.00115
+Nepal,UK,0.00235
+Nepal,India,0.0206
+Nepal,USA,0.01325
+Netherlands,Cambodia,0.00115
+Netherlands,Nepal,0.0005
+Netherlands,Mexico,0.0008
+Netherlands,Bolivia,0.0011
+Netherlands,Argentina,0.00185
+Netherlands,Paraguay,0.0049
+Netherlands,India,0.0012
+Netherlands,Bangladesh,0.0019
+Netherlands,Peru,0.0015
+Netherlands,Uruguay,0.00185
+Netherlands,Iraq,0.0036
+Netherlands,Colombia,0.0023
+Netherlands,Ecuador,0.00145
+Netherlands,Brazil,0.00265
+Netherlands,Guatemala,0.00225
+Netherlands,Chile,0.003
+Netherlands,Australia,0.00135
+Netherlands,Afghanistan,0.00125
+Netherlands,Cuba,0.00185
+Netherlands,Uganda,0.00415
+Netherlands,Chad,0.00095
+Netherlands,China,0.0034
+Netherlands,Madagascar,0.002
+Netherlands,El Salvador,0.0019
+Netherlands,Canada,0.0021
+Netherlands,Barbados,0.0012
+Netherlands,Venezuela,0.0022
+Netherlands,Dominican Rp,0.00205
+Netherlands,Iran,0.00495
+Netherlands,Costa Rica,0.0057
+Netherlands,Mauritius,0.00515
+Netherlands,New Zealand,0.00185
+Netherlands,Nicaragua,0.0026
+Netherlands,Greenland,0.0036
+Netherlands,Panama,0.00285
+Netherlands,Pakistan,0.00265
+Netherlands,Zambia,0.0027
+Netherlands,Sri Lanka,0.0051
+Netherlands,Burundi,0.0041
+Netherlands,Indonesia,0.0042
+Netherlands,Zimbabwe,0.00555
+Netherlands,Trinidad Tbg,0.0034
+Netherlands,Cameroon,0.0125
+Netherlands,Rwanda,0.0042
+Netherlands,Thailand,0.00645
+Netherlands,Malawi,0.0113
+Netherlands,Honduras,0.00415
+Netherlands,Algeria,0.00955
+Netherlands,Philippines,0.00795
+Netherlands,Japan,0.00895
+Netherlands,South Africa,0.00335
+Netherlands,Mozambique,0.0027
+Netherlands,Bulgaria,0.0038
+Netherlands,Sudan,0.0025
+Netherlands,Burkina Faso,0.00225
+Netherlands,Saudi Arabia,0.00835
+Netherlands,Niger,0.0024
+Netherlands,Mali,0.0027
+Netherlands,Morocco,0.0044
+Netherlands,Kuwait,0.0211
+Netherlands,Untd Arab Em,0.0037
+Netherlands,Turkey,0.00425
+Netherlands,Qatar,0.00675
+Netherlands,Syria,0.0034
+Netherlands,Malaysia,0.01155
+Netherlands,Kenya,0.0076
+Netherlands,Seychelles,0.0109
+Netherlands,Egypt,0.004
+Netherlands,Jamaica,0.0082
+Netherlands,Senegal,0.00455
+Netherlands,Gabon,0.0103
+Netherlands,Finland,0.0092
+Netherlands,Oman,0.0048
+Netherlands,Bahrain,0.0051
+Netherlands,Cote Divoire,0.01855
+Netherlands,Tunisia,0.008
+Netherlands,Austria,0.00725
+Netherlands,Norway,0.01355
+Netherlands,Nigeria,0.01325
+Netherlands,Hong Kong,0.0095
+Netherlands,Spain,0.0083
+Netherlands,Cyprus,0.00615
+Netherlands,Israel,0.0087
+Netherlands,Ghana,0.01165
+Netherlands,Guyana,0.01425
+Netherlands,Jordan,0.00725
+Netherlands,Sierra Leone,0.011
+Netherlands,Singapore,0.01625
+Netherlands,Greece,0.00755
+Netherlands,Sweden,0.01275
+Netherlands,Portugal,0.0112
+Netherlands,Mauritania,0.00805
+Netherlands,Iceland,0.0114
+Netherlands,Ireland,0.0209
+Netherlands,Denmark,0.01305
+Netherlands,Malta,0.012
+Netherlands,USA,0.0262
+Netherlands,Benin,0.01055
+Netherlands,Italy,0.021
+Netherlands,Togo,0.02335
+Netherlands,UK,0.04145
+Netherlands,Suriname,0.08495
+New Zealand,Zimbabwe,0.0002
+New Zealand,Uruguay,0.0001
+New Zealand,Ecuador,0.00055
+New Zealand,Mauritania,0.0001
+New Zealand,Kenya,0.0001
+New Zealand,Costa Rica,0.0001
+New Zealand,Nigeria,0.0003
+New Zealand,Sudan,0.0001
+New Zealand,Benin,0.0001
+New Zealand,Cote Divoire,0.0001
+New Zealand,Colombia,0.0001
+New Zealand,Afghanistan,0.0001
+New Zealand,Zambia,0.0001
+New Zealand,New Zealand,0.0001
+New Zealand,Uganda,0.0001
+New Zealand,Cambodia,0.00015
+New Zealand,Tunisia,0.00015
+New Zealand,Nicaragua,0.00015
+New Zealand,Togo,0.0002
+New Zealand,Norway,0.0004
+New Zealand,Suriname,0.0002
+New Zealand,Ghana,0.0004
+New Zealand,Senegal,0.0002
+New Zealand,Honduras,0.00015
+New Zealand,Bangladesh,0.00015
+New Zealand,Madagascar,0.0002
+New Zealand,Portugal,0.00025
+New Zealand,Mozambique,0.0003
+New Zealand,Argentina,0.0003
+New Zealand,Qatar,0.00065
+New Zealand,Finland,0.00065
+New Zealand,Iceland,0.00025
+New Zealand,Syria,0.0003
+New Zealand,Bolivia,0.0003
+New Zealand,Iraq,0.0004
+New Zealand,Pakistan,0.0004
+New Zealand,Ireland,0.00055
+New Zealand,Cyprus,0.0005
+New Zealand,Guatemala,0.0005
+New Zealand,Chile,0.00035
+New Zealand,Austria,0.00055
+New Zealand,Malawi,0.00075
+New Zealand,Morocco,0.00065
+New Zealand,Egypt,0.0006
+New Zealand,South Africa,0.00055
+New Zealand,Sweden,0.00175
+New Zealand,Kuwait,0.0006
+New Zealand,Brazil,0.00065
+New Zealand,Dominican Rp,0.0007
+New Zealand,Untd Arab Em,0.0013
+New Zealand,Cuba,0.0004
+New Zealand,Niger,0.0004
+New Zealand,Denmark,0.00085
+New Zealand,Panama,0.0006
+New Zealand,Greece,0.00045
+New Zealand,Oman,0.00135
+New Zealand,Turkey,0.00055
+New Zealand,Venezuela,0.00055
+New Zealand,Algeria,0.001
+New Zealand,Malta,0.00055
+New Zealand,Peru,0.00065
+New Zealand,Netherlands,0.00185
+New Zealand,Bahrain,0.00205
+New Zealand,Seychelles,0.00075
+New Zealand,India,0.00115
+New Zealand,El Salvador,0.0014
+New Zealand,Spain,0.00115
+New Zealand,Trinidad Tbg,0.00085
+New Zealand,Saudi Arabia,0.0033
+New Zealand,Jamaica,0.0014
+New Zealand,Mexico,0.0013
+New Zealand,Jordan,0.0016
+New Zealand,Philippines,0.0014
+New Zealand,Iran,0.00135
+New Zealand,Thailand,0.0021
+New Zealand,Indonesia,0.0028
+New Zealand,Barbados,0.0017
+New Zealand,Sri Lanka,0.002
+New Zealand,Singapore,0.00385
+New Zealand,Italy,0.00415
+New Zealand,Guyana,0.00245
+New Zealand,Canada,0.00405
+New Zealand,Nepal,0.0046
+New Zealand,Malaysia,0.00375
+New Zealand,Mauritius,0.0027
+New Zealand,Hong Kong,0.0052
+New Zealand,China,0.00605
+New Zealand,Greenland,0.00785
+New Zealand,UK,0.01625
+New Zealand,USA,0.03305
+New Zealand,Japan,0.03485
+New Zealand,Australia,0.04325
+Nicaragua,Colombia,0.00115
+Nicaragua,Australia,0.00015
+Nicaragua,Argentina,0.0012
+Nicaragua,Singapore,0.00015
+Nicaragua,Turkey,0.00015
+Nicaragua,Senegal,0.0001
+Nicaragua,Untd Arab Em,0.0001
+Nicaragua,New Zealand,0.00015
+Nicaragua,Malaysia,0.00035
+Nicaragua,Saudi Arabia,0.0001
+Nicaragua,Indonesia,0.00025
+Nicaragua,Thailand,0.0006
+Nicaragua,Peru,0.00035
+Nicaragua,South Africa,0.0002
+Nicaragua,Ireland,0.0004
+Nicaragua,Pakistan,0.0002
+Nicaragua,Nigeria,0.00015
+Nicaragua,Hong Kong,0.0003
+Nicaragua,Syria,0.0003
+Nicaragua,Sweden,0.00085
+Nicaragua,Norway,0.00035
+Nicaragua,Philippines,0.0004
+Nicaragua,Ecuador,0.0017
+Nicaragua,Morocco,0.0003
+Nicaragua,Venezuela,0.00765
+Nicaragua,Denmark,0.00085
+Nicaragua,Portugal,0.0004
+Nicaragua,Panama,0.0021
+Nicaragua,Finland,0.0011
+Nicaragua,Greece,0.0005
+Nicaragua,Chile,0.00075
+Nicaragua,Bulgaria,0.00115
+Nicaragua,UK,0.0019
+Nicaragua,Cuba,0.00415
+Nicaragua,China,0.0024
+Nicaragua,Algeria,0.0024
+Nicaragua,Honduras,0.00335
+Nicaragua,El Salvador,0.00555
+Nicaragua,Netherlands,0.0026
+Nicaragua,Austria,0.00165
+Nicaragua,Italy,0.0035
+Nicaragua,Mexico,0.0089
+Nicaragua,Guatemala,0.01225
+Nicaragua,Spain,0.00575
+Nicaragua,Canada,0.0056
+Nicaragua,Costa Rica,0.0149
+Nicaragua,Japan,0.01055
+Nicaragua,USA,0.0549
+Niger,Chile,0.0001
+Niger,Burkina Faso,0.00145
+Niger,Cote Divoire,0.0064
+Niger,New Zealand,0.0004
+Niger,Argentina,0.0001
+Niger,Cameroon,0.00045
+Niger,Pakistan,0.00115
+Niger,Mexico,0.00015
+Niger,Ghana,0.00015
+Niger,Indonesia,0.0013
+Niger,Denmark,0.00035
+Niger,Sweden,0.00025
+Niger,Saudi Arabia,0.00025
+Niger,Malaysia,0.0002
+Niger,China,0.0017
+Niger,Israel,0.0003
+Niger,Benin,0.0005
+Niger,Algeria,0.0014
+Niger,Austria,0.00045
+Niger,Netherlands,0.0024
+Niger,South Africa,0.0004
+Niger,Morocco,0.0003
+Niger,Brazil,0.0006
+Niger,Japan,0.00275
+Niger,Mali,0.0014
+Niger,Togo,0.00125
+Niger,Ireland,0.0005
+Niger,Italy,0.0028
+Niger,Thailand,0.0009
+Niger,Turkey,0.00075
+Niger,Greece,0.0009
+Niger,Portugal,0.001
+Niger,UK,0.0036
+Niger,Canada,0.0019
+Niger,Spain,0.00235
+Niger,USA,0.00475
+Niger,Iraq,0.0046
+Niger,Nigeria,0.0096
+Nigeria,Norway,0.0006
+Nigeria,Panama,0.0001
+Nigeria,Mexico,0.0001
+Nigeria,Nicaragua,0.00015
+Nigeria,Greece,0.0006
+Nigeria,Hong Kong,0.0001
+Nigeria,Kenya,0.00015
+Nigeria,Nepal,0.00015
+Nigeria,Colombia,0.0001
+Nigeria,Saudi Arabia,0.0002
+Nigeria,Cuba,0.0001
+Nigeria,Burkina Faso,0.0002
+Nigeria,Ireland,0.0011
+Nigeria,Malaysia,0.00045
+Nigeria,Trinidad Tbg,0.00095
+Nigeria,Madagascar,0.0003
+Nigeria,Cyprus,0.00025
+Nigeria,Thailand,0.0014
+Nigeria,Venezuela,0.00025
+Nigeria,Turkey,0.00045
+Nigeria,Finland,0.0004
+Nigeria,Philippines,0.00025
+Nigeria,New Zealand,0.0003
+Nigeria,Australia,0.00035
+Nigeria,Singapore,0.00175
+Nigeria,Malta,0.00035
+Nigeria,Denmark,0.00085
+Nigeria,Rwanda,0.0007
+Nigeria,Peru,0.0009
+Nigeria,Ecuador,0.0011
+Nigeria,Argentina,0.00085
+Nigeria,Mali,0.00075
+Nigeria,Morocco,0.0007
+Nigeria,Togo,0.0023
+Nigeria,China,0.0033
+Nigeria,Chad,0.0013
+Nigeria,South Africa,0.00185
+Nigeria,Japan,0.00845
+Nigeria,Gabon,0.0013
+Nigeria,Indonesia,0.00185
+Nigeria,Sweden,0.00255
+Nigeria,Benin,0.0067
+Nigeria,Paraguay,0.0021
+Nigeria,Chile,0.0052
+Nigeria,Austria,0.00355
+Nigeria,Uruguay,0.00375
+Nigeria,Sierra Leone,0.0037
+Nigeria,Canada,0.00525
+Nigeria,Portugal,0.0056
+Nigeria,UK,0.02215
+Nigeria,Niger,0.0096
+Nigeria,Cameroon,0.00725
+Nigeria,Brazil,0.01195
+Nigeria,Netherlands,0.01325
+Nigeria,India,0.01125
+Nigeria,Italy,0.0158
+Nigeria,Senegal,0.0145
+Nigeria,Spain,0.0186
+Nigeria,Ghana,0.0223
+Nigeria,Cote Divoire,0.02255
+Nigeria,USA,0.0967
+Norway,Peru,0.0003
+Norway,Mauritius,0.0004
+Norway,Iran,0.0001
+Norway,Madagascar,0.0001
+Norway,Sudan,0.0001
+Norway,Argentina,0.0002
+Norway,Bangladesh,0.00025
+Norway,Uruguay,0.00025
+Norway,Afghanistan,0.00015
+Norway,Iraq,0.0001
+Norway,El Salvador,0.00015
+Norway,Honduras,0.0005
+Norway,Cameroon,0.0002
+Norway,Oman,0.00045
+Norway,Burkina Faso,0.0002
+Norway,Syria,0.0002
+Norway,Guatemala,0.0004
+Norway,Ecuador,0.0002
+Norway,Colombia,0.00045
+Norway,Cambodia,0.0003
+Norway,Philippines,0.00025
+Norway,Trinidad Tbg,0.00045
+Norway,Mexico,0.00025
+Norway,Mauritania,0.0014
+Norway,Venezuela,0.00035
+Norway,Qatar,0.0003
+Norway,Bolivia,0.0003
+Norway,Seychelles,0.0003
+Norway,Mali,0.0002
+Norway,Rwanda,0.0002
+Norway,Senegal,0.0003
+Norway,Saudi Arabia,0.0003
+Norway,Algeria,0.00025
+Norway,Bulgaria,0.00035
+Norway,Chad,0.0004
+Norway,Sri Lanka,0.00055
+Norway,South Africa,0.0007
+Norway,Malawi,0.0006
+Norway,India,0.00045
+Norway,Egypt,0.00025
+Norway,Morocco,0.0007
+Norway,Costa Rica,0.0011
+Norway,Pakistan,0.0005
+Norway,Burundi,0.0007
+Norway,Indonesia,0.00035
+Norway,Kuwait,0.00025
+Norway,Nicaragua,0.00035
+Norway,Untd Arab Em,0.0003
+Norway,Kenya,0.00045
+Norway,Niger,0.0005
+Norway,Jordan,0.0003
+Norway,Uganda,0.00045
+Norway,Cote Divoire,0.0003
+Norway,Zimbabwe,0.00065
+Norway,New Zealand,0.0004
+Norway,Greece,0.0006
+Norway,Chile,0.0006
+Norway,Gabon,0.002
+Norway,Bahrain,0.0006
+Norway,Nepal,0.0004
+Norway,Zambia,0.0004
+Norway,Turkey,0.0006
+Norway,Hong Kong,0.0007
+Norway,Togo,0.00165
+Norway,Dominican Rp,0.0008
+Norway,Malaysia,0.0009
+Norway,Thailand,0.00075
+Norway,Australia,0.00085
+Norway,Suriname,0.06575
+Norway,Sierra Leone,0.00055
+Norway,Barbados,0.00125
+Norway,Tunisia,0.0007
+Norway,Brazil,0.00115
+Norway,Austria,0.00165
+Norway,Nigeria,0.0006
+Norway,Ghana,0.0013
+Norway,Mozambique,0.00065
+Norway,China,0.0024
+Norway,Israel,0.0011
+Norway,Guyana,0.0018
+Norway,Benin,0.002
+Norway,Singapore,0.00295
+Norway,Portugal,0.00305
+Norway,Spain,0.0033
+Norway,Jamaica,0.0117
+Norway,Italy,0.0063
+Norway,Ireland,0.0051
+Norway,Japan,0.0086
+Norway,Cyprus,0.00645
+Norway,Finland,0.0082
+Norway,Canada,0.0066
+Norway,Denmark,0.0142
+Norway,Malta,0.01015
+Norway,Panama,0.0161
+Norway,Netherlands,0.01355
+Norway,USA,0.01805
+Norway,Iceland,0.01495
+Norway,Greenland,0.01805
+Norway,Sweden,0.0325
+Norway,UK,0.0369
+Oman,Denmark,0.00095
+Oman,Mali,0.0001
+Oman,Afghanistan,0.0001
+Oman,Burundi,0.0002
+Oman,Argentina,0.0004
+Oman,Mauritius,0.0001
+Oman,Cambodia,0.0001
+Oman,Tunisia,0.0001
+Oman,Ireland,0.0004
+Oman,Senegal,0.0001
+Oman,Algeria,0.0001
+Oman,Togo,0.0002
+Oman,Sierra Leone,0.00015
+Oman,Mauritania,0.0002
+Oman,Bulgaria,0.00025
+Oman,Rwanda,0.00015
+Oman,Malta,0.0003
+Oman,Sri Lanka,0.0002
+Oman,Indonesia,0.0008
+Oman,Syria,0.0003
+Oman,Sudan,0.0003
+Oman,Canada,0.0006
+Oman,Chad,0.0004
+Oman,Egypt,0.0003
+Oman,Chile,0.00065
+Oman,Greece,0.00035
+Oman,Norway,0.00045
+Oman,Iraq,0.0007
+Oman,Jordan,0.00055
+Oman,Qatar,0.0009
+Oman,Sweden,0.00155
+Oman,Spain,0.00115
+Oman,Bahrain,0.0042
+Oman,Italy,0.0043
+Oman,Kuwait,0.001
+Oman,Australia,0.00405
+Oman,New Zealand,0.00135
+Oman,Pakistan,0.00195
+Oman,Kenya,0.0011
+Oman,Netherlands,0.0048
+Oman,Cote Divoire,0.0025
+Oman,Malaysia,0.00285
+Oman,Brazil,0.0017
+Oman,Finland,0.00195
+Oman,Saudi Arabia,0.00495
+Oman,Hong Kong,0.0038
+Oman,India,0.0061
+Oman,Iran,0.003
+Oman,Zambia,0.0029
+Oman,Philippines,0.00345
+Oman,UK,0.02025
+Oman,South Africa,0.00655
+Oman,Singapore,0.0102
+Oman,USA,0.0201
+Oman,Thailand,0.0189
+Oman,China,0.02675
+Oman,Untd Arab Em,0.06385
+Oman,Japan,0.1086
+Pakistan,Greenland,0.0002
+Pakistan,Morocco,0.0003
+Pakistan,Gabon,0.0001
+Pakistan,Peru,0.0001
+Pakistan,Uruguay,0.0001
+Pakistan,Colombia,0.0001
+Pakistan,Algeria,0.0001
+Pakistan,Iceland,0.00015
+Pakistan,Syria,0.00025
+Pakistan,Paraguay,0.0002
+Pakistan,Tunisia,0.0003
+Pakistan,Argentina,0.00055
+Pakistan,Burkina Faso,0.00015
+Pakistan,Nigeria,0.0002
+Pakistan,Dominican Rp,0.0002
+Pakistan,Nicaragua,0.0002
+Pakistan,Egypt,0.0003
+Pakistan,Zimbabwe,0.0003
+Pakistan,Sudan,0.00025
+Pakistan,Ireland,0.00035
+Pakistan,Chile,0.0003
+Pakistan,Chad,0.0002
+Pakistan,Mexico,0.0002
+Pakistan,Cambodia,0.00025
+Pakistan,Iraq,0.0002
+Pakistan,Finland,0.0004
+Pakistan,Suriname,0.0002
+Pakistan,Panama,0.00025
+Pakistan,Brazil,0.00085
+Pakistan,South Africa,0.0004
+Pakistan,Guatemala,0.00025
+Pakistan,New Zealand,0.0004
+Pakistan,Honduras,0.0004
+Pakistan,Malta,0.00065
+Pakistan,El Salvador,0.0005
+Pakistan,Ghana,0.0005
+Pakistan,Guyana,0.0009
+Pakistan,Nepal,0.0004
+Pakistan,Greece,0.00035
+Pakistan,Philippines,0.0003
+Pakistan,Rwanda,0.0019
+Pakistan,Norway,0.0005
+Pakistan,Malaysia,0.00475
+Pakistan,Malawi,0.0015
+Pakistan,Austria,0.00055
+Pakistan,Turkey,0.001
+Pakistan,Senegal,0.0009
+Pakistan,Denmark,0.00075
+Pakistan,Bulgaria,0.00085
+Pakistan,Jordan,0.00235
+Pakistan,Madagascar,0.0006
+Pakistan,Sierra Leone,0.0007
+Pakistan,Sweden,0.0012
+Pakistan,Cameroon,0.0011
+Pakistan,Cote Divoire,0.0012
+Pakistan,Singapore,0.00225
+Pakistan,Burundi,0.0016
+Pakistan,India,0.0013
+Pakistan,Portugal,0.00065
+Pakistan,Thailand,0.00145
+Pakistan,Mali,0.0007
+Pakistan,Seychelles,0.00195
+Pakistan,Zambia,0.00145
+Pakistan,Kuwait,0.0118
+Pakistan,Australia,0.0027
+Pakistan,Uganda,0.001
+Pakistan,Indonesia,0.0018
+Pakistan,Cyprus,0.00115
+Pakistan,Qatar,0.003
+Pakistan,Oman,0.00195
+Pakistan,Iran,0.0025
+Pakistan,Kenya,0.0061
+Pakistan,Canada,0.00195
+Pakistan,Spain,0.00165
+Pakistan,Niger,0.00115
+Pakistan,Netherlands,0.00265
+Pakistan,Benin,0.00135
+Pakistan,Bangladesh,0.00205
+Pakistan,Saudi Arabia,0.00805
+Pakistan,China,0.00555
+Pakistan,Bahrain,0.0099
+Pakistan,Untd Arab Em,0.0066
+Pakistan,Italy,0.00485
+Pakistan,Togo,0.0048
+Pakistan,Mauritania,0.0039
+Pakistan,Mauritius,0.00295
+Pakistan,Sri Lanka,0.00505
+Pakistan,Hong Kong,0.0077
+Pakistan,Afghanistan,0.00705
+Pakistan,UK,0.0087
+Pakistan,Japan,0.0148
+Pakistan,USA,0.0189
+Panama,Iceland,0.0001
+Panama,Pakistan,0.00025
+Panama,Philippines,0.00175
+Panama,Tunisia,0.0001
+Panama,Algeria,0.00035
+Panama,Kuwait,0.0001
+Panama,Cuba,0.0001
+Panama,Bulgaria,0.00035
+Panama,Suriname,0.0002
+Panama,Guatemala,0.00115
+Panama,China,0.0248
+Panama,Bangladesh,0.0002
+Panama,Morocco,0.0003
+Panama,Ireland,0.0005
+Panama,South Africa,0.00045
+Panama,Chile,0.00115
+Panama,New Zealand,0.0006
+Panama,Australia,0.0003
+Panama,Saudi Arabia,0.00395
+Panama,Egypt,0.0005
+Panama,Indonesia,0.00525
+Panama,India,0.0013
+Panama,Uruguay,0.0008
+Panama,Dominican Rp,0.0007
+Panama,Israel,0.00085
+Panama,Denmark,0.0032
+Panama,Portugal,0.00085
+Panama,UK,0.00475
+Panama,Hong Kong,0.0015
+Panama,Thailand,0.0057
+Panama,Trinidad Tbg,0.0028
+Panama,Austria,0.00095
+Panama,Peru,0.0019
+Panama,Finland,0.0019
+Panama,Costa Rica,0.0035
+Panama,Turkey,0.0017
+Panama,Malaysia,0.00525
+Panama,Canada,0.0026
+Panama,El Salvador,0.0018
+Panama,Greece,0.0032
+Panama,Guyana,0.0031
+Panama,Netherlands,0.00285
+Panama,Nicaragua,0.0021
+Panama,Argentina,0.0032
+Panama,Honduras,0.0026
+Panama,Spain,0.00855
+Panama,Ecuador,0.0102
+Panama,Sweden,0.00435
+Panama,Colombia,0.00955
+Panama,Brazil,0.0084
+Panama,Italy,0.02285
+Panama,Singapore,0.027
+Panama,Mexico,0.01515
+Panama,Japan,0.2505
+Panama,Venezuela,0.01365
+Panama,Norway,0.0161
+Panama,USA,0.0793
+Paraguay,Nigeria,0.0021
+Paraguay,Philippines,0.0001
+Paraguay,Untd Arab Em,0.0001
+Paraguay,Finland,0.0001
+Paraguay,Ireland,0.0005
+Paraguay,Sweden,0.00045
+Paraguay,Madagascar,0.0001
+Paraguay,Egypt,0.0001
+Paraguay,Saudi Arabia,0.0001
+Paraguay,India,0.00035
+Paraguay,Senegal,0.0001
+Paraguay,Kuwait,0.0001
+Paraguay,Canada,0.0004
+Paraguay,Tunisia,0.0002
+Paraguay,Thailand,0.00035
+Paraguay,Greece,0.00015
+Paraguay,Turkey,0.00015
+Paraguay,Algeria,0.00215
+Paraguay,Oman,0.0002
+Paraguay,Ecuador,0.00015
+Paraguay,Morocco,0.0002
+Paraguay,Singapore,0.00085
+Paraguay,Malaysia,0.00045
+Paraguay,Indonesia,0.0004
+Paraguay,Israel,0.0005
+Paraguay,Norway,0.0004
+Paraguay,Colombia,0.00035
+Paraguay,Denmark,0.0003
+Paraguay,Austria,0.00035
+Paraguay,Hong Kong,0.0005
+Paraguay,Mexico,0.00165
+Paraguay,South Africa,0.00095
+Paraguay,UK,0.0044
+Paraguay,Iran,0.0005
+Paraguay,China,0.00425
+Paraguay,Peru,0.00115
+Paraguay,Uruguay,0.00195
+Paraguay,Venezuela,0.0015
+Paraguay,Portugal,0.00165
+Paraguay,Japan,0.01015
+Paraguay,Italy,0.0057
+Paraguay,USA,0.0315
+Paraguay,Chile,0.0066
+Paraguay,Netherlands,0.0049
+Paraguay,Spain,0.0059
+Paraguay,Argentina,0.03305
+Paraguay,Brazil,0.0735
+Peru,Cuba,0.0001
+Peru,Oman,0.0001
+Peru,Madagascar,0.0001
+Peru,Sierra Leone,0.0001
+Peru,Greece,0.0001
+Peru,Malta,0.0002
+Peru,Uganda,0.0001
+Peru,Jamaica,0.0001
+Peru,Paraguay,0.00115
+Peru,Niger,0.0001
+Peru,Untd Arab Em,0.0001
+Peru,Suriname,0.0001
+Peru,Burkina Faso,0.0001
+Peru,Cyprus,0.0001
+Peru,Barbados,0.0001
+Peru,Cameroon,0.0004
+Peru,Chad,0.0001
+Peru,Morocco,0.0001
+Peru,Sri Lanka,0.00015
+Peru,Israel,0.00015
+Peru,Bahrain,0.0001
+Peru,Ghana,0.0001
+Peru,Ireland,0.0002
+Peru,New Zealand,0.00065
+Peru,Mauritius,0.0001
+Peru,Nepal,0.0001
+Peru,Jordan,0.0001
+Peru,Greenland,0.0002
+Peru,Gabon,0.0002
+Peru,Uruguay,0.00075
+Peru,Senegal,0.0002
+Peru,Singapore,0.00025
+Peru,Guyana,0.00045
+Peru,Finland,0.0003
+Peru,India,0.0003
+Peru,Turkey,0.0002
+Peru,Australia,0.00045
+Peru,Austria,0.00035
+Peru,Portugal,0.0003
+Peru,Dominican Rp,0.0003
+Peru,Zambia,0.0003
+Peru,Algeria,0.0002
+Peru,South Africa,0.0004
+Peru,Mali,0.00025
+Peru,Denmark,0.0004
+Peru,Guatemala,0.00085
+Peru,Sweden,0.00115
+Peru,Trinidad Tbg,0.0006
+Peru,Nicaragua,0.00035
+Peru,Norway,0.0003
+Peru,Honduras,0.0005
+Peru,Indonesia,0.00045
+Peru,Afghanistan,0.0006
+Peru,Thailand,0.00055
+Peru,El Salvador,0.00045
+Peru,Iran,0.0007
+Peru,Hong Kong,0.0007
+Peru,Philippines,0.0007
+Peru,Malaysia,0.00055
+Peru,Bulgaria,0.00045
+Peru,Costa Rica,0.0007
+Peru,Argentina,0.00395
+Peru,Panama,0.0019
+Peru,Netherlands,0.0015
+Peru,Seychelles,0.0021
+Peru,Ecuador,0.0039
+Peru,Canada,0.00265
+Peru,Venezuela,0.00415
+Peru,Spain,0.00285
+Peru,Chile,0.0036
+Peru,Mexico,0.00325
+Peru,Colombia,0.0051
+Peru,Brazil,0.0058
+Peru,Italy,0.00435
+Peru,UK,0.00365
+Peru,China,0.00525
+Peru,Bolivia,0.0082
+Peru,Japan,0.0109
+Peru,USA,0.0346
+Philippines,Argentina,0.0002
+Philippines,Bangladesh,0.00015
+Philippines,Mali,0.0007
+Philippines,Paraguay,0.0001
+Philippines,Jamaica,0.00015
+Philippines,Greece,0.0001
+Philippines,Niger,0.0001
+Philippines,Iraq,0.00025
+Philippines,Cyprus,0.00015
+Philippines,Morocco,0.00015
+Philippines,Pakistan,0.0003
+Philippines,Uruguay,0.0001
+Philippines,Algeria,0.0001
+Philippines,Iran,0.00265
+Philippines,Gabon,0.00025
+Philippines,Afghanistan,0.0001
+Philippines,Malawi,0.0011
+Philippines,Nigeria,0.00025
+Philippines,Honduras,0.0001
+Philippines,Dominican Rp,0.0001
+Philippines,Madagascar,0.0002
+Philippines,El Salvador,0.0001
+Philippines,Trinidad Tbg,0.0001
+Philippines,Ghana,0.00025
+Philippines,Ecuador,0.0001
+Philippines,Tunisia,0.0001
+Philippines,Bolivia,0.00015
+Philippines,Chile,0.00055
+Philippines,Nepal,0.00015
+Philippines,Turkey,0.0002
+Philippines,Oman,0.00345
+Philippines,Israel,0.0009
+Philippines,Portugal,0.0002
+Philippines,Egypt,0.0002
+Philippines,Jordan,0.00075
+Philippines,India,0.00105
+Philippines,Qatar,0.0029
+Philippines,Norway,0.00025
+Philippines,South Africa,0.00045
+Philippines,New Zealand,0.0014
+Philippines,Brazil,0.00185
+Philippines,Guyana,0.0006
+Philippines,Malta,0.0009
+Philippines,Barbados,0.0004
+Philippines,Suriname,0.0014
+Philippines,Mauritius,0.0003
+Philippines,Benin,0.00035
+Philippines,Togo,0.00485
+Philippines,Denmark,0.00055
+Philippines,Cambodia,0.0003
+Philippines,Sweden,0.001
+Philippines,Austria,0.0005
+Philippines,Finland,0.0009
+Philippines,Bahrain,0.0017
+Philippines,Kuwait,0.00355
+Philippines,Sri Lanka,0.0005
+Philippines,Saudi Arabia,0.0078
+Philippines,Untd Arab Em,0.00305
+Philippines,Mozambique,0.00245
+Philippines,Ireland,0.0013
+Philippines,Spain,0.00115
+Philippines,Indonesia,0.0042
+Philippines,Mexico,0.00125
+Philippines,Italy,0.00235
+Philippines,Australia,0.00625
+Philippines,Seychelles,0.00155
+Philippines,Panama,0.00175
+Philippines,China,0.00705
+Philippines,Canada,0.00435
+Philippines,Thailand,0.0057
+Philippines,Costa Rica,0.00345
+Philippines,Malaysia,0.00965
+Philippines,Netherlands,0.00795
+Philippines,UK,0.00885
+Philippines,Hong Kong,0.0124
+Philippines,Singapore,0.01735
+Philippines,Japan,0.0607
+Philippines,USA,0.08665
+Portugal,India,0.0005
+Portugal,Rwanda,0.0001
+Portugal,Untd Arab Em,0.00085
+Portugal,Sudan,0.0002
+Portugal,Guatemala,0.0003
+Portugal,Trinidad Tbg,0.0003
+Portugal,Cuba,0.0005
+Portugal,Venezuela,0.00035
+Portugal,Ecuador,0.0004
+Portugal,Nepal,0.0001
+Portugal,Cameroon,0.00185
+Portugal,Costa Rica,0.0008
+Portugal,Jamaica,0.0005
+Portugal,Qatar,0.00255
+Portugal,Madagascar,0.00105
+Portugal,Sri Lanka,0.0002
+Portugal,Mali,0.00225
+Portugal,Afghanistan,0.0001
+Portugal,Barbados,0.0001
+Portugal,Nicaragua,0.0004
+Portugal,Bolivia,0.0001
+Portugal,Pakistan,0.00065
+Portugal,Uganda,0.001
+Portugal,Cambodia,0.0001
+Portugal,Colombia,0.0004
+Portugal,Oman,0.0001
+Portugal,Dominican Rp,0.0002
+Portugal,Egypt,0.00125
+Portugal,Mexico,0.0007
+Portugal,Iran,0.0013
+Portugal,Benin,0.00495
+Portugal,Cote Divoire,0.0019
+Portugal,Suriname,0.00185
+Portugal,New Zealand,0.00025
+Portugal,Bahrain,0.00025
+Portugal,Honduras,0.0007
+Portugal,Paraguay,0.00165
+Portugal,Burundi,0.0008
+Portugal,El Salvador,0.0002
+Portugal,Thailand,0.00065
+Portugal,Uruguay,0.0004
+Portugal,Gabon,0.0028
+Portugal,Burkina Faso,0.0019
+Portugal,Ghana,0.0005
+Portugal,Togo,0.00275
+Portugal,China,0.00095
+Portugal,Niger,0.001
+Portugal,Iraq,0.0015
+Portugal,Saudi Arabia,0.00215
+Portugal,Hong Kong,0.0003
+Portugal,Sierra Leone,0.00125
+Portugal,Zambia,0.0008
+Portugal,Nigeria,0.0056
+Portugal,Argentina,0.0008
+Portugal,Kenya,0.00045
+Portugal,Malaysia,0.00055
+Portugal,Bulgaria,0.00045
+Portugal,Kuwait,0.00035
+Portugal,Malawi,0.00205
+Portugal,Chile,0.00055
+Portugal,Syria,0.0009
+Portugal,South Africa,0.001
+Portugal,Turkey,0.0007
+Portugal,Singapore,0.0005
+Portugal,Zimbabwe,0.0021
+Portugal,Australia,0.00055
+Portugal,Mauritius,0.00325
+Portugal,Guyana,0.00915
+Portugal,Panama,0.00085
+Portugal,Algeria,0.0016
+Portugal,Greece,0.00055
+Portugal,Seychelles,0.0007
+Portugal,Jordan,0.0005
+Portugal,Israel,0.0008
+Portugal,Tunisia,0.00105
+Portugal,Mauritania,0.00325
+Portugal,Brazil,0.00265
+Portugal,Senegal,0.0016
+Portugal,Canada,0.0014
+Portugal,Ireland,0.00185
+Portugal,Morocco,0.00145
+Portugal,Cyprus,0.00095
+Portugal,Japan,0.00495
+Portugal,Greenland,0.0027
+Portugal,Malta,0.00195
+Portugal,Iceland,0.00655
+Portugal,Chad,0.0105
+Portugal,Finland,0.00205
+Portugal,Norway,0.00305
+Portugal,Austria,0.00245
+Portugal,Denmark,0.003
+Portugal,Sweden,0.0048
+Portugal,Italy,0.0159
+Portugal,Netherlands,0.0112
+Portugal,USA,0.0115
+Portugal,Mozambique,0.00865
+Portugal,UK,0.02185
+Portugal,Spain,0.0402
+Qatar,Nigeria,0.0001
+Qatar,Nepal,0.0001
+Qatar,Burundi,0.0001
+Qatar,Colombia,0.0001
+Qatar,Chile,0.00015
+Qatar,Mozambique,0.0001
+Qatar,Uruguay,0.0001
+Qatar,Greece,0.00025
+Qatar,Mauritania,0.0001
+Qatar,Sweden,0.0013
+Qatar,Iraq,0.0001
+Qatar,Afghanistan,0.0001
+Qatar,Ghana,0.00015
+Qatar,Mali,0.0001
+Qatar,Mexico,0.00025
+Qatar,Panama,0.0002
+Qatar,Kenya,0.00015
+Qatar,Tunisia,0.0002
+Qatar,Denmark,0.0009
+Qatar,Algeria,0.0003
+Qatar,Zimbabwe,0.0003
+Qatar,Syria,0.0008
+Qatar,Bangladesh,0.00025
+Qatar,Venezuela,0.00025
+Qatar,Canada,0.00065
+Qatar,Morocco,0.0005
+Qatar,Egypt,0.0006
+Qatar,Hong Kong,0.0007
+Qatar,Sudan,0.0004
+Qatar,Turkey,0.00095
+Qatar,New Zealand,0.00065
+Qatar,Argentina,0.0008
+Qatar,Sri Lanka,0.00055
+Qatar,Jordan,0.0014
+Qatar,Oman,0.0009
+Qatar,Madagascar,0.0014
+Qatar,Indonesia,0.0013
+Qatar,Zambia,0.0017
+Qatar,Bahrain,0.00245
+Qatar,Malaysia,0.0018
+Qatar,Iran,0.00205
+Qatar,UK,0.01695
+Qatar,Kuwait,0.002
+Qatar,Pakistan,0.003
+Qatar,Portugal,0.00255
+Qatar,Philippines,0.0029
+Qatar,Finland,0.0034
+Qatar,South Africa,0.00375
+Qatar,Australia,0.0058
+Qatar,Netherlands,0.00675
+Qatar,Saudi Arabia,0.0093
+Qatar,Untd Arab Em,0.00925
+Qatar,Spain,0.00585
+Qatar,India,0.0065
+Qatar,China,0.0062
+Qatar,Italy,0.01275
+Qatar,USA,0.01665
+Qatar,Thailand,0.0083
+Qatar,Brazil,0.0093
+Qatar,Singapore,0.0184
+Qatar,Japan,0.15475
+Rwanda,Norway,0.0002
+Rwanda,Australia,0.0001
+Rwanda,Oman,0.00015
+Rwanda,Philippines,0.0001
+Rwanda,Indonesia,0.00025
+Rwanda,Tunisia,0.0001
+Rwanda,Austria,0.0002
+Rwanda,Turkey,0.0004
+Rwanda,Thailand,0.0005
+Rwanda,Untd Arab Em,0.0003
+Rwanda,Hong Kong,0.0003
+Rwanda,Brazil,0.00035
+Rwanda,Canada,0.0007
+Rwanda,Morocco,0.0005
+Rwanda,Singapore,0.00045
+Rwanda,Denmark,0.0009
+Rwanda,Ireland,0.0005
+Rwanda,Finland,0.0004
+Rwanda,Japan,0.00545
+Rwanda,Nigeria,0.0007
+Rwanda,South Africa,0.00135
+Rwanda,Spain,0.00065
+Rwanda,Malaysia,0.00055
+Rwanda,China,0.0012
+Rwanda,Sweden,0.0008
+Rwanda,Italy,0.0027
+Rwanda,UK,0.002
+Rwanda,Pakistan,0.0019
+Rwanda,Algeria,0.0041
+Rwanda,Netherlands,0.0042
+Rwanda,USA,0.00735
+Saudi Arabia,Burkina Faso,0.0001
+Saudi Arabia,Colombia,0.00015
+Saudi Arabia,Nicaragua,0.0001
+Saudi Arabia,Peru,0.0001
+Saudi Arabia,Ghana,0.0004
+Saudi Arabia,Afghanistan,0.00045
+Saudi Arabia,Mali,0.0002
+Saudi Arabia,Bangladesh,0.0002
+Saudi Arabia,Niger,0.00025
+Saudi Arabia,Ireland,0.0013
+Saudi Arabia,Bulgaria,0.00065
+Saudi Arabia,Mauritius,0.0002
+Saudi Arabia,Norway,0.0003
+Saudi Arabia,Nigeria,0.0002
+Saudi Arabia,Iran,0.0003
+Saudi Arabia,Argentina,0.00025
+Saudi Arabia,Uganda,0.00025
+Saudi Arabia,Zimbabwe,0.0002
+Saudi Arabia,Malawi,0.0005
+Saudi Arabia,Mexico,0.00035
+Saudi Arabia,Denmark,0.0009
+Saudi Arabia,Algeria,0.0004
+Saudi Arabia,Chile,0.0007
+Saudi Arabia,Ecuador,0.0006
+Saudi Arabia,Cambodia,0.0003
+Saudi Arabia,Uruguay,0.00075
+Saudi Arabia,Sierra Leone,0.00035
+Saudi Arabia,Senegal,0.0007
+Saudi Arabia,Mauritania,0.0004
+Saudi Arabia,Guyana,0.00125
+Saudi Arabia,Nepal,0.00055
+Saudi Arabia,Guatemala,0.0022
+Saudi Arabia,Iraq,0.0006
+Saudi Arabia,Cyprus,0.0028
+Saudi Arabia,Finland,0.00105
+Saudi Arabia,Austria,0.0013
+Saudi Arabia,Hong Kong,0.0014
+Saudi Arabia,Sweden,0.00225
+Saudi Arabia,Honduras,0.00125
+Saudi Arabia,Egypt,0.0027
+Saudi Arabia,Malta,0.00205
+Saudi Arabia,China,0.0039
+Saudi Arabia,Canada,0.00245
+Saudi Arabia,Cote Divoire,0.0017
+Saudi Arabia,Togo,0.004
+Saudi Arabia,Portugal,0.00215
+Saudi Arabia,Tunisia,0.00245
+Saudi Arabia,South Africa,0.0026
+Saudi Arabia,Mozambique,0.0024
+Saudi Arabia,Australia,0.00375
+Saudi Arabia,Sudan,0.0059
+Saudi Arabia,New Zealand,0.0033
+Saudi Arabia,Malaysia,0.00385
+Saudi Arabia,Greece,0.00325
+Saudi Arabia,Syria,0.00735
+Saudi Arabia,Untd Arab Em,0.0052
+Saudi Arabia,Turkey,0.00435
+Saudi Arabia,Indonesia,0.00405
+Saudi Arabia,Oman,0.00495
+Saudi Arabia,Thailand,0.0047
+Saudi Arabia,Sri Lanka,0.00505
+Saudi Arabia,Panama,0.00395
+Saudi Arabia,Spain,0.00595
+Saudi Arabia,Madagascar,0.0049
+Saudi Arabia,Kenya,0.0055
+Saudi Arabia,Qatar,0.0093
+Saudi Arabia,UK,0.0139
+Saudi Arabia,Brazil,0.00675
+Saudi Arabia,India,0.00765
+Saudi Arabia,Morocco,0.0072
+Saudi Arabia,Netherlands,0.00835
+Saudi Arabia,Kuwait,0.0083
+Saudi Arabia,Pakistan,0.00805
+Saudi Arabia,Zambia,0.01485
+Saudi Arabia,Philippines,0.0078
+Saudi Arabia,Italy,0.0143
+Saudi Arabia,Jordan,0.02475
+Saudi Arabia,USA,0.052
+Saudi Arabia,Singapore,0.03465
+Saudi Arabia,Trinidad Tbg,0.0689
+Saudi Arabia,Bahrain,0.0519
+Saudi Arabia,Japan,0.05585
+Senegal,Oman,0.0001
+Senegal,Ecuador,0.0001
+Senegal,Australia,0.0001
+Senegal,Panama,0.0001
+Senegal,South Africa,0.00055
+Senegal,Austria,0.0008
+Senegal,Chad,0.0001
+Senegal,Egypt,0.0001
+Senegal,Sweden,0.0004
+Senegal,Malawi,0.0001
+Senegal,Colombia,0.00015
+Senegal,Sri Lanka,0.0002
+Senegal,Denmark,0.0005
+Senegal,Untd Arab Em,0.00155
+Senegal,Morocco,0.0009
+Senegal,Malaysia,0.0002
+Senegal,Mexico,0.0002
+Senegal,Algeria,0.00075
+Senegal,Turkey,0.00045
+Senegal,China,0.003
+Senegal,Indonesia,0.00055
+Senegal,Gabon,0.00205
+Senegal,Sierra Leone,0.0005
+Senegal,Uruguay,0.0005
+Senegal,Canada,0.00155
+Senegal,Cameroon,0.00035
+Senegal,Ireland,0.0009
+Senegal,Tunisia,0.00065
+Senegal,Nigeria,0.0145
+Senegal,Finland,0.00065
+Senegal,Thailand,0.00535
+Senegal,Brazil,0.0024
+Senegal,Hong Kong,0.0009
+Senegal,Burkina Faso,0.0013
+Senegal,Bangladesh,0.00095
+Senegal,USA,0.00705
+Senegal,Portugal,0.0016
+Senegal,Philippines,0.002
+Senegal,Greece,0.0013
+Senegal,Netherlands,0.00455
+Senegal,Niger,0.0024
+Senegal,Benin,0.00135
+Senegal,Japan,0.00425
+Senegal,Togo,0.0037
+Senegal,Iran,0.00195
+Senegal,UK,0.00475
+Senegal,Spain,0.00915
+Senegal,Cote Divoire,0.008
+Senegal,India,0.007
+Senegal,Italy,0.01155
+Senegal,Mali,0.00735
+Senegal,Mauritania,0.01535
+Seychelles,Untd Arab Em,0.0005
+Seychelles,Philippines,0.00155
+Seychelles,New Zealand,0.00075
+Seychelles,Mauritius,0.00165
+Seychelles,Brazil,0.00035
+Seychelles,Greece,0.00075
+Seychelles,China,0.00155
+Seychelles,Morocco,0.0004
+Seychelles,Ireland,0.00115
+Seychelles,Colombia,0.00075
+Seychelles,Hong Kong,0.0006
+Seychelles,Algeria,0.00095
+Seychelles,Austria,0.00105
+Seychelles,Portugal,0.0007
+Seychelles,Chile,0.00285
+Seychelles,Turkey,0.0029
+Seychelles,Malaysia,0.00185
+Seychelles,Indonesia,0.0024
+Seychelles,Sweden,0.0019
+Seychelles,Denmark,0.0015
+Seychelles,Australia,0.00295
+Seychelles,India,0.0037
+Seychelles,Tunisia,0.0017
+Seychelles,Finland,0.0076
+Seychelles,Nigeria,0.002
+Seychelles,Burkina Faso,0.0021
+Seychelles,South Africa,0.02985
+Seychelles,Pakistan,0.00195
+Seychelles,Japan,0.01395
+Seychelles,Spain,0.01155
+Seychelles,Netherlands,0.0109
+Seychelles,USA,0.029
+Seychelles,Singapore,0.03915
+Seychelles,Canada,0.01215
+Seychelles,UK,0.0377
+Seychelles,Italy,0.03505
+Seychelles,Thailand,0.0279
+Sierra Leone,Iran,0.00125
+Sierra Leone,Kuwait,0.0001
+Sierra Leone,Saudi Arabia,0.00035
+Sierra Leone,Norway,0.00055
+Sierra Leone,Finland,0.00055
+Sierra Leone,Peru,0.0001
+Sierra Leone,Oman,0.00015
+Sierra Leone,Trinidad Tbg,0.00025
+Sierra Leone,Indonesia,0.00115
+Sierra Leone,Australia,0.00065
+Sierra Leone,Pakistan,0.0007
+Sierra Leone,India,0.00205
+Sierra Leone,Turkey,0.00045
+Sierra Leone,Malaysia,0.0004
+Sierra Leone,South Africa,0.00215
+Sierra Leone,Mexico,0.00045
+Sierra Leone,Colombia,0.0006
+Sierra Leone,Denmark,0.0011
+Sierra Leone,Sri Lanka,0.0004
+Sierra Leone,Nigeria,0.0037
+Sierra Leone,Morocco,0.00065
+Sierra Leone,Cote Divoire,0.00125
+Sierra Leone,Ireland,0.00105
+Sierra Leone,Italy,0.00475
+Sierra Leone,Sweden,0.00135
+Sierra Leone,Algeria,0.0016
+Sierra Leone,Thailand,0.00195
+Sierra Leone,Japan,0.00595
+Sierra Leone,Malta,0.0022
+Sierra Leone,Portugal,0.00125
+Sierra Leone,Austria,0.00185
+Sierra Leone,Venezuela,0.0048
+Sierra Leone,Jordan,0.0057
+Sierra Leone,Canada,0.00375
+Sierra Leone,Greece,0.005
+Sierra Leone,Brazil,0.00555
+Sierra Leone,Netherlands,0.011
+Sierra Leone,Spain,0.00815
+Sierra Leone,UK,0.02995
+Sierra Leone,USA,0.0302
+Singapore,Bolivia,0.0004
+Singapore,Niger,0.0001
+Singapore,Cuba,0.0001
+Singapore,Iceland,0.0001
+Singapore,Nicaragua,0.00015
+Singapore,Guatemala,0.0004
+Singapore,Algeria,0.0003
+Singapore,Ecuador,0.0002
+Singapore,Cameroon,0.00025
+Singapore,Peru,0.00025
+Singapore,Senegal,0.0003
+Singapore,Iraq,0.00065
+Singapore,Burkina Faso,0.0003
+Singapore,Venezuela,0.0005
+Singapore,Colombia,0.0002
+Singapore,Dominican Rp,0.0002
+Singapore,El Salvador,0.0002
+Singapore,Barbados,0.0003
+Singapore,Rwanda,0.00045
+Singapore,Tunisia,0.00025
+Singapore,Morocco,0.00045
+Singapore,Sierra Leone,0.0005
+Singapore,Portugal,0.0005
+Singapore,Zambia,0.0044
+Singapore,Cote Divoire,0.00085
+Singapore,Chile,0.0013
+Singapore,Trinidad Tbg,0.00055
+Singapore,Mali,0.0005
+Singapore,Uganda,0.0009
+Singapore,Costa Rica,0.00065
+Singapore,Suriname,0.0004
+Singapore,Greece,0.0006
+Singapore,Mauritania,0.00055
+Singapore,Jamaica,0.00045
+Singapore,Gabon,0.00185
+Singapore,Uruguay,0.00065
+Singapore,Bulgaria,0.0006
+Singapore,Syria,0.0008
+Singapore,Sudan,0.0006
+Singapore,Turkey,0.0016
+Singapore,Zimbabwe,0.00135
+Singapore,Paraguay,0.00085
+Singapore,Finland,0.00235
+Singapore,Ghana,0.0013
+Singapore,Denmark,0.0023
+Singapore,Argentina,0.00125
+Singapore,Egypt,0.00155
+Singapore,Mozambique,0.0045
+Singapore,Israel,0.00225
+Singapore,Austria,0.0023
+Singapore,Sweden,0.005
+Singapore,Kuwait,0.01735
+Singapore,Togo,0.00125
+Singapore,Qatar,0.0184
+Singapore,Norway,0.00295
+Singapore,Nigeria,0.00175
+Singapore,Honduras,0.00175
+Singapore,Jordan,0.00195
+Singapore,Oman,0.0102
+Singapore,Iran,0.0077
+Singapore,Brazil,0.0037
+Singapore,Pakistan,0.00225
+Singapore,Mexico,0.00345
+Singapore,Spain,0.00445
+Singapore,Benin,0.00245
+Singapore,New Zealand,0.00385
+Singapore,Guyana,0.0025
+Singapore,Madagascar,0.0046
+Singapore,Saudi Arabia,0.03465
+Singapore,Kenya,0.00335
+Singapore,South Africa,0.00405
+Singapore,Untd Arab Em,0.01245
+Singapore,Bahrain,0.0229
+Singapore,Italy,0.01365
+Singapore,Canada,0.0083
+Singapore,Afghanistan,0.00545
+Singapore,Bangladesh,0.00645
+Singapore,Nepal,0.00655
+Singapore,Ireland,0.00805
+Singapore,Cyprus,0.0092
+Singapore,India,0.01355
+Singapore,Philippines,0.01735
+Singapore,Netherlands,0.01625
+Singapore,Mauritius,0.01285
+Singapore,Australia,0.0233
+Singapore,Sri Lanka,0.0164
+Singapore,China,0.04595
+Singapore,Indonesia,0.0478
+Singapore,UK,0.0395
+Singapore,Thailand,0.0511
+Singapore,Panama,0.027
+Singapore,Malta,0.04505
+Singapore,Seychelles,0.03915
+Singapore,Japan,0.17165
+Singapore,Cambodia,0.0439
+Singapore,Hong Kong,0.0994
+Singapore,Malaysia,0.16305
+Singapore,USA,0.22315
+South Africa,Chad,0.00135
+South Africa,El Salvador,0.0001
+South Africa,Denmark,0.00035
+South Africa,Greenland,0.00015
+South Africa,Algeria,0.0001
+South Africa,Costa Rica,0.00015
+South Africa,Tunisia,0.00015
+South Africa,Bangladesh,0.0001
+South Africa,Nepal,0.0001
+South Africa,Trinidad Tbg,0.0002
+South Africa,Nicaragua,0.0002
+South Africa,Barbados,0.00025
+South Africa,Honduras,0.0002
+South Africa,Syria,0.0002
+South Africa,Cambodia,0.0002
+South Africa,Bolivia,0.0002
+South Africa,Egypt,0.00125
+South Africa,Colombia,0.0003
+South Africa,Qatar,0.00375
+South Africa,Sweden,0.0011
+South Africa,Finland,0.00075
+South Africa,Guatemala,0.0002
+South Africa,Uruguay,0.00045
+South Africa,Oman,0.00655
+South Africa,Mexico,0.00025
+South Africa,Niger,0.0004
+South Africa,Peru,0.0004
+South Africa,Pakistan,0.0004
+South Africa,Dominican Rp,0.0004
+South Africa,Argentina,0.0009
+South Africa,Greece,0.0003
+South Africa,Philippines,0.00045
+South Africa,Panama,0.00045
+South Africa,New Zealand,0.00055
+South Africa,Venezuela,0.0005
+South Africa,Indonesia,0.0006
+South Africa,Ecuador,0.0006
+South Africa,Burkina Faso,0.00055
+South Africa,Ireland,0.0016
+South Africa,Sudan,0.0004
+South Africa,Iceland,0.00065
+South Africa,Bulgaria,0.00045
+South Africa,Cuba,0.0004
+South Africa,Untd Arab Em,0.004
+South Africa,Suriname,0.00265
+South Africa,Morocco,0.0005
+South Africa,Kuwait,0.0021
+South Africa,Senegal,0.00055
+South Africa,Norway,0.0007
+South Africa,Saudi Arabia,0.0026
+South Africa,Cameroon,0.0007
+South Africa,Malta,0.0008
+South Africa,Thailand,0.0012
+South Africa,Guyana,0.00085
+South Africa,Mauritania,0.0007
+South Africa,Austria,0.00105
+South Africa,Iran,0.003
+South Africa,Paraguay,0.00095
+South Africa,Chile,0.0011
+South Africa,Jamaica,0.00155
+South Africa,Nigeria,0.00185
+South Africa,Brazil,0.00145
+South Africa,Turkey,0.00085
+South Africa,Portugal,0.001
+South Africa,Gabon,0.00115
+South Africa,Malaysia,0.0022
+South Africa,Australia,0.0022
+South Africa,Bahrain,0.0013
+South Africa,Jordan,0.001
+South Africa,Cyprus,0.00105
+South Africa,Rwanda,0.00135
+South Africa,Canada,0.00185
+South Africa,Cote Divoire,0.00195
+South Africa,India,0.0018
+South Africa,Netherlands,0.00335
+South Africa,Benin,0.00215
+South Africa,Togo,0.0067
+South Africa,Burundi,0.00185
+South Africa,Singapore,0.00405
+South Africa,China,0.0036
+South Africa,Sierra Leone,0.00215
+South Africa,Sri Lanka,0.0032
+South Africa,Spain,0.0027
+South Africa,Israel,0.0033
+South Africa,Uganda,0.0026
+South Africa,Mali,0.0033
+South Africa,Hong Kong,0.0065
+South Africa,Madagascar,0.0047
+South Africa,Ghana,0.00495
+South Africa,UK,0.0173
+South Africa,Italy,0.01175
+South Africa,Japan,0.0173
+South Africa,USA,0.02155
+South Africa,Kenya,0.01125
+South Africa,Seychelles,0.02985
+South Africa,Mauritius,0.0336
+South Africa,Zimbabwe,0.07365
+South Africa,Zambia,0.0636
+South Africa,Malawi,0.0804
+South Africa,Mozambique,0.07155
+Spain,Chad,0.0018
+Spain,Nepal,0.0003
+Spain,Cambodia,0.001
+Spain,Bangladesh,0.0007
+Spain,Burundi,0.00135
+Spain,India,0.0007
+Spain,Sri Lanka,0.0011
+Spain,Rwanda,0.00065
+Spain,Afghanistan,0.00035
+Spain,Zambia,0.00055
+Spain,Barbados,0.00035
+Spain,Sudan,0.0005
+Spain,Australia,0.00075
+Spain,New Zealand,0.00115
+Spain,Canada,0.00085
+Spain,Malawi,0.0027
+Spain,Philippines,0.00115
+Spain,Uganda,0.00575
+Spain,China,0.002
+Spain,Brazil,0.0015
+Spain,Pakistan,0.00165
+Spain,Zimbabwe,0.00285
+Spain,Guyana,0.00385
+Spain,Niger,0.00235
+Spain,Oman,0.00115
+Spain,Indonesia,0.00245
+Spain,Trinidad Tbg,0.0035
+Spain,South Africa,0.0027
+Spain,Malaysia,0.0031
+Spain,Thailand,0.00255
+Spain,Madagascar,0.0027
+Spain,Iraq,0.0062
+Spain,Kenya,0.00205
+Spain,Japan,0.0043
+Spain,Iran,0.00435
+Spain,Qatar,0.00585
+Spain,Mexico,0.00305
+Spain,Burkina Faso,0.00195
+Spain,Untd Arab Em,0.00345
+Spain,Bulgaria,0.0033
+Spain,El Salvador,0.00205
+Spain,Iceland,0.00615
+Spain,Guatemala,0.0017
+Spain,Paraguay,0.0059
+Spain,Finland,0.0043
+Spain,Argentina,0.00285
+Spain,Mauritius,0.00475
+Spain,Cameroon,0.01175
+Spain,Bolivia,0.00195
+Spain,Denmark,0.00385
+Spain,Hong Kong,0.0029
+Spain,Sweden,0.0044
+Spain,Mozambique,0.0058
+Spain,Greenland,0.00245
+Spain,Colombia,0.0028
+Spain,Saudi Arabia,0.00595
+Spain,Norway,0.0033
+Spain,Gabon,0.01175
+Spain,Bahrain,0.00215
+Spain,Peru,0.00285
+Spain,Austria,0.0041
+Spain,Venezuela,0.00335
+Spain,Kuwait,0.00305
+Spain,Nigeria,0.0186
+Spain,Ecuador,0.0043
+Spain,Costa Rica,0.00435
+Spain,Sierra Leone,0.00815
+Spain,Turkey,0.00305
+Spain,Israel,0.0038
+Spain,Suriname,0.0061
+Spain,Singapore,0.00445
+Spain,Mali,0.00335
+Spain,Syria,0.00675
+Spain,Ireland,0.0103
+Spain,Ghana,0.00535
+Spain,Greece,0.0036
+Spain,Uruguay,0.00425
+Spain,Egypt,0.00455
+Spain,Chile,0.006
+Spain,Cote Divoire,0.01045
+Spain,Honduras,0.0076
+Spain,Nicaragua,0.00575
+Spain,Benin,0.0063
+Spain,Netherlands,0.0083
+Spain,Dominican Rp,0.00485
+Spain,Jordan,0.00435
+Spain,USA,0.01085
+Spain,Jamaica,0.00735
+Spain,Seychelles,0.01155
+Spain,Senegal,0.00915
+Spain,UK,0.01265
+Spain,Cuba,0.00785
+Spain,Togo,0.01035
+Spain,Italy,0.0142
+Spain,Algeria,0.01525
+Spain,Cyprus,0.0067
+Spain,Panama,0.00855
+Spain,Tunisia,0.0129
+Spain,Malta,0.0112
+Spain,Morocco,0.01725
+Spain,Mauritania,0.042
+Spain,Portugal,0.0402
+Sri Lanka,Qatar,0.00055
+Sri Lanka,Kenya,0.00055
+Sri Lanka,Mauritius,0.0001
+Sri Lanka,Ecuador,0.0001
+Sri Lanka,Sudan,0.0001
+Sri Lanka,Ghana,0.0001
+Sri Lanka,Sierra Leone,0.0004
+Sri Lanka,Uruguay,0.0001
+Sri Lanka,Bulgaria,0.00015
+Sri Lanka,Bahrain,0.00045
+Sri Lanka,Oman,0.0002
+Sri Lanka,Brazil,0.00105
+Sri Lanka,Colombia,0.00055
+Sri Lanka,Afghanistan,0.0002
+Sri Lanka,Peru,0.00015
+Sri Lanka,Finland,0.00045
+Sri Lanka,Morocco,0.00015
+Sri Lanka,Seychelles,0.0003
+Sri Lanka,Philippines,0.0005
+Sri Lanka,Portugal,0.0002
+Sri Lanka,Indonesia,0.00335
+Sri Lanka,Argentina,0.00055
+Sri Lanka,Greece,0.00025
+Sri Lanka,Turkey,0.0008
+Sri Lanka,Tunisia,0.00035
+Sri Lanka,Bangladesh,0.00035
+Sri Lanka,New Zealand,0.002
+Sri Lanka,Israel,0.0011
+Sri Lanka,Norway,0.00055
+Sri Lanka,Chile,0.0008
+Sri Lanka,Malaysia,0.0058
+Sri Lanka,Ireland,0.0008
+Sri Lanka,Austria,0.0008
+Sri Lanka,Denmark,0.0011
+Sri Lanka,China,0.008
+Sri Lanka,Kuwait,0.00085
+Sri Lanka,Jordan,0.0007
+Sri Lanka,Syria,0.00085
+Sri Lanka,Spain,0.0011
+Sri Lanka,Iran,0.0049
+Sri Lanka,Mexico,0.0013
+Sri Lanka,Sweden,0.0024
+Sri Lanka,India,0.01255
+Sri Lanka,Thailand,0.00555
+Sri Lanka,South Africa,0.0032
+Sri Lanka,Hong Kong,0.0025
+Sri Lanka,Untd Arab Em,0.0015
+Sri Lanka,Australia,0.00435
+Sri Lanka,Saudi Arabia,0.00505
+Sri Lanka,Canada,0.0031
+Sri Lanka,Pakistan,0.00505
+Sri Lanka,Singapore,0.0164
+Sri Lanka,Iraq,0.00225
+Sri Lanka,Italy,0.0041
+Sri Lanka,Egypt,0.0024
+Sri Lanka,Netherlands,0.0051
+Sri Lanka,Japan,0.02555
+Sri Lanka,UK,0.01985
+Sri Lanka,USA,0.05315
+Sudan,Indonesia,0.00045
+Sudan,Singapore,0.0006
+Sudan,Untd Arab Em,0.0001
+Sudan,Brazil,0.0002
+Sudan,Norway,0.0001
+Sudan,Bangladesh,0.00085
+Sudan,Ireland,0.0003
+Sudan,Kuwait,0.00035
+Sudan,Qatar,0.0004
+Sudan,Algeria,0.00015
+Sudan,Chile,0.0001
+Sudan,Bulgaria,0.00025
+Sudan,Austria,0.0003
+Sudan,Iraq,0.0001
+Sudan,South Africa,0.0004
+Sudan,Canada,0.0005
+Sudan,Malaysia,0.0007
+Sudan,Australia,0.00025
+Sudan,Cyprus,0.00015
+Sudan,Sweden,0.00065
+Sudan,Syria,0.00015
+Sudan,Pakistan,0.00025
+Sudan,Finland,0.0002
+Sudan,Denmark,0.00045
+Sudan,Hong Kong,0.0003
+Sudan,Tunisia,0.00025
+Sudan,Portugal,0.0002
+Sudan,Spain,0.0005
+Sudan,Iran,0.0004
+Sudan,India,0.00125
+Sudan,Greece,0.00065
+Sudan,Mexico,0.00035
+Sudan,Netherlands,0.0025
+Sudan,Jordan,0.0005
+Sudan,Turkey,0.00115
+Sudan,UK,0.0055
+Sudan,USA,0.0044
+Sudan,Thailand,0.002
+Sudan,Egypt,0.00385
+Sudan,Italy,0.0049
+Sudan,Japan,0.0045
+Sudan,China,0.0063
+Sudan,Saudi Arabia,0.0059
+Suriname,Malaysia,0.00085
+Suriname,Singapore,0.0004
+Suriname,Bulgaria,0.0003
+Suriname,Pakistan,0.0002
+Suriname,Saudi Arabia,0.0002
+Suriname,Ireland,0.00025
+Suriname,Indonesia,0.00085
+Suriname,Jamaica,0.00125
+Suriname,Tunisia,0.0004
+Suriname,Turkey,0.0007
+Suriname,Dominican Rp,0.0009
+Suriname,Israel,0.00055
+Suriname,Colombia,0.0018
+Suriname,Algeria,0.01195
+Suriname,Austria,0.00055
+Suriname,Morocco,0.00045
+Suriname,Ecuador,0.00055
+Suriname,China,0.00225
+Suriname,Hong Kong,0.0009
+Suriname,Nigeria,0.0011
+Suriname,Denmark,0.001
+Suriname,Senegal,0.0013
+Suriname,India,0.00125
+Suriname,Greece,0.0009
+Suriname,Trinidad Tbg,0.0671
+Suriname,Philippines,0.0014
+Suriname,Portugal,0.00185
+Suriname,South Africa,0.00265
+Suriname,Thailand,0.0029
+Suriname,Sweden,0.003
+Suriname,Mexico,0.0036
+Suriname,Spain,0.0061
+Suriname,Venezuela,0.0161
+Suriname,Italy,0.0077
+Suriname,Argentina,0.0058
+Suriname,Canada,0.01075
+Suriname,Japan,0.02485
+Suriname,Brazil,0.02335
+Suriname,UK,0.02285
+Suriname,Netherlands,0.08495
+Suriname,USA,0.13635
+Suriname,Norway,0.06575
+Sweden,Afghanistan,0.0002
+Sweden,Burkina Faso,0.00025
+Sweden,Nepal,0.0003
+Sweden,Mali,0.00025
+Sweden,Niger,0.00025
+Sweden,Burundi,0.00065
+Sweden,Gabon,0.00025
+Sweden,Rwanda,0.0008
+Sweden,Dominican Rp,0.0004
+Sweden,Bangladesh,0.00055
+Sweden,Chad,0.00025
+Sweden,Cameroon,0.00035
+Sweden,Madagascar,0.0008
+Sweden,Benin,0.0005
+Sweden,Cambodia,0.0006
+Sweden,Togo,0.00055
+Sweden,Honduras,0.0018
+Sweden,Uganda,0.00035
+Sweden,Malawi,0.00085
+Sweden,Cuba,0.00045
+Sweden,Cote Divoire,0.00065
+Sweden,Senegal,0.0004
+Sweden,Uruguay,0.0006
+Sweden,Guatemala,0.00105
+Sweden,Mauritius,0.00095
+Sweden,Suriname,0.003
+Sweden,Venezuela,0.0014
+Sweden,Paraguay,0.00045
+Sweden,Argentina,0.0005
+Sweden,Ecuador,0.0005
+Sweden,India,0.0007
+Sweden,Costa Rica,0.00245
+Sweden,Trinidad Tbg,0.00075
+Sweden,El Salvador,0.0007
+Sweden,Sudan,0.00065
+Sweden,Jamaica,0.00255
+Sweden,Pakistan,0.0012
+Sweden,Mexico,0.00075
+Sweden,Nicaragua,0.00085
+Sweden,Philippines,0.001
+Sweden,Iraq,0.0008
+Sweden,Colombia,0.00155
+Sweden,Barbados,0.00085
+Sweden,Nigeria,0.00255
+Sweden,Iran,0.0016
+Sweden,Sierra Leone,0.00135
+Sweden,Zimbabwe,0.0016
+Sweden,Peru,0.00115
+Sweden,Brazil,0.00155
+Sweden,South Africa,0.0011
+Sweden,Indonesia,0.0012
+Sweden,Algeria,0.0013
+Sweden,Untd Arab Em,0.00125
+Sweden,Mauritania,0.00145
+Sweden,Guyana,0.0019
+Sweden,Kenya,0.0025
+Sweden,Syria,0.0012
+Sweden,Oman,0.00155
+Sweden,Bolivia,0.0012
+Sweden,Qatar,0.0013
+Sweden,Kuwait,0.0014
+Sweden,Sri Lanka,0.0024
+Sweden,Panama,0.00435
+Sweden,Ghana,0.00155
+Sweden,Seychelles,0.0019
+Sweden,Saudi Arabia,0.00225
+Sweden,Thailand,0.00205
+Sweden,Chile,0.0024
+Sweden,New Zealand,0.00175
+Sweden,Turkey,0.00185
+Sweden,Greece,0.002
+Sweden,Bulgaria,0.0019
+Sweden,Zambia,0.00265
+Sweden,Bahrain,0.0021
+Sweden,Israel,0.00225
+Sweden,Canada,0.0023
+Sweden,Australia,0.002
+Sweden,Malta,0.00295
+Sweden,Mozambique,0.0019
+Sweden,China,0.0028
+Sweden,Hong Kong,0.0036
+Sweden,Morocco,0.00245
+Sweden,Portugal,0.0048
+Sweden,Egypt,0.0026
+Sweden,Tunisia,0.0024
+Sweden,Jordan,0.00225
+Sweden,Greenland,0.0082
+Sweden,Austria,0.0043
+Sweden,Cyprus,0.00335
+Sweden,Malaysia,0.0038
+Sweden,Spain,0.0044
+Sweden,Ireland,0.0074
+Sweden,Japan,0.00795
+Sweden,Singapore,0.005
+Sweden,Italy,0.0092
+Sweden,Netherlands,0.01275
+Sweden,Iceland,0.0112
+Sweden,USA,0.02115
+Sweden,Finland,0.0275
+Sweden,UK,0.02455
+Sweden,Denmark,0.0282
+Sweden,Norway,0.0325
+Syria,Sri Lanka,0.00085
+Syria,Mexico,0.00025
+Syria,Ireland,0.0003
+Syria,Bahrain,0.0001
+Syria,Denmark,0.00055
+Syria,Colombia,0.00015
+Syria,Malaysia,0.00085
+Syria,Iran,0.00095
+Syria,Sudan,0.00015
+Syria,Brazil,0.0014
+Syria,Philippines,0.0002
+Syria,China,0.0039
+Syria,Sweden,0.0012
+Syria,Egypt,0.0003
+Syria,Oman,0.0003
+Syria,Australia,0.0002
+Syria,Pakistan,0.00025
+Syria,Thailand,0.00145
+Syria,Nigeria,0.0006
+Syria,Hong Kong,0.0006
+Syria,Singapore,0.0008
+Syria,Untd Arab Em,0.0007
+Syria,Morocco,0.0006
+Syria,India,0.00115
+Syria,Indonesia,0.0011
+Syria,Japan,0.00705
+Syria,Bulgaria,0.00155
+Syria,Canada,0.001
+Syria,Senegal,0.0009
+Syria,Tunisia,0.001
+Syria,Qatar,0.0008
+Syria,Netherlands,0.0034
+Syria,Portugal,0.0009
+Syria,Austria,0.0023
+Syria,Greece,0.00235
+Syria,Kuwait,0.0019
+Syria,Algeria,0.00155
+Syria,Cyprus,0.0033
+Syria,USA,0.007
+Syria,Jordan,0.0055
+Syria,UK,0.0067
+Syria,Spain,0.00675
+Syria,Saudi Arabia,0.00735
+Syria,Turkey,0.01135
+Syria,Italy,0.0252
+Thailand,Algeria,0.0002
+Thailand,Ecuador,0.0001
+Thailand,Zimbabwe,0.0008
+Thailand,Greenland,0.003
+Thailand,Bolivia,0.00015
+Thailand,Colombia,0.00015
+Thailand,Burkina Faso,0.0018
+Thailand,Bulgaria,0.0008
+Thailand,Chad,0.0016
+Thailand,Trinidad Tbg,0.0003
+Thailand,Guatemala,0.0002
+Thailand,El Salvador,0.0003
+Thailand,Zambia,0.01095
+Thailand,Tunisia,0.00035
+Thailand,Barbados,0.00025
+Thailand,Argentina,0.0007
+Thailand,Iceland,0.00085
+Thailand,Costa Rica,0.00035
+Thailand,Iraq,0.0006
+Thailand,Turkey,0.0004
+Thailand,Uruguay,0.0004
+Thailand,Paraguay,0.00035
+Thailand,Honduras,0.0003
+Thailand,Greece,0.0003
+Thailand,Morocco,0.0004
+Thailand,Chile,0.0009
+Thailand,Peru,0.00055
+Thailand,Uganda,0.0004
+Thailand,Norway,0.00075
+Thailand,Burundi,0.00045
+Thailand,Finland,0.00115
+Thailand,Sudan,0.002
+Thailand,Dominican Rp,0.0007
+Thailand,Cuba,0.0007
+Thailand,Jamaica,0.0008
+Thailand,Brazil,0.00185
+Thailand,Rwanda,0.0005
+Thailand,Niger,0.0009
+Thailand,Malawi,0.00105
+Thailand,Austria,0.0009
+Thailand,Nicaragua,0.0006
+Thailand,Portugal,0.00065
+Thailand,Suriname,0.0029
+Thailand,Guyana,0.00075
+Thailand,Egypt,0.00065
+Thailand,Cameroon,0.00115
+Thailand,Sweden,0.00205
+Thailand,Mali,0.00575
+Thailand,Denmark,0.00125
+Thailand,South Africa,0.0012
+Thailand,India,0.00255
+Thailand,Israel,0.00165
+Thailand,Mexico,0.00115
+Thailand,Iran,0.00145
+Thailand,Qatar,0.0083
+Thailand,Oman,0.0189
+Thailand,Pakistan,0.00145
+Thailand,Ireland,0.0012
+Thailand,New Zealand,0.0021
+Thailand,Afghanistan,0.00115
+Thailand,Cote Divoire,0.00215
+Thailand,Gabon,0.00145
+Thailand,Malta,0.00215
+Thailand,Kenya,0.00175
+Thailand,Sierra Leone,0.00195
+Thailand,Syria,0.00145
+Thailand,Nigeria,0.0014
+Thailand,Cyprus,0.00155
+Thailand,Saudi Arabia,0.0047
+Thailand,Kuwait,0.00325
+Thailand,Bangladesh,0.0016
+Thailand,Seychelles,0.0279
+Thailand,Ghana,0.00475
+Thailand,Spain,0.00255
+Thailand,Bahrain,0.0041
+Thailand,Mauritius,0.00235
+Thailand,Madagascar,0.0026
+Thailand,Indonesia,0.00445
+Thailand,Canada,0.004
+Thailand,Italy,0.00505
+Thailand,Untd Arab Em,0.00655
+Thailand,Philippines,0.0057
+Thailand,Australia,0.00645
+Thailand,Jordan,0.00385
+Thailand,Nepal,0.0038
+Thailand,Sri Lanka,0.00555
+Thailand,Mozambique,0.00505
+Thailand,Mauritania,0.0064
+Thailand,Netherlands,0.00645
+Thailand,Panama,0.0057
+Thailand,Senegal,0.00535
+Thailand,China,0.0117
+Thailand,UK,0.00955
+Thailand,Hong Kong,0.0164
+Thailand,Benin,0.01245
+Thailand,Malaysia,0.02505
+Thailand,Togo,0.0148
+Thailand,Cambodia,0.0311
+Thailand,Japan,0.07935
+Thailand,Singapore,0.0511
+Thailand,USA,0.06145
+Togo,Israel,0.0002
+Togo,Chile,0.0001
+Togo,Cameroon,0.0001
+Togo,Venezuela,0.00125
+Togo,Singapore,0.00125
+Togo,Algeria,0.0004
+Togo,Mali,0.0002
+Togo,Finland,0.0004
+Togo,Sweden,0.00055
+Togo,Ireland,0.00055
+Togo,Hong Kong,0.0008
+Togo,Bulgaria,0.0007
+Togo,Japan,0.00865
+Togo,Uruguay,0.0019
+Togo,Turkey,0.0012
+Togo,Denmark,0.00145
+Togo,Benin,0.0016
+Togo,Tunisia,0.0013
+Togo,Niger,0.00125
+Togo,China,0.0247
+Togo,Australia,0.0013
+Togo,Austria,0.0016
+Togo,Morocco,0.0019
+Togo,Norway,0.00165
+Togo,UK,0.0103
+Togo,Greece,0.002
+Togo,Mexico,0.0032
+Togo,Nigeria,0.0023
+Togo,Indonesia,0.0046
+Togo,Malaysia,0.0023
+Togo,Burkina Faso,0.00235
+Togo,Thailand,0.0148
+Togo,Portugal,0.00275
+Togo,India,0.0065
+Togo,Iran,0.00425
+Togo,Colombia,0.0044
+Togo,Spain,0.01035
+Togo,Philippines,0.00485
+Togo,USA,0.0122
+Togo,Ghana,0.00605
+Togo,Italy,0.01155
+Togo,South Africa,0.0067
+Togo,Netherlands,0.02335
+Togo,Brazil,0.0069
+Togo,Cote Divoire,0.0131
+Togo,Canada,0.01
+Trinidad Tbg,Austria,0.00025
+Trinidad Tbg,Israel,0.0001
+Trinidad Tbg,El Salvador,0.0001
+Trinidad Tbg,Hong Kong,0.0001
+Trinidad Tbg,Paraguay,0.0001
+Trinidad Tbg,New Zealand,0.00085
+Trinidad Tbg,Greece,0.00015
+Trinidad Tbg,South Africa,0.0002
+Trinidad Tbg,Ireland,0.0008
+Trinidad Tbg,Gabon,0.0002
+Trinidad Tbg,Finland,0.0002
+Trinidad Tbg,Tunisia,0.0002
+Trinidad Tbg,Malawi,0.0002
+Trinidad Tbg,Burkina Faso,0.0002
+Trinidad Tbg,Jordan,0.0003
+Trinidad Tbg,Uruguay,0.0003
+Trinidad Tbg,Sierra Leone,0.00025
+Trinidad Tbg,Dominican Rp,0.0003
+Trinidad Tbg,Australia,0.0012
+Trinidad Tbg,Iceland,0.0004
+Trinidad Tbg,Turkey,0.0003
+Trinidad Tbg,Indonesia,0.0096
+Trinidad Tbg,Costa Rica,0.0003
+Trinidad Tbg,China,0.00085
+Trinidad Tbg,Algeria,0.0006
+Trinidad Tbg,Portugal,0.0003
+Trinidad Tbg,Sweden,0.00075
+Trinidad Tbg,Singapore,0.00055
+Trinidad Tbg,India,0.00055
+Trinidad Tbg,Norway,0.00045
+Trinidad Tbg,Senegal,0.0007
+Trinidad Tbg,Cameroon,0.0007
+Trinidad Tbg,Peru,0.0006
+Trinidad Tbg,Ecuador,0.0013
+Trinidad Tbg,Morocco,0.0005
+Trinidad Tbg,Argentina,0.00105
+Trinidad Tbg,Ghana,0.001
+Trinidad Tbg,Chile,0.00055
+Trinidad Tbg,Cote Divoire,0.0013
+Trinidad Tbg,Denmark,0.00115
+Trinidad Tbg,Nigeria,0.00095
+Trinidad Tbg,Japan,0.0093
+Trinidad Tbg,Brazil,0.00535
+Trinidad Tbg,Netherlands,0.0034
+Trinidad Tbg,Panama,0.0028
+Trinidad Tbg,Venezuela,0.01235
+Trinidad Tbg,Colombia,0.0055
+Trinidad Tbg,Togo,0.0043
+Trinidad Tbg,Mexico,0.00335
+Trinidad Tbg,Spain,0.0035
+Trinidad Tbg,Canada,0.00955
+Trinidad Tbg,Italy,0.00585
+Trinidad Tbg,Jamaica,0.0113
+Trinidad Tbg,UK,0.01815
+Trinidad Tbg,Honduras,0.01235
+Trinidad Tbg,Guatemala,0.0146
+Trinidad Tbg,Barbados,0.0253
+Trinidad Tbg,Suriname,0.0671
+Trinidad Tbg,Guyana,0.12095
+Trinidad Tbg,USA,0.1575
+Tunisia,New Zealand,0.00015
+Tunisia,Chad,0.00045
+Tunisia,Sierra Leone,0.0001
+Tunisia,Gabon,0.0002
+Tunisia,Nepal,0.0001
+Tunisia,Cyprus,0.0002
+Tunisia,Nigeria,0.0001
+Tunisia,Hong Kong,0.0001
+Tunisia,Israel,0.0001
+Tunisia,Uruguay,0.0001
+Tunisia,Kenya,0.0001
+Tunisia,Madagascar,0.00025
+Tunisia,Chile,0.00025
+Tunisia,Jamaica,0.0001
+Tunisia,Singapore,0.00025
+Tunisia,Panama,0.0001
+Tunisia,Barbados,0.00015
+Tunisia,Mozambique,0.00025
+Tunisia,South Africa,0.00015
+Tunisia,Kuwait,0.00045
+Tunisia,Guatemala,0.0002
+Tunisia,Venezuela,0.0002
+Tunisia,Sri Lanka,0.00035
+Tunisia,Honduras,0.0002
+Tunisia,Finland,0.00125
+Tunisia,Australia,0.0002
+Tunisia,Iceland,0.0002
+Tunisia,Sudan,0.00025
+Tunisia,Burkina Faso,0.0006
+Tunisia,Thailand,0.00035
+Tunisia,Untd Arab Em,0.00035
+Tunisia,Mali,0.001
+Tunisia,Niger,0.0004
+Tunisia,Pakistan,0.0003
+Tunisia,Cote Divoire,0.00095
+Tunisia,Norway,0.0007
+Tunisia,Ghana,0.0003
+Tunisia,Benin,0.00065
+Tunisia,Canada,0.0022
+Tunisia,Malaysia,0.0006
+Tunisia,Cameroon,0.00045
+Tunisia,Bulgaria,0.0007
+Tunisia,Argentina,0.0018
+Tunisia,Mauritania,0.0007
+Tunisia,Sweden,0.0024
+Tunisia,Cuba,0.00065
+Tunisia,Bangladesh,0.00035
+Tunisia,Senegal,0.00065
+Tunisia,Zambia,0.00045
+Tunisia,Saudi Arabia,0.00245
+Tunisia,Ireland,0.00065
+Tunisia,Denmark,0.00105
+Tunisia,Malta,0.00205
+Tunisia,Syria,0.001
+Tunisia,Togo,0.0013
+Tunisia,Burundi,0.0009
+Tunisia,Bahrain,0.00105
+Tunisia,Brazil,0.00175
+Tunisia,Egypt,0.0012
+Tunisia,Jordan,0.00075
+Tunisia,Portugal,0.00105
+Tunisia,Japan,0.00465
+Tunisia,Iraq,0.0014
+Tunisia,Mexico,0.0009
+Tunisia,China,0.00235
+Tunisia,Indonesia,0.00105
+Tunisia,Iran,0.0011
+Tunisia,Morocco,0.00245
+Tunisia,Austria,0.00205
+Tunisia,Turkey,0.00385
+Tunisia,Greece,0.0034
+Tunisia,USA,0.01115
+Tunisia,UK,0.0063
+Tunisia,Algeria,0.00595
+Tunisia,India,0.0033
+Tunisia,Netherlands,0.008
+Tunisia,Spain,0.0129
+Tunisia,Guyana,0.007
+Tunisia,Italy,0.05765
+Turkey,Gabon,0.0016
+Turkey,El Salvador,0.0001
+Turkey,Nepal,0.00015
+Turkey,Barbados,0.0001
+Turkey,Burkina Faso,0.0003
+Turkey,Mexico,0.00015
+Turkey,Zimbabwe,0.00055
+Turkey,Chile,0.0005
+Turkey,Cambodia,0.0001
+Turkey,Peru,0.0002
+Turkey,Argentina,0.0004
+Turkey,Venezuela,0.00015
+Turkey,Colombia,0.0001
+Turkey,Paraguay,0.00015
+Turkey,South Africa,0.00085
+Turkey,Australia,0.0007
+Turkey,Philippines,0.0002
+Turkey,Burundi,0.0004
+Turkey,Guatemala,0.00015
+Turkey,Costa Rica,0.00025
+Turkey,Uganda,0.0002
+Turkey,Nicaragua,0.00015
+Turkey,Uruguay,0.0003
+Turkey,Indonesia,0.00035
+Turkey,Trinidad Tbg,0.0003
+Turkey,Brazil,0.0008
+Turkey,Zambia,0.00045
+Turkey,Malawi,0.0016
+Turkey,New Zealand,0.00055
+Turkey,Finland,0.00105
+Turkey,Thailand,0.0004
+Turkey,Kenya,0.0002
+Turkey,Bangladesh,0.0004
+Turkey,Cote Divoire,0.0007
+Turkey,Cameroon,0.0005
+Turkey,Madagascar,0.0002
+Turkey,Niger,0.00075
+Turkey,Iceland,0.0003
+Turkey,Mozambique,0.00045
+Turkey,Ecuador,0.0007
+Turkey,Dominican Rp,0.0005
+Turkey,Chad,0.0004
+Turkey,Canada,0.0009
+Turkey,Mali,0.00045
+Turkey,Sierra Leone,0.00045
+Turkey,India,0.0007
+Turkey,Norway,0.0006
+Turkey,Nigeria,0.00045
+Turkey,Rwanda,0.0004
+Turkey,Mauritania,0.0006
+Turkey,Senegal,0.00045
+Turkey,Sweden,0.00185
+Turkey,Mauritius,0.0004
+Turkey,Denmark,0.00075
+Turkey,Benin,0.0013
+Turkey,Honduras,0.00055
+Turkey,Afghanistan,0.00045
+Turkey,Ireland,0.00135
+Turkey,Togo,0.0012
+Turkey,Malaysia,0.0017
+Turkey,Portugal,0.0007
+Turkey,China,0.0016
+Turkey,Oman,0.0009
+Turkey,Guyana,0.0008
+Turkey,Hong Kong,0.0009
+Turkey,Qatar,0.00095
+Turkey,Suriname,0.0007
+Turkey,Pakistan,0.001
+Turkey,Sri Lanka,0.0008
+Turkey,Japan,0.00425
+Turkey,Panama,0.0017
+Turkey,Morocco,0.00175
+Turkey,Bahrain,0.00165
+Turkey,Ghana,0.0012
+Turkey,Sudan,0.00115
+Turkey,Greece,0.00155
+Turkey,Jamaica,0.0009
+Turkey,Austria,0.0018
+Turkey,Israel,0.00195
+Turkey,Singapore,0.0016
+Turkey,Untd Arab Em,0.00195
+Turkey,Spain,0.00305
+Turkey,Saudi Arabia,0.00435
+Turkey,Netherlands,0.00425
+Turkey,Iran,0.0049
+Turkey,Algeria,0.00485
+Turkey,Egypt,0.0032
+Turkey,Bulgaria,0.0079
+Turkey,Tunisia,0.00385
+Turkey,Seychelles,0.0029
+Turkey,Kuwait,0.00465
+Turkey,Iraq,0.0102
+Turkey,UK,0.0083
+Turkey,Italy,0.01105
+Turkey,Malta,0.00645
+Turkey,USA,0.01315
+Turkey,Syria,0.01135
+Turkey,Jordan,0.01165
+Turkey,Cyprus,0.01135
+Uganda,Tunisia,0.0001
+Uganda,Sweden,0.00035
+Uganda,Egypt,0.0001
+Uganda,New Zealand,0.0001
+Uganda,Mexico,0.0001
+Uganda,Untd Arab Em,0.0001
+Uganda,Argentina,0.0001
+Uganda,Philippines,0.0001
+Uganda,Morocco,0.0001
+Uganda,Ireland,0.0003
+Uganda,Indonesia,0.00025
+Uganda,Malaysia,0.0002
+Uganda,Turkey,0.0002
+Uganda,Finland,0.0002
+Uganda,India,0.00245
+Uganda,China,0.0009
+Uganda,South Africa,0.0026
+Uganda,Saudi Arabia,0.00025
+Uganda,Thailand,0.0004
+Uganda,Greece,0.0002
+Uganda,Israel,0.00035
+Uganda,Pakistan,0.001
+Uganda,Norway,0.00045
+Uganda,Austria,0.0004
+Uganda,Canada,0.0007
+Uganda,Algeria,0.00055
+Uganda,Hong Kong,0.0008
+Uganda,Denmark,0.0008
+Uganda,Australia,0.0006
+Uganda,Singapore,0.0009
+Uganda,Portugal,0.001
+Uganda,Japan,0.0043
+Uganda,Italy,0.00445
+Uganda,Netherlands,0.00415
+Uganda,UK,0.00955
+Uganda,Spain,0.00575
+Uganda,USA,0.00825
+UK,Cambodia,0.0036
+UK,Argentina,0.00125
+UK,Brazil,0.002
+UK,Rwanda,0.002
+UK,Chad,0.0013
+UK,Mexico,0.00145
+UK,Bolivia,0.0034
+UK,Peru,0.00365
+UK,Ecuador,0.0018
+UK,Nepal,0.00235
+UK,Cuba,0.00155
+UK,Nicaragua,0.0019
+UK,Guatemala,0.0021
+UK,China,0.0032
+UK,Burundi,0.00325
+UK,El Salvador,0.0019
+UK,Madagascar,0.004
+UK,Greenland,0.00535
+UK,Burkina Faso,0.0016
+UK,Dominican Rp,0.0025
+UK,Bangladesh,0.0045
+UK,Colombia,0.00305
+UK,Costa Rica,0.0096
+UK,Afghanistan,0.00385
+UK,Honduras,0.0046
+UK,Cameroon,0.00425
+UK,Venezuela,0.00355
+UK,Chile,0.00595
+UK,Algeria,0.00505
+UK,Uruguay,0.00485
+UK,Japan,0.0076
+UK,Niger,0.0036
+UK,Indonesia,0.0056
+UK,Cote Divoire,0.0086
+UK,India,0.0049
+UK,Iran,0.0035
+UK,Mauritania,0.01065
+UK,Philippines,0.00885
+UK,Senegal,0.00475
+UK,Mali,0.00395
+UK,Iraq,0.00355
+UK,Gabon,0.00615
+UK,Bulgaria,0.0058
+UK,Syria,0.0067
+UK,Canada,0.00675
+UK,Mozambique,0.00495
+UK,Tunisia,0.0063
+UK,Thailand,0.00955
+UK,Paraguay,0.0044
+UK,Austria,0.00875
+UK,Morocco,0.00885
+UK,Panama,0.00475
+UK,Pakistan,0.0087
+UK,Australia,0.00715
+UK,Italy,0.0102
+UK,Turkey,0.0083
+UK,Sudan,0.0055
+UK,Greece,0.0083
+UK,Egypt,0.0092
+UK,Uganda,0.00955
+UK,Spain,0.01265
+UK,New Zealand,0.01625
+UK,Zimbabwe,0.01805
+UK,Suriname,0.02285
+UK,Sri Lanka,0.01985
+UK,Finland,0.0224
+UK,Malawi,0.02365
+UK,Saudi Arabia,0.0139
+UK,Kuwait,0.0142
+UK,Togo,0.0103
+UK,Jamaica,0.0293
+UK,South Africa,0.0173
+UK,Denmark,0.02295
+UK,Benin,0.0109
+UK,Norway,0.0369
+UK,Portugal,0.02185
+UK,Malaysia,0.0262
+UK,Untd Arab Em,0.01495
+UK,USA,0.02325
+UK,Sweden,0.02455
+UK,Trinidad Tbg,0.01815
+UK,Barbados,0.0206
+UK,Israel,0.01885
+UK,Iceland,0.0395
+UK,Mauritius,0.08245
+UK,Zambia,0.01985
+UK,Hong Kong,0.0276
+UK,Jordan,0.0177
+UK,Oman,0.02025
+UK,Qatar,0.01695
+UK,Kenya,0.03025
+UK,Nigeria,0.02215
+UK,Netherlands,0.04145
+UK,Sierra Leone,0.02995
+UK,Singapore,0.0395
+UK,Ghana,0.037
+UK,Bahrain,0.02835
+UK,Seychelles,0.0377
+UK,Cyprus,0.04265
+UK,Guyana,0.12475
+UK,Malta,0.06655
+UK,Ireland,0.16345
+Untd Arab Em,Ecuador,0.0001
+Untd Arab Em,Ireland,0.00055
+Untd Arab Em,Jordan,0.00275
+Untd Arab Em,Afghanistan,0.00015
+Untd Arab Em,Togo,0.0001
+Untd Arab Em,Greece,0.0003
+Untd Arab Em,Niger,0.0001
+Untd Arab Em,Cyprus,0.00105
+Untd Arab Em,Kenya,0.0004
+Untd Arab Em,Bangladesh,0.0001
+Untd Arab Em,Norway,0.0003
+Untd Arab Em,Mexico,0.0002
+Untd Arab Em,Gabon,0.0001
+Untd Arab Em,Bulgaria,0.0002
+Untd Arab Em,Sri Lanka,0.0015
+Untd Arab Em,Sierra Leone,0.0002
+Untd Arab Em,Burundi,0.0002
+Untd Arab Em,Chile,0.00045
+Untd Arab Em,Austria,0.00065
+Untd Arab Em,Algeria,0.0002
+Untd Arab Em,Denmark,0.00085
+Untd Arab Em,Finland,0.0008
+Untd Arab Em,Sweden,0.00125
+Untd Arab Em,Canada,0.0008
+Untd Arab Em,Tunisia,0.00035
+Untd Arab Em,Indonesia,0.003
+Untd Arab Em,Nigeria,0.0009
+Untd Arab Em,Seychelles,0.0005
+Untd Arab Em,Cote Divoire,0.00065
+Untd Arab Em,Malaysia,0.00285
+Untd Arab Em,Portugal,0.00085
+Untd Arab Em,Turkey,0.00195
+Untd Arab Em,China,0.00895
+Untd Arab Em,New Zealand,0.0013
+Untd Arab Em,Brazil,0.0017
+Untd Arab Em,Netherlands,0.0037
+Untd Arab Em,Senegal,0.00155
+Untd Arab Em,Hong Kong,0.0031
+Untd Arab Em,Morocco,0.00165
+Untd Arab Em,Italy,0.00885
+Untd Arab Em,Spain,0.00345
+Untd Arab Em,Saudi Arabia,0.0052
+Untd Arab Em,Philippines,0.00305
+Untd Arab Em,Kuwait,0.004
+Untd Arab Em,Madagascar,0.0027
+Untd Arab Em,Australia,0.00505
+Untd Arab Em,South Africa,0.004
+Untd Arab Em,Thailand,0.00655
+Untd Arab Em,Iran,0.0056
+Untd Arab Em,UK,0.01495
+Untd Arab Em,Pakistan,0.0066
+Untd Arab Em,Bahrain,0.0228
+Untd Arab Em,Qatar,0.00925
+Untd Arab Em,USA,0.02
+Untd Arab Em,Singapore,0.01245
+Untd Arab Em,India,0.01745
+Untd Arab Em,Oman,0.06385
+Untd Arab Em,Japan,0.0951
+Uruguay,Malta,0.0001
+Uruguay,Niger,0.0001
+Uruguay,Kuwait,0.0001
+Uruguay,Malaysia,0.00045
+Uruguay,India,0.00035
+Uruguay,Qatar,0.0001
+Uruguay,Ireland,0.00015
+Uruguay,Cyprus,0.0001
+Uruguay,Indonesia,0.00025
+Uruguay,Barbados,0.0001
+Uruguay,Philippines,0.0001
+Uruguay,Cote Divoire,0.0001
+Uruguay,Tunisia,0.0001
+Uruguay,Untd Arab Em,0.0001
+Uruguay,Syria,0.0002
+Uruguay,Australia,0.0003
+Uruguay,Morocco,0.00015
+Uruguay,Denmark,0.00035
+Uruguay,Algeria,0.0002
+Uruguay,Iraq,0.0003
+Uruguay,Thailand,0.0004
+Uruguay,Bolivia,0.0003
+Uruguay,Greece,0.00025
+Uruguay,Jamaica,0.0002
+Uruguay,Norway,0.00025
+Uruguay,Ecuador,0.00095
+Uruguay,Jordan,0.0004
+Uruguay,Finland,0.0003
+Uruguay,Singapore,0.00065
+Uruguay,Turkey,0.0003
+Uruguay,Sweden,0.0006
+Uruguay,South Africa,0.00045
+Uruguay,Portugal,0.0004
+Uruguay,Ghana,0.0007
+Uruguay,Austria,0.00055
+Uruguay,Colombia,0.00055
+Uruguay,Venezuela,0.0016
+Uruguay,Saudi Arabia,0.00075
+Uruguay,Peru,0.00075
+Uruguay,Nigeria,0.00375
+Uruguay,Paraguay,0.00195
+Uruguay,Japan,0.00325
+Uruguay,Mexico,0.00355
+Uruguay,Canada,0.0016
+Uruguay,Chile,0.00225
+Uruguay,Togo,0.0019
+Uruguay,Hong Kong,0.0026
+Uruguay,Netherlands,0.00185
+Uruguay,Spain,0.00425
+Uruguay,Israel,0.0019
+Uruguay,Iran,0.003
+Uruguay,Egypt,0.0042
+Uruguay,Italy,0.0063
+Uruguay,China,0.0044
+Uruguay,UK,0.00485
+Uruguay,Argentina,0.0243
+Uruguay,USA,0.01955
+Uruguay,Brazil,0.037
+USA,Cuba,0.0001
+USA,Iran,0.0021
+USA,Afghanistan,0.002
+USA,Cambodia,0.0254
+USA,Uganda,0.00825
+USA,Burundi,0.0066
+USA,Nepal,0.01325
+USA,Chad,0.0056
+USA,Niger,0.00475
+USA,Greenland,0.00795
+USA,Cameroon,0.01705
+USA,Iraq,0.0147
+USA,Burkina Faso,0.0035
+USA,Madagascar,0.01365
+USA,Mali,0.00425
+USA,Bangladesh,0.01705
+USA,Malawi,0.01895
+USA,Sudan,0.0044
+USA,Greece,0.00615
+USA,Rwanda,0.00735
+USA,India,0.01135
+USA,Mauritius,0.0342
+USA,Bulgaria,0.00735
+USA,Italy,0.01185
+USA,Cote Divoire,0.02205
+USA,Zimbabwe,0.0122
+USA,Syria,0.007
+USA,Portugal,0.0115
+USA,Austria,0.0111
+USA,Senegal,0.00705
+USA,Kenya,0.0116
+USA,Denmark,0.0139
+USA,Zambia,0.0144
+USA,Gabon,0.12165
+USA,Finland,0.01465
+USA,Mozambique,0.01075
+USA,Spain,0.01085
+USA,Norway,0.01805
+USA,Sri Lanka,0.05315
+USA,Benin,0.01035
+USA,Brazil,0.01635
+USA,Togo,0.0122
+USA,Argentina,0.0123
+USA,Japan,0.0225
+USA,Morocco,0.01095
+USA,Algeria,0.0322
+USA,Turkey,0.01315
+USA,Uruguay,0.01955
+USA,Sweden,0.02115
+USA,China,0.0384
+USA,Oman,0.0201
+USA,Tunisia,0.01115
+USA,Pakistan,0.0189
+USA,Qatar,0.01665
+USA,Mauritania,0.01275
+USA,Sierra Leone,0.0302
+USA,Cyprus,0.01225
+USA,Iceland,0.03095
+USA,Indonesia,0.0359
+USA,South Africa,0.02155
+USA,Nigeria,0.0967
+USA,UK,0.02325
+USA,Untd Arab Em,0.02
+USA,Ghana,0.0291
+USA,Bolivia,0.02975
+USA,Australia,0.02235
+USA,Netherlands,0.0262
+USA,Peru,0.0346
+USA,Malta,0.0413
+USA,New Zealand,0.03305
+USA,Kuwait,0.03855
+USA,Ecuador,0.0639
+USA,Colombia,0.046
+USA,Saudi Arabia,0.052
+USA,Seychelles,0.029
+USA,Chile,0.04145
+USA,Thailand,0.06145
+USA,Nicaragua,0.0549
+USA,Egypt,0.02955
+USA,Jordan,0.02775
+USA,Venezuela,0.09195
+USA,Israel,0.0624
+USA,Paraguay,0.0315
+USA,Bahrain,0.04415
+USA,Philippines,0.08665
+USA,Ireland,0.07165
+USA,Guatemala,0.0892
+USA,Barbados,0.06195
+USA,Hong Kong,0.0909
+USA,El Salvador,0.1028
+USA,Trinidad Tbg,0.1575
+USA,Panama,0.0793
+USA,Malaysia,0.146
+USA,Mexico,0.1352
+USA,Costa Rica,0.15985
+USA,Dominican Rp,0.178
+USA,Guyana,0.17575
+USA,Suriname,0.13635
+USA,Canada,0.1883
+USA,Honduras,0.25745
+USA,Jamaica,0.1728
+USA,Singapore,0.22315
+Venezuela,India,0.0001
+Venezuela,Algeria,0.0001
+Venezuela,Jordan,0.0003
+Venezuela,Finland,0.00025
+Venezuela,Egypt,0.0001
+Venezuela,Austria,0.00025
+Venezuela,Nigeria,0.00025
+Venezuela,Morocco,0.0001
+Venezuela,Iraq,0.0001
+Venezuela,Pakistan,0.0001
+Venezuela,Indonesia,0.00015
+Venezuela,New Zealand,0.00055
+Venezuela,Greece,0.0001
+Venezuela,Iran,0.0001
+Venezuela,Qatar,0.00025
+Venezuela,Thailand,0.0002
+Venezuela,Hong Kong,0.0002
+Venezuela,Paraguay,0.0015
+Venezuela,Turkey,0.00015
+Venezuela,Bulgaria,0.0002
+Venezuela,Norway,0.00035
+Venezuela,Senegal,0.0004
+Venezuela,China,0.00045
+Venezuela,Denmark,0.00045
+Venezuela,Iceland,0.0005
+Venezuela,Niger,0.0005
+Venezuela,Argentina,0.00155
+Venezuela,Portugal,0.00035
+Venezuela,Singapore,0.0005
+Venezuela,Ghana,0.0008
+Venezuela,Kuwait,0.0009
+Venezuela,Bolivia,0.0015
+Venezuela,Sweden,0.0014
+Venezuela,Netherlands,0.0022
+Venezuela,Togo,0.00125
+Venezuela,Uruguay,0.0016
+Venezuela,Mexico,0.00305
+Venezuela,Cuba,0.0016
+Venezuela,Spain,0.00335
+Venezuela,Cote Divoire,0.0033
+Venezuela,UK,0.00355
+Venezuela,Barbados,0.00265
+Venezuela,Greenland,0.0029
+Venezuela,Chile,0.0032
+Venezuela,Ecuador,0.00325
+Venezuela,Italy,0.00655
+Venezuela,Peru,0.00415
+Venezuela,Japan,0.0074
+Venezuela,Honduras,0.0038
+Venezuela,Guatemala,0.0042
+Venezuela,Guyana,0.01355
+Venezuela,El Salvador,0.0051
+Venezuela,Brazil,0.0079
+Venezuela,Canada,0.00735
+Venezuela,Panama,0.01365
+Venezuela,Colombia,0.00885
+Venezuela,Costa Rica,0.0066
+Venezuela,Jamaica,0.0076
+Venezuela,Nicaragua,0.00765
+Venezuela,Dominican Rp,0.0086
+Venezuela,Burkina Faso,0.0139
+Venezuela,Trinidad Tbg,0.01235
+Venezuela,Suriname,0.0161
+Venezuela,USA,0.09195
+Zambia,Norway,0.0004
+Zambia,Nigeria,0.0001
+Zambia,Oman,0.0029
+Zambia,Israel,0.0004
+Zambia,New Zealand,0.0001
+Zambia,Tunisia,0.00045
+Zambia,Bulgaria,0.0001
+Zambia,Untd Arab Em,0.0001
+Zambia,Denmark,0.0008
+Zambia,Argentina,0.0003
+Zambia,Cote Divoire,0.0002
+Zambia,Ireland,0.0007
+Zambia,Morocco,0.0002
+Zambia,Philippines,0.0003
+Zambia,Austria,0.0006
+Zambia,Sudan,0.0004
+Zambia,Australia,0.00055
+Zambia,Mexico,0.0004
+Zambia,Spain,0.00055
+Zambia,Turkey,0.00045
+Zambia,Brazil,0.00085
+Zambia,Hong Kong,0.0011
+Zambia,Portugal,0.0008
+Zambia,Egypt,0.0015
+Zambia,Pakistan,0.00145
+Zambia,Kuwait,0.0015
+Zambia,Canada,0.0023
+Zambia,Sweden,0.00265
+Zambia,Finland,0.00305
+Zambia,Netherlands,0.0027
+Zambia,Algeria,0.005
+Zambia,Greece,0.0019
+Zambia,Indonesia,0.0022
+Zambia,China,0.00415
+Zambia,South Africa,0.0636
+Zambia,Singapore,0.0044
+Zambia,Malaysia,0.00575
+Zambia,UK,0.01985
+Zambia,USA,0.0144
+Zambia,Saudi Arabia,0.01485
+Zambia,Italy,0.0109
+Zambia,Thailand,0.01095
+Zambia,India,0.01395
+Zambia,Japan,0.04145
+Zimbabwe,Cyprus,0.0001
+Zimbabwe,Saudi Arabia,0.0002
+Zimbabwe,Oman,0.0001
+Zimbabwe,Chile,0.0001
+Zimbabwe,Argentina,0.00055
+Zimbabwe,Kuwait,0.00015
+Zimbabwe,Untd Arab Em,0.0002
+Zimbabwe,Sri Lanka,0.0002
+Zimbabwe,New Zealand,0.0002
+Zimbabwe,Pakistan,0.0003
+Zimbabwe,Tunisia,0.0003
+Zimbabwe,Brazil,0.00115
+Zimbabwe,Iran,0.0002
+Zimbabwe,Morocco,0.0004
+Zimbabwe,Cote Divoire,0.0004
+Zimbabwe,Algeria,0.0004
+Zimbabwe,Mexico,0.00065
+Zimbabwe,Finland,0.00095
+Zimbabwe,Cameroon,0.0006
+Zimbabwe,Egypt,0.0007
+Zimbabwe,Nigeria,0.0008
+Zimbabwe,Norway,0.00065
+Zimbabwe,Ireland,0.0006
+Zimbabwe,Malaysia,0.00065
+Zimbabwe,Bulgaria,0.001
+Zimbabwe,Greece,0.00055
+Zimbabwe,Turkey,0.00055
+Zimbabwe,Israel,0.0016
+Zimbabwe,Hong Kong,0.001
+Zimbabwe,Seychelles,0.0011
+Zimbabwe,Canada,0.00115
+Zimbabwe,Jordan,0.0012
+Zimbabwe,Thailand,0.0008
+Zimbabwe,Denmark,0.0012
+Zimbabwe,Sweden,0.0016
+Zimbabwe,Singapore,0.00135
+Zimbabwe,Austria,0.00135
+Zimbabwe,India,0.00135
+Zimbabwe,Philippines,0.0018
+Zimbabwe,Indonesia,0.0011
+Zimbabwe,Australia,0.0021
+Zimbabwe,Portugal,0.0021
+Zimbabwe,Spain,0.00285
+Zimbabwe,China,0.00505
+Zimbabwe,Netherlands,0.00555
+Zimbabwe,Italy,0.0081
+Zimbabwe,USA,0.0122
+Zimbabwe,Japan,0.01285
+Zimbabwe,UK,0.01805
+Zimbabwe,South Africa,0.07365
