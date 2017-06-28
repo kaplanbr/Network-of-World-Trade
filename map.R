@@ -4,8 +4,6 @@ library(geosphere)
 library(mapdata)
 library(extrafont)
 
-getwd()
-
 edges <- read.csv("post80_perc_avg.csv",header=T, as.is=T,sep=",")
 lat_lon <- read.csv("lat_lon.csv",header=T, as.is=T,sep=",")
 
