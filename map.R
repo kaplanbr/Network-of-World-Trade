@@ -33,5 +33,3 @@ for(i in 1:nrow(edges_f))  {
     lines(arc, col=edge.col[edge.ind], lwd=log10(edge.ind))
     }
 }
-
-
