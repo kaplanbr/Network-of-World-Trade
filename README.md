@@ -4,4 +4,6 @@ Simple reproduction of famous facebook friendship visual with post-1980 average 
 
 Visual is coded in R. 
 
+![](map.PNG)
+
 
